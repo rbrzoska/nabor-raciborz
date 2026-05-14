@@ -10,6 +10,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
@@ -43,7 +45,4 @@ jobs:
             git commit -m "data: update nabor raciborz $(date -u +%Y-%m-%dT%H:%M)Z"
 
       - name: Push
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+        run: git push origin HEAD:${{ github.ref_name }}
