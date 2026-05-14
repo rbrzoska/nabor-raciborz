@@ -1,0 +1,23 @@
+[build]
+  publish = "."
+  # Pomijamy katalog netlify/functions — dane serwowane jako statyczny plik
+  ignore = "exit 1"   # wymuś zawsze build (dane JSON mogą się zmienić)
+
+# /api/data → statyczny data/raciborz.json (ten sam URL co w local server.js)
+[[redirects]]
+  from  = "/api/data"
+  to    = "/data/raciborz.json"
+  status = 200
+  force  = true
+
+[[headers]]
+  for = "/data/raciborz.json"
+  [headers.values]
+    Cache-Control = "public, max-age=1800, stale-while-revalidate=3600"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/api/data"
+  [headers.values]
+    Cache-Control = "public, max-age=1800, stale-while-revalidate=3600"
+    Access-Control-Allow-Origin = "*"

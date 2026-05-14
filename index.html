@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Statystyki Naboru – Racibórz 2026</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, Arial, sans-serif; background: #f0f4f8; color: #222; min-height: 100vh; }
+
+  header { background: linear-gradient(135deg, #1a5080, #2d6a9f); color: white; padding: 20px 24px 16px; }
+  header h1 { font-size: 1.4em; font-weight: 700; }
+  header .sub { font-size: 0.85em; opacity: 0.85; margin-top: 4px; }
+  .meta-bar { background: #1a4060; color: #cde; font-size: 0.78em; padding: 6px 24px; display: flex; gap: 20px; align-items: center; flex-wrap: wrap; }
+  .meta-bar span { display: flex; align-items: center; gap: 5px; }
+
+  main { max-width: 1300px; margin: 0 auto; padding: 20px 16px 60px; }
+
+  /* Controls */
+  .controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 16px; }
+  .controls input { flex: 1; min-width: 200px; padding: 8px 12px; border: 1px solid #c8d8e8; border-radius: 6px; font-size: 0.9em; }
+  .controls select { padding: 8px 10px; border: 1px solid #c8d8e8; border-radius: 6px; font-size: 0.9em; background: white; }
+  .btn { padding: 8px 18px; background: #2d6a9f; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9em; white-space: nowrap; }
+  .btn:hover { background: #1a5080; }
+  .btn.secondary { background: #5a8fb5; }
+  .btn.secondary:hover { background: #4a7fa5; }
+
+  /* Summary cards */
+  .summary-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 24px; }
+  .card { background: white; border-radius: 8px; padding: 14px 16px; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+  .card .val { font-size: 1.8em; font-weight: 700; color: #1a5080; }
+  .card .lbl { font-size: 0.78em; color: #666; margin-top: 2px; }
+
+  /* Section navigation */
+  .school-nav { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+  .school-nav a { font-size: 0.8em; padding: 4px 10px; background: white; border: 1px solid #c8d8e8; border-radius: 20px; text-decoration: none; color: #2d6a9f; transition: all .15s; }
+  .school-nav a:hover { background: #2d6a9f; color: white; }
+
+  /* Summary table */
+  .section-title { font-size: 1.1em; font-weight: 700; color: #1a5080; margin: 28px 0 10px; padding-bottom: 6px; border-bottom: 2px solid #2d6a9f; }
+
+  table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 1px 4px rgba(0,0,0,.08); border-radius: 8px; overflow: hidden; margin-bottom: 8px; font-size: 0.88em; }
+  thead { background: #2d6a9f; color: white; }
+  th { padding: 10px 8px; text-align: center; font-weight: 600; white-space: nowrap; cursor: pointer; user-select: none; position: relative; }
+  th:first-child { text-align: left; }
+  th:hover { background: #1a5080; }
+  th.sort-asc::after  { content: ' ▲'; font-size: 0.75em; }
+  th.sort-desc::after { content: ' ▼'; font-size: 0.75em; }
+  td { padding: 8px; border-bottom: 1px solid #eef2f7; }
+  td:not(:first-child) { text-align: center; }
+  tr:last-child td { border-bottom: none; }
+  tr.razem { background: #e8f0fb; font-weight: 700; }
+  tr.razem td { border-top: 2px solid #2d6a9f; }
+  tbody tr:not(.razem):hover { background: #f0f6ff; }
+
+  .confirmed   { color: #1a7a3a; font-weight: 600; }
+  .unconfirmed { color: #888; }
+  .ratio-high  { color: #c0392b; font-weight: 700; }
+  .ratio-med   { color: #d4740a; font-weight: 600; }
+  .ratio-ok    { color: #1a7a3a; }
+
+  /* Fill bar */
+  .bar-wrap  { display: inline-flex; width: 70px; height: 10px; background: #e0e8f0; border-radius: 5px; vertical-align: middle; margin-left: 6px; overflow: hidden; }
+  .bar-inner { height: 10px; border-radius: 5px; background: #2d6a9f; transition: width .3s; }
+  .bar-over  { background: #c0392b; }
+
+  /* School sections */
+  .school-block { margin-bottom: 32px; scroll-margin-top: 16px; }
+  .school-block h2 { font-size: 1em; background: #2d6a9f; color: white; padding: 9px 14px; border-radius: 6px 6px 0 0; margin-bottom: 0; }
+
+  /* Legend */
+  .legend { background: white; border-left: 4px solid #2d6a9f; padding: 10px 16px; border-radius: 0 6px 6px 0; margin-bottom: 20px; font-size: 0.82em; color: #555; }
+  .legend ul { padding-left: 18px; margin-top: 4px; }
+  .legend li { margin-bottom: 2px; }
+
+  /* Status */
+  #status { font-size: 0.82em; color: #666; }
+  #status.loading { color: #2d6a9f; }
+  #status.error   { color: #c00; }
+  #status.ok      { color: #1a7a3a; }
+
+  /* Update button */
+  .btn.update { background: #1a7a3a; }
+  .btn.update:hover { background: #145f2d; }
+  .btn.update:disabled { background: #7aaa8a; cursor: not-allowed; }
+  .btn.update.running { background: #b85c00; animation: pulse .9s ease-in-out infinite alternate; }
+  @keyframes pulse { from { opacity: 1; } to { opacity: .7; } }
+
+  /* Scrape log panel */
+  #scrapePanel {
+    display: none;
+    background: #0d1117;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.25);
+  }
+  #scrapePanel.visible { display: block; }
+  #scrapePanel .panel-header {
+    background: #161b22;
+    padding: 8px 14px;
+    font-size: 0.8em;
+    color: #8b949e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #scrapePanel .panel-header button {
+    background: none; border: none; color: #8b949e; cursor: pointer; font-size: 1em; padding: 0 4px;
+  }
+  #scrapePanel .panel-header button:hover { color: #fff; }
+  #scrapeLog {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 0.78em;
+    color: #c9d1d9;
+    padding: 12px 14px;
+    max-height: 220px;
+    overflow-y: auto;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    word-break: break-all;
+  }
+  #scrapeLog .log-ok   { color: #56d364; }
+  #scrapeLog .log-err  { color: #f85149; }
+  #scrapeLog .log-info { color: #79c0ff; }
+
+  .no-data { text-align: center; padding: 40px; color: #888; font-size: 1em; }
+
+  @media (max-width: 600px) {
+    th, td { padding: 6px 4px; font-size: 0.8em; }
+    .bar-wrap { display: none; }
+    .summary-cards { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📊 Statystyki Naboru Śląskie 2026 – Racibórz</h1>
+  <div class="sub">Źródło: slaskie.edu.com.pl | Dane: <span id="scrapedAt">—</span></div>
+</header>
+<div class="meta-bar">
+  <span>🏫 Szkół: <strong id="metaSchools">—</strong></span>
+  <span>🪑 Miejsc: <strong id="metaPlaces">—</strong></span>
+  <span>✅ Potwierdzeni: <strong id="metaConf">—</strong></span>
+  <span>⏳ Niepotwierdzone: <strong id="metaUnconf">—</strong></span>
+  <span>👥 Chętni łącznie: <strong id="metaTotal">—</strong></span>
+</div>
+
+<main>
+
+  <div class="controls">
+    <input type="text" id="filterInput" placeholder="🔍 Filtruj po nazwie szkoły lub kierunku…" oninput="applyFilters()">
+    <select id="typeFilter" onchange="applyFilters()">
+      <option value="">Wszystkie typy</option>
+      <option value="Liceum">Liceum</option>
+      <option value="Technikum">Technikum</option>
+      <option value="Branżowa">Branżowa</option>
+    </select>
+    <button class="btn secondary" onclick="loadData()">🔄 Odśwież JSON</button>
+    <button class="btn update" id="updateBtn" onclick="runScraper()">⬇ Pobierz aktualne dane</button>
+    <span id="autoUpdateNote" style="display:none;font-size:0.8em;color:#555">🔄 Auto-aktualizacja co 30 min</span>
+    <span id="status"></span>
+  </div>
+
+  <!-- Scraper live log -->
+  <div id="scrapePanel">
+    <div class="panel-header">
+      <span id="panelTitle">⏳ Scrapowanie…</span>
+      <button onclick="closeScrapePanel()" title="Zamknij">✕</button>
+    </div>
+    <div id="scrapeLog"></div>
+  </div>
+
+  <div class="legend">
+    <strong>Legenda:</strong>
+    <ul>
+      <li><span class="confirmed">Zielony</span> = potwierdzeni kandydaci | <span class="unconfirmed">Szary</span> = niepotwierdzone wnioski</li>
+      <li><strong>Chętnych/miejsce</strong>: <span class="ratio-high">czerwony ≥1.0</span>, <span class="ratio-med">pomarańczowy ≥0.5</span>, <span class="ratio-ok">zielony &lt;0.5</span></li>
+      <li>Kliknij nagłówek kolumny → sortowanie. Pasek = zapełnienie (względem miejsc).</li>
+    </ul>
+  </div>
+
+  <!-- Summary cards -->
+  <div class="summary-cards" id="summaryCards"></div>
+
+  <!-- School nav anchors -->
+  <div class="section-title">🏫 Zestawienie zbiorcze</div>
+  <table id="summaryTable">
+    <thead>
+      <tr>
+        <th onclick="sortTable('summaryTable',0,this)">Szkoła</th>
+        <th onclick="sortTable('summaryTable',1,this)">Miejsc</th>
+        <th onclick="sortTable('summaryTable',2,this)">Chętni ogółem</th>
+        <th onclick="sortTable('summaryTable',3,this)">Potwierdzeni</th>
+        <th onclick="sortTable('summaryTable',4,this)">Niepotwierdzone</th>
+        <th onclick="sortTable('summaryTable',5,this)">Chętnych/miejsce</th>
+        <th onclick="sortTable('summaryTable',6,this)">Zapełnienie</th>
+      </tr>
+    </thead>
+    <tbody id="summaryBody"></tbody>
+  </table>
+
+  <!-- Per-school jump links -->
+  <div class="section-title" style="margin-top:32px">📋 Szczegóły wg szkół</div>
+  <div class="school-nav" id="schoolNav"></div>
+  <div id="detailSection"></div>
+
+</main>
+
+<script>
+const DATA_URL = '/api/data';
+const IS_LOCAL = ['localhost', '127.0.0.1', ''].includes(location.hostname);
+let rawData = null;
+let sortState = {};
+
+// ── Data loading ──────────────────────────────────────────────────────────────
+async function loadData() {
+  setStatus('Ładowanie danych…', 'loading');
+  try {
+    const r = await fetch(DATA_URL + '?_=' + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const json = await r.json();
+    rawData = json;
+    renderAll(json);
+    setStatus(`✅ Dane z ${fmtDate(json.meta?.scrapedAt)}`, 'ok');
+  } catch (e) {
+    setStatus('❌ Błąd: ' + e.message + ' — uruchom najpierw scraper.js', 'error');
+    renderPlaceholder();
+  }
+}
+
+function setStatus(msg, cls='') {
+  const el = document.getElementById('status');
+  el.textContent = msg;
+  el.className = cls;
+}
+
+function fmtDate(iso) {
+  if (!iso) return '—';
+  try { return new Date(iso).toLocaleString('pl-PL'); } catch { return iso; }
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function computeTotals(schools) {
+  let totalConfirmed = 0, totalUnconfirmed = 0, totalPlaces = 0;
+  for (const s of Object.values(schools)) {
+    totalPlaces     += s.places || 0;
+    totalConfirmed  += s.razem?.totalConfirmed || 0;
+    totalUnconfirmed+= razemUnconfirmed(s);
+  }
+  return { totalPlaces, totalConfirmed, totalUnconfirmed, totalCandidates: totalConfirmed + totalUnconfirmed };
+}
+
+function renderAll(data) {
+  const { meta, schools } = data;
+  const totals = { ...meta, ...computeTotals(schools) };
+  renderMeta(totals);
+  renderCards(totals, schools);
+  const filtered = filterSchools(schools);
+  renderSummary(filtered);
+  renderDetails(filtered);
+  renderNav(filtered);
+}
+
+function renderMeta(m) {
+  document.getElementById('scrapedAt').textContent  = fmtDate(m?.scrapedAt);
+  document.getElementById('metaSchools').textContent = m?.schoolCount ?? '—';
+  document.getElementById('metaPlaces').textContent  = m?.totalPlaces  ?? '—';
+  document.getElementById('metaConf').textContent    = m?.totalConfirmed ?? '—';
+  document.getElementById('metaUnconf').textContent  = m?.totalUnconfirmed ?? '—';
+  document.getElementById('metaTotal').textContent   = m?.totalCandidates ?? '—';
+}
+
+function renderCards(meta, schools) {
+  const byType = {};
+  for (const s of Object.values(schools)) {
+    const type = guessType(s.name);
+    byType[type] = (byType[type] || 0) + 1;
+  }
+  const cards = document.getElementById('summaryCards');
+  cards.innerHTML = Object.entries(byType).map(([type, n]) =>
+    `<div class="card"><div class="val">${n}</div><div class="lbl">${type}</div></div>`
+  ).join('');
+
+  const ratio = meta.totalPlaces > 0 ? (meta.totalCandidates / meta.totalPlaces).toFixed(2) : '—';
+  cards.innerHTML += `<div class="card"><div class="val">${ratio}</div><div class="lbl">Chętnych/miejsce (śr.)</div></div>`;
+}
+
+function guessType(name) {
+  if (/Liceum Ogólno/i.test(name)) return 'Liceum ogólnokształcące';
+  if (/Liceum Sztuk/i.test(name))  return 'Liceum artystyczne';
+  if (/Technikum/i.test(name))     return 'Technikum';
+  if (/Branżowa/i.test(name))      return 'Szkoła branżowa';
+  return 'Inne';
+}
+
+function ratioClass(r) {
+  if (r >= 1.0) return 'ratio-high';
+  if (r >= 0.5) return 'ratio-med';
+  return 'ratio-ok';
+}
+
+function barHtml(confirmed, unconfirmed, places) {
+  if (!places) return '';
+  const pct = Math.min(100, Math.round((confirmed + unconfirmed) / places * 100));
+  const cls = pct >= 100 ? 'bar-over' : '';
+  return `<span class="bar-wrap"><span class="bar-inner ${cls}" style="width:${pct}%"></span></span>`;
+}
+
+function classesUnconfirmed(s) {
+  return (s.classes || []).reduce((sum, c) => sum + (c.totalUnconfirmed || 0), 0);
+}
+
+function razemUnconfirmed(s) {
+  const r = s.razem || {};
+  // Website RAZEM row omits unconfirmed ("10*") — fall back to sum of classes
+  return r.totalUnconfirmed || classesUnconfirmed(s);
+}
+
+function renderSummary(schools) {
+  const tbody = document.getElementById('summaryBody');
+  tbody.innerHTML = '';
+  const entries = Object.values(schools).sort((a,b) => a.name.localeCompare(b.name, 'pl'));
+  for (const s of entries) {
+    const r = s.razem || {};
+    const unconf = razemUnconfirmed(s);
+    const total = (r.totalConfirmed||0) + unconf;
+    const ratio = s.places > 0 ? total / s.places : null;
+    const ratioStr = ratio !== null ? ratio.toFixed(2) : '—';
+    const rCls = ratio !== null ? ratioClass(ratio) : '';
+    const tr = document.createElement('tr');
+    tr.dataset.name = s.name;
+    tr.innerHTML = `
+      <td><a href="#school-${slug(s.name)}" style="color:#1a5080;text-decoration:none">${s.name}</a></td>
+      <td>${s.places || 0}</td>
+      <td data-val="${total}"><span class="confirmed">${r.totalConfirmed||0}</span> + <span class="unconfirmed">${unconf}</span> = <strong>${total}</strong></td>
+      <td data-val="${r.totalConfirmed||0}" class="confirmed">${r.totalConfirmed||0}</td>
+      <td data-val="${unconf}" class="unconfirmed">${unconf}</td>
+      <td data-val="${ratio ?? -1}" class="${rCls}">${ratioStr}</td>
+      <td>${barHtml(r.totalConfirmed||0, unconf, s.places)}</td>`;
+    tbody.appendChild(tr);
+  }
+}
+
+function renderDetails(schools) {
+  const container = document.getElementById('detailSection');
+  container.innerHTML = '';
+  for (const s of Object.values(schools)) {
+    const block = document.createElement('div');
+    block.className = 'school-block';
+    block.id = 'school-' + slug(s.name);
+
+    const h2 = document.createElement('h2');
+    h2.textContent = s.name + (s.places ? ` — ${s.places} miejsc` : '');
+    block.appendChild(h2);
+
+    const tid = 'tbl-' + slug(s.name);
+    const table = document.createElement('table');
+    table.id = tid;
+    table.innerHTML = `<thead><tr>
+      <th onclick="sortTable('${tid}',0,this)">Oddział / kierunek</th>
+      <th onclick="sortTable('${tid}',1,this)">Miejsc</th>
+      <th onclick="sortTable('${tid}',2,this)">Chętni ogółem</th>
+      <th onclick="sortTable('${tid}',3,this)">Potwierdzeni</th>
+      <th onclick="sortTable('${tid}',4,this)">Niepotwierdzone</th>
+      <th onclick="sortTable('${tid}',5,this)">1. preferencja (potw.+niepotw.)</th>
+      <th onclick="sortTable('${tid}',6,this)">Chętnych/miejsce</th>
+      <th>Zapełnienie</th>
+    </tr></thead>`;
+
+    const tbody = document.createElement('tbody');
+    for (const cls of s.classes) {
+      const total = cls.totalConfirmed + cls.totalUnconfirmed;
+      const ratio = cls.places > 0 ? total / cls.places : null;
+      const ratioStr = ratio !== null ? ratio.toFixed(2) : '—';
+      const rCls = ratio !== null ? ratioClass(ratio) : '';
+      const firstTotal = (cls.firstConfirmed||0) + (cls.firstUnconfirmed||0);
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${cls.section}</td>
+        <td>${cls.places}</td>
+        <td data-val="${total}"><span class="confirmed">${cls.totalConfirmed}</span> + <span class="unconfirmed">${cls.totalUnconfirmed}</span> = <strong>${total}</strong></td>
+        <td data-val="${cls.totalConfirmed}" class="confirmed">${cls.totalConfirmed}</td>
+        <td data-val="${cls.totalUnconfirmed}" class="unconfirmed">${cls.totalUnconfirmed}</td>
+        <td data-val="${firstTotal}"><span class="confirmed">${cls.firstConfirmed||0}</span> + <span class="unconfirmed">${cls.firstUnconfirmed||0}</span> = <strong>${firstTotal}</strong></td>
+        <td data-val="${ratio ?? -1}" class="${rCls}">${ratioStr}</td>
+        <td>${barHtml(cls.totalConfirmed, cls.totalUnconfirmed, cls.places)}</td>`;
+      tbody.appendChild(tr);
+    }
+
+    // RAZEM row
+    const r = s.razem || {};
+    const rUnconf = razemUnconfirmed(s);
+    const totalR = (r.totalConfirmed||0) + rUnconf;
+    const ratioR = s.places > 0 ? totalR / s.places : null;
+    const firstR = (r.firstConfirmed||0) + (r.firstUnconfirmed||0);
+    const trR = document.createElement('tr');
+    trR.className = 'razem';
+    trR.innerHTML = `
+      <td>RAZEM szkoła</td>
+      <td>${s.places}</td>
+      <td><span class="confirmed">${r.totalConfirmed||0}</span> + <span class="unconfirmed">${rUnconf}</span> = <strong>${totalR}</strong></td>
+      <td class="confirmed">${r.totalConfirmed||0}</td>
+      <td class="unconfirmed">${rUnconf}</td>
+      <td><span class="confirmed">${r.firstConfirmed||0}</span> + <span class="unconfirmed">${r.firstUnconfirmed||0}</span> = <strong>${firstR}</strong></td>
+      <td class="${ratioR !== null ? ratioClass(ratioR) : ''}">${ratioR !== null ? ratioR.toFixed(2) : '—'}</td>
+      <td>${barHtml(r.totalConfirmed||0, rUnconf, s.places)}</td>`;
+    tbody.appendChild(trR);
+    table.appendChild(tbody);
+    block.appendChild(table);
+    container.appendChild(block);
+  }
+}
+
+function renderNav(schools) {
+  const nav = document.getElementById('schoolNav');
+  nav.innerHTML = Object.values(schools).map(s =>
+    `<a href="#school-${slug(s.name)}">${s.name.replace(/\s*\(.*?\)\s*/g,'').trim()}</a>`
+  ).join('');
+}
+
+function renderPlaceholder() {
+  document.getElementById('summaryBody').innerHTML =
+    `<tr><td colspan="7" class="no-data">Brak danych. Uruchom: <code>node scraper.js</code></td></tr>`;
+  document.getElementById('detailSection').innerHTML =
+    `<div class="no-data">Uruchom scraper, aby pobrać aktualne dane.<br>
+     <code style="background:#eee;padding:4px 8px;border-radius:4px;font-size:0.9em">cd projects/szkoly && npm install && node scraper.js</code></div>`;
+}
+
+// ── Filter ────────────────────────────────────────────────────────────────────
+function applyFilters() {
+  if (!rawData) return;
+  renderAll(rawData);
+}
+
+function filterSchools(schools) {
+  const q    = document.getElementById('filterInput').value.toLowerCase().trim();
+  const type = document.getElementById('typeFilter').value.toLowerCase();
+  if (!q && !type) return schools;
+
+  const result = {};
+  for (const [key, s] of Object.entries(schools)) {
+    const matchType = !type || s.name.toLowerCase().includes(type);
+    if (!matchType) continue;
+    if (!q) { result[key] = s; continue; }
+
+    const nameMatch = s.name.toLowerCase().includes(q);
+    const filteredClasses = s.classes.filter(c => c.section.toLowerCase().includes(q));
+    if (nameMatch) { result[key] = s; }
+    else if (filteredClasses.length) {
+      result[key] = { ...s, classes: filteredClasses };
+    }
+  }
+  return result;
+}
+
+// ── Sort ──────────────────────────────────────────────────────────────────────
+function sortTable(tableId, colIdx, th) {
+  const table  = document.getElementById(tableId);
+  const tbody  = table.querySelector('tbody');
+  const key    = tableId + '-' + colIdx;
+  const asc    = sortState[key] !== true;
+  sortState[key] = asc;
+
+  // Update header indicators
+  table.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc','sort-desc'));
+  th.classList.add(asc ? 'sort-asc' : 'sort-desc');
+
+  const rows = Array.from(tbody.querySelectorAll('tr:not(.razem)'));
+  const razemRows = Array.from(tbody.querySelectorAll('tr.razem'));
+
+  rows.sort((a, b) => {
+    const aCell = a.cells[colIdx];
+    const bCell = b.cells[colIdx];
+    const aVal = aCell?.dataset?.val ?? aCell?.textContent?.trim() ?? '';
+    const bVal = bCell?.dataset?.val ?? bCell?.textContent?.trim() ?? '';
+    const aNum = parseFloat(aVal);
+    const bNum = parseFloat(bVal);
+    if (!isNaN(aNum) && !isNaN(bNum)) return asc ? aNum - bNum : bNum - aNum;
+    return asc ? String(aVal).localeCompare(String(bVal), 'pl') : String(bVal).localeCompare(String(aVal), 'pl');
+  });
+
+  tbody.innerHTML = '';
+  rows.forEach(r => tbody.appendChild(r));
+  razemRows.forEach(r => tbody.appendChild(r));
+}
+
+// ── Utils ─────────────────────────────────────────────────────────────────────
+function slug(s) {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,'');
+}
+
+// ── Environment setup ─────────────────────────────────────────────────────────
+(function setupEnv() {
+  if (!IS_LOCAL) {
+    // On Netlify: hide scrape button, show auto-update note
+    document.getElementById('updateBtn').style.display = 'none';
+    document.getElementById('autoUpdateNote').style.display = '';
+  }
+})();
+
+// ── Scraper (SSE) — local only ────────────────────────────────────────────────
+function runScraper() {
+  const btn   = document.getElementById('updateBtn');
+  const panel = document.getElementById('scrapePanel');
+  const log   = document.getElementById('scrapeLog');
+  const title = document.getElementById('panelTitle');
+
+  btn.disabled = true;
+  btn.classList.add('running');
+  btn.textContent = '⏳ Scrapowanie…';
+  log.innerHTML = '';
+  panel.classList.add('visible');
+  title.textContent = '⏳ Scrapowanie…';
+  setStatus('Scrapowanie…', 'loading');
+
+  const appendLog = (text, cls = '') => {
+    const line = document.createElement('div');
+    if (cls) line.className = cls;
+    line.textContent = text;
+    log.appendChild(line);
+    log.scrollTop = log.scrollHeight;
+  };
+
+  const es = new EventSource('/api/scrape');
+
+  es.addEventListener('log', e => {
+    const { line } = JSON.parse(e.data);
+    const cls = /✅|Zapisano|Znaleziono|Podsumowanie/.test(line) ? 'log-ok'
+              : /❌|Błąd|Error/.test(line) ? 'log-err'
+              : /⏳|Pobieranie|Scrapowanie|Wyszukiwanie|Otwieranie|Wybór|Klikam|Strona/.test(line) ? 'log-info'
+              : '';
+    appendLog(line, cls);
+  });
+
+  es.addEventListener('done', e => {
+    es.close();
+    const { success } = JSON.parse(e.data);
+    btn.disabled = false;
+    btn.classList.remove('running');
+    btn.textContent = '⬇ Pobierz aktualne dane';
+
+    if (success) {
+      title.textContent = '✅ Gotowe — dane zaktualizowane';
+      appendLog('✅ Scrapowanie zakończone. Przeładowuję dane…', 'log-ok');
+      setStatus('Przeładowuję dane…', 'loading');
+      setTimeout(() => loadData(), 800);
+    } else {
+      title.textContent = '❌ Scrapowanie nie powiodło się';
+      appendLog('❌ Scrapowanie zakończone błędem.', 'log-err');
+      setStatus('Błąd scrapowania — sprawdź log', 'error');
+    }
+  });
+
+  es.onerror = () => {
+    es.close();
+    btn.disabled = false;
+    btn.classList.remove('running');
+    btn.textContent = '⬇ Pobierz aktualne dane';
+    appendLog('❌ Utracono połączenie z serwerem.', 'log-err');
+    title.textContent = '❌ Błąd połączenia';
+    setStatus('Błąd połączenia z serwerem', 'error');
+  };
+}
+
+function closeScrapePanel() {
+  document.getElementById('scrapePanel').classList.remove('visible');
+}
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
