@@ -3,7 +3,7 @@ name: Scrape nabór data
 on:
   schedule:
     # Co 30 minut (GitHub Actions min granularity = 5 min)
-    - cron: '*/30 * * * *'
+    - cron: '0,30 * * * *'
   workflow_dispatch:   # ← ręczne uruchomienie z GitHub UI / CLI
 
 jobs:
