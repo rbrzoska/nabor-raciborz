@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-15T10:05:04.265Z",
+    "scrapedAt": "2026-05-15T10:44:01.351Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
-    "totalConfirmed": 161,
-    "totalUnconfirmed": 579,
-    "totalCandidates": 740
+    "totalConfirmed": 164,
+    "totalUnconfirmed": 575,
+    "totalCandidates": 739
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -180,12 +180,12 @@
         {
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
-          "totalConfirmed": 4,
-          "totalUnconfirmed": 15,
+          "totalConfirmed": 5,
+          "totalUnconfirmed": 14,
           "totalAll": 19,
           "firstConfirmed": 0,
           "firstUnconfirmed": 6,
-          "totalStr": "4(15)",
+          "totalStr": "5(14)",
           "firstStr": "0(6)"
         },
         {
@@ -257,22 +257,22 @@
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
-          "totalConfirmed": 8,
-          "totalUnconfirmed": 24,
+          "totalConfirmed": 9,
+          "totalUnconfirmed": 23,
           "totalAll": 32,
           "firstConfirmed": 0,
           "firstUnconfirmed": 11,
-          "totalStr": "8(24)",
+          "totalStr": "9(23)",
           "firstStr": "0(11)"
         }
       ],
       "razem": {
-        "totalConfirmed": 24,
-        "totalUnconfirmed": 143,
-        "totalAll": 167,
+        "totalConfirmed": 25,
+        "totalUnconfirmed": 141,
+        "totalAll": 166,
         "firstConfirmed": 0,
         "firstUnconfirmed": 27,
-        "totalStr": "24*",
+        "totalStr": "25*",
         "firstStr": "0(27)"
       }
     },
@@ -327,12 +327,12 @@
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
-          "totalConfirmed": 6,
-          "totalUnconfirmed": 23,
+          "totalConfirmed": 7,
+          "totalUnconfirmed": 22,
           "totalAll": 29,
           "firstConfirmed": 3,
           "firstUnconfirmed": 2,
-          "totalStr": "6(23)",
+          "totalStr": "7(22)",
           "firstStr": "3(2)"
         },
         {
@@ -370,12 +370,12 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 29,
-        "totalUnconfirmed": 135,
+        "totalConfirmed": 30,
+        "totalUnconfirmed": 134,
         "totalAll": 164,
         "firstConfirmed": 20,
         "firstUnconfirmed": 20,
-        "totalStr": "29*",
+        "totalStr": "30*",
         "firstStr": "20(20)"
       }
     },
@@ -478,12 +478,12 @@
         {
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
-          "totalConfirmed": 4,
-          "totalUnconfirmed": 11,
+          "totalConfirmed": 5,
+          "totalUnconfirmed": 10,
           "totalAll": 15,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "4(11)",
+          "totalStr": "5(10)",
           "firstStr": "2(1)"
         },
         {
@@ -499,12 +499,12 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 31,
-        "totalUnconfirmed": 87,
+        "totalConfirmed": 32,
+        "totalUnconfirmed": 86,
         "totalAll": 118,
         "firstConfirmed": 21,
         "firstUnconfirmed": 15,
-        "totalStr": "31*",
+        "totalStr": "32*",
         "firstStr": "21(15)"
       }
     },
