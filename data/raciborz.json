@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-16T07:11:43.226Z",
+    "scrapedAt": "2026-05-16T09:10:20.061Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 190,
-    "totalUnconfirmed": 629,
-    "totalCandidates": 819
+    "totalUnconfirmed": 647,
+    "totalCandidates": 837
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -203,77 +203,77 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 11,
-          "totalUnconfirmed": 25,
-          "totalAll": 36,
+          "totalUnconfirmed": 26,
+          "totalAll": 37,
           "firstConfirmed": 0,
           "firstUnconfirmed": 6,
-          "totalStr": "11(25)",
+          "totalStr": "11(26)",
           "firstStr": "0(6)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 3,
-          "totalUnconfirmed": 19,
-          "totalAll": 22,
+          "totalUnconfirmed": 20,
+          "totalAll": 23,
           "firstConfirmed": 0,
           "firstUnconfirmed": 3,
-          "totalStr": "3(19)",
+          "totalStr": "3(20)",
           "firstStr": "0(3)"
         },
         {
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 16,
-          "totalUnconfirmed": 28,
-          "totalAll": 44,
+          "totalUnconfirmed": 29,
+          "totalAll": 45,
           "firstConfirmed": 0,
           "firstUnconfirmed": 3,
-          "totalStr": "16(28)",
+          "totalStr": "16(29)",
           "firstStr": "0(3)"
         },
         {
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 4,
-          "totalUnconfirmed": 18,
-          "totalAll": 22,
+          "totalUnconfirmed": 19,
+          "totalAll": 23,
           "firstConfirmed": 0,
           "firstUnconfirmed": 1,
-          "totalStr": "4(18)",
+          "totalStr": "4(19)",
           "firstStr": "0(1)"
         },
         {
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 2,
-          "totalUnconfirmed": 23,
-          "totalAll": 25,
+          "totalUnconfirmed": 24,
+          "totalAll": 26,
           "firstConfirmed": 0,
           "firstUnconfirmed": 2,
-          "totalStr": "2(23)",
+          "totalStr": "2(24)",
           "firstStr": "0(2)"
         },
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 25,
-          "totalAll": 38,
+          "totalUnconfirmed": 28,
+          "totalAll": 41,
           "firstConfirmed": 0,
-          "firstUnconfirmed": 11,
-          "totalStr": "13(25)",
-          "firstStr": "0(11)"
+          "firstUnconfirmed": 12,
+          "totalStr": "13(28)",
+          "firstStr": "0(12)"
         }
       ],
       "razem": {
         "totalConfirmed": 32,
-        "totalUnconfirmed": 168,
-        "totalAll": 200,
+        "totalUnconfirmed": 176,
+        "totalAll": 208,
         "firstConfirmed": 0,
-        "firstUnconfirmed": 34,
+        "firstUnconfirmed": 35,
         "totalStr": "32*",
-        "firstStr": "0(34)"
+        "firstStr": "0(35)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 16,
-          "totalUnconfirmed": 26,
-          "totalAll": 42,
+          "totalUnconfirmed": 28,
+          "totalAll": 44,
           "firstConfirmed": 10,
           "firstUnconfirmed": 4,
-          "totalStr": "16(26)",
+          "totalStr": "16(28)",
           "firstStr": "10(4)"
         },
         {
@@ -317,66 +317,66 @@
           "section": "1HDg humanistyczno-dziennikarska (pol-geo-ang)",
           "places": 16,
           "totalConfirmed": 9,
-          "totalUnconfirmed": 27,
-          "totalAll": 36,
+          "totalUnconfirmed": 28,
+          "totalAll": 37,
           "firstConfirmed": 1,
           "firstUnconfirmed": 4,
-          "totalStr": "9(27)",
+          "totalStr": "9(28)",
           "firstStr": "1(4)"
         },
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
           "totalConfirmed": 9,
-          "totalUnconfirmed": 25,
-          "totalAll": 34,
+          "totalUnconfirmed": 27,
+          "totalAll": 36,
           "firstConfirmed": 3,
-          "firstUnconfirmed": 4,
-          "totalStr": "9(25)",
-          "firstStr": "3(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "9(27)",
+          "firstStr": "3(5)"
         },
         {
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 16,
-          "totalAll": 30,
+          "totalUnconfirmed": 17,
+          "totalAll": 31,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "14(16)",
+          "totalStr": "14(17)",
           "firstStr": "2(1)"
         },
         {
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 10,
-          "totalUnconfirmed": 20,
-          "totalAll": 30,
+          "totalUnconfirmed": 21,
+          "totalAll": 31,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 1,
-          "totalStr": "10(20)",
-          "firstStr": "2(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "10(21)",
+          "firstStr": "2(2)"
         },
         {
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 15,
-          "totalUnconfirmed": 28,
-          "totalAll": 43,
+          "totalUnconfirmed": 29,
+          "totalAll": 44,
           "firstConfirmed": 3,
           "firstUnconfirmed": 6,
-          "totalStr": "15(28)",
+          "totalStr": "15(29)",
           "firstStr": "3(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 35,
-        "totalUnconfirmed": 160,
-        "totalAll": 195,
+        "totalUnconfirmed": 168,
+        "totalAll": 203,
         "firstConfirmed": 23,
-        "firstUnconfirmed": 22,
+        "firstUnconfirmed": 24,
         "totalStr": "35*",
-        "firstStr": "23(22)"
+        "firstStr": "23(24)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -663,11 +663,11 @@
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 11,
-          "totalUnconfirmed": 12,
-          "totalAll": 23,
+          "totalUnconfirmed": 14,
+          "totalAll": 25,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "11(12)",
+          "totalStr": "11(14)",
           "firstStr": "1(1)"
         },
         {
@@ -695,8 +695,8 @@
       ],
       "razem": {
         "totalConfirmed": 20,
-        "totalUnconfirmed": 55,
-        "totalAll": 75,
+        "totalUnconfirmed": 57,
+        "totalAll": 77,
         "firstConfirmed": 12,
         "firstUnconfirmed": 10,
         "totalStr": "20*",
