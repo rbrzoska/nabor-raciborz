@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-16T14:39:00.998Z",
+    "scrapedAt": "2026-05-16T15:51:16.062Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 190,
-    "totalUnconfirmed": 704,
-    "totalCandidates": 894
+    "totalUnconfirmed": 709,
+    "totalCandidates": 899
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -203,11 +203,11 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 11,
-          "totalUnconfirmed": 26,
-          "totalAll": 37,
+          "totalUnconfirmed": 27,
+          "totalAll": 38,
           "firstConfirmed": 0,
           "firstUnconfirmed": 5,
-          "totalStr": "11(26)",
+          "totalStr": "11(27)",
           "firstStr": "0(5)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 32,
-        "totalUnconfirmed": 180,
-        "totalAll": 212,
+        "totalUnconfirmed": 181,
+        "totalAll": 213,
         "firstConfirmed": 0,
         "firstUnconfirmed": 36,
         "totalStr": "32*",
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 16,
-          "totalUnconfirmed": 28,
-          "totalAll": 44,
+          "totalUnconfirmed": 29,
+          "totalAll": 45,
           "firstConfirmed": 10,
           "firstUnconfirmed": 4,
-          "totalStr": "16(28)",
+          "totalStr": "16(29)",
           "firstStr": "10(4)"
         },
         {
@@ -371,8 +371,8 @@
       ],
       "razem": {
         "totalConfirmed": 35,
-        "totalUnconfirmed": 178,
-        "totalAll": 213,
+        "totalUnconfirmed": 179,
+        "totalAll": 214,
         "firstConfirmed": 23,
         "firstUnconfirmed": 25,
         "totalStr": "35*",
@@ -479,33 +479,33 @@
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
           "totalConfirmed": 6,
-          "totalUnconfirmed": 15,
-          "totalAll": 21,
+          "totalUnconfirmed": 16,
+          "totalAll": 22,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 3,
-          "totalStr": "6(15)",
-          "firstStr": "2(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "6(16)",
+          "firstStr": "2(4)"
         },
         {
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 12,
-          "totalUnconfirmed": 21,
-          "totalAll": 33,
+          "totalUnconfirmed": 23,
+          "totalAll": 35,
           "firstConfirmed": 6,
-          "firstUnconfirmed": 8,
-          "totalStr": "12(21)",
-          "firstStr": "6(8)"
+          "firstUnconfirmed": 9,
+          "totalStr": "12(23)",
+          "firstStr": "6(9)"
         }
       ],
       "razem": {
         "totalConfirmed": 37,
-        "totalUnconfirmed": 113,
-        "totalAll": 150,
+        "totalUnconfirmed": 116,
+        "totalAll": 153,
         "firstConfirmed": 25,
-        "firstUnconfirmed": 23,
+        "firstUnconfirmed": 25,
         "totalStr": "37*",
-        "firstStr": "25(23)"
+        "firstStr": "25(25)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
