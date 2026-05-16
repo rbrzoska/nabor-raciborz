@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-16T13:02:46.884Z",
+    "scrapedAt": "2026-05-16T14:39:00.998Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 190,
-    "totalUnconfirmed": 700,
-    "totalCandidates": 890
+    "totalUnconfirmed": 704,
+    "totalCandidates": 894
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -111,11 +111,11 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 4,
-          "totalUnconfirmed": 11,
-          "totalAll": 15,
+          "totalUnconfirmed": 12,
+          "totalAll": 16,
           "firstConfirmed": 2,
           "firstUnconfirmed": 6,
-          "totalStr": "4(11)",
+          "totalStr": "4(12)",
           "firstStr": "2(6)"
         },
         {
@@ -165,8 +165,8 @@
       ],
       "razem": {
         "totalConfirmed": 10,
-        "totalUnconfirmed": 35,
-        "totalAll": 45,
+        "totalUnconfirmed": 36,
+        "totalAll": 46,
         "firstConfirmed": 9,
         "firstUnconfirmed": 18,
         "totalStr": "10*",
@@ -468,11 +468,11 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 21,
-          "totalUnconfirmed": 21,
-          "totalAll": 42,
+          "totalUnconfirmed": 22,
+          "totalAll": 43,
           "firstConfirmed": 8,
           "firstUnconfirmed": 2,
-          "totalStr": "21(21)",
+          "totalStr": "21(22)",
           "firstStr": "8(2)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 37,
-        "totalUnconfirmed": 112,
-        "totalAll": 149,
+        "totalUnconfirmed": 113,
+        "totalAll": 150,
         "firstConfirmed": 25,
         "firstUnconfirmed": 23,
         "totalStr": "37*",
@@ -641,11 +641,11 @@
           "section": "1b-f Technik elektronik",
           "places": 16,
           "totalConfirmed": 8,
-          "totalUnconfirmed": 8,
-          "totalAll": 16,
+          "totalUnconfirmed": 9,
+          "totalAll": 17,
           "firstConfirmed": 1,
           "firstUnconfirmed": 0,
-          "totalStr": "8(8)",
+          "totalStr": "8(9)",
           "firstStr": "1(0)"
         },
         {
@@ -674,12 +674,12 @@
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 14,
-          "totalAll": 27,
+          "totalUnconfirmed": 15,
+          "totalAll": 28,
           "firstConfirmed": 3,
-          "firstUnconfirmed": 6,
-          "totalStr": "13(14)",
-          "firstStr": "3(6)"
+          "firstUnconfirmed": 7,
+          "totalStr": "13(15)",
+          "firstStr": "3(7)"
         },
         {
           "section": "1f-b Technik oze",
@@ -695,12 +695,12 @@
       ],
       "razem": {
         "totalConfirmed": 20,
-        "totalUnconfirmed": 59,
-        "totalAll": 79,
+        "totalUnconfirmed": 61,
+        "totalAll": 81,
         "firstConfirmed": 12,
-        "firstUnconfirmed": 11,
+        "firstUnconfirmed": 12,
         "totalStr": "20*",
-        "firstStr": "12(11)"
+        "firstStr": "12(12)"
       }
     }
   }
