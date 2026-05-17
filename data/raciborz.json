@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-17T06:00:37.064Z",
+    "scrapedAt": "2026-05-17T08:26:32.372Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 190,
-    "totalUnconfirmed": 749,
-    "totalCandidates": 939
+    "totalUnconfirmed": 754,
+    "totalCandidates": 944
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -19,22 +19,22 @@
           "section": "1f_1 Fryzjer",
           "places": 16,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 11,
-          "totalAll": 24,
+          "totalUnconfirmed": 12,
+          "totalAll": 25,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 6,
-          "totalStr": "13(11)",
-          "firstStr": "8(6)"
+          "firstUnconfirmed": 7,
+          "totalStr": "13(12)",
+          "firstStr": "8(7)"
         },
         {
           "section": "1f_2 Cukiernik",
           "places": 16,
           "totalConfirmed": 9,
-          "totalUnconfirmed": 8,
-          "totalAll": 17,
+          "totalUnconfirmed": 9,
+          "totalAll": 18,
           "firstConfirmed": 1,
           "firstUnconfirmed": 4,
-          "totalStr": "9(8)",
+          "totalStr": "9(9)",
           "firstStr": "1(4)"
         },
         {
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 19,
-        "totalUnconfirmed": 44,
-        "totalAll": 63,
+        "totalUnconfirmed": 46,
+        "totalAll": 65,
         "firstConfirmed": 12,
-        "firstUnconfirmed": 18,
+        "firstUnconfirmed": 19,
         "totalStr": "19*",
-        "firstStr": "12(18)"
+        "firstStr": "12(19)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -446,11 +446,11 @@
           "section": "1HR_TH Technik handlowiec",
           "places": 16,
           "totalConfirmed": 9,
-          "totalUnconfirmed": 11,
-          "totalAll": 20,
+          "totalUnconfirmed": 12,
+          "totalAll": 21,
           "firstConfirmed": 0,
           "firstUnconfirmed": 2,
-          "totalStr": "9(11)",
+          "totalStr": "9(12)",
           "firstStr": "0(2)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 37,
-        "totalUnconfirmed": 116,
-        "totalAll": 153,
+        "totalUnconfirmed": 117,
+        "totalAll": 154,
         "firstConfirmed": 25,
         "firstUnconfirmed": 25,
         "totalStr": "37*",
@@ -571,11 +571,11 @@
           "section": "1H_1 Technik hotelarstwa",
           "places": 16,
           "totalConfirmed": 6,
-          "totalUnconfirmed": 14,
-          "totalAll": 20,
+          "totalUnconfirmed": 15,
+          "totalAll": 21,
           "firstConfirmed": 0,
           "firstUnconfirmed": 0,
-          "totalStr": "6(14)",
+          "totalStr": "6(15)",
           "firstStr": "0(0)"
         },
         {
@@ -593,11 +593,11 @@
           "section": "1Z_1 Technik żywienia i usług gastronomicznych",
           "places": 16,
           "totalConfirmed": 9,
-          "totalUnconfirmed": 10,
-          "totalAll": 19,
+          "totalUnconfirmed": 11,
+          "totalAll": 20,
           "firstConfirmed": 1,
           "firstUnconfirmed": 2,
-          "totalStr": "9(10)",
+          "totalStr": "9(11)",
           "firstStr": "1(2)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 37,
-        "totalUnconfirmed": 98,
-        "totalAll": 135,
+        "totalUnconfirmed": 100,
+        "totalAll": 137,
         "firstConfirmed": 11,
         "firstUnconfirmed": 11,
         "totalStr": "37*",
