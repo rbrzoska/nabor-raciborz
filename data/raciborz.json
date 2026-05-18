@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-18T21:45:03.711Z",
+    "scrapedAt": "2026-05-18T22:52:12.069Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 320,
-    "totalUnconfirmed": 944,
-    "totalCandidates": 1264
+    "totalUnconfirmed": 942,
+    "totalCandidates": 1262
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -19,23 +19,23 @@
           "section": "1f_1 Fryzjer",
           "places": 16,
           "totalConfirmed": 19,
-          "totalUnconfirmed": 15,
-          "totalAll": 34,
+          "totalUnconfirmed": 14,
+          "totalAll": 33,
           "firstConfirmed": 11,
           "firstUnconfirmed": 7,
-          "totalStr": "19(15)",
+          "totalStr": "19(14)",
           "firstStr": "11(7)"
         },
         {
           "section": "1f_2 Cukiernik",
           "places": 16,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 12,
-          "totalAll": 25,
+          "totalUnconfirmed": 11,
+          "totalAll": 24,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 5,
-          "totalStr": "13(12)",
-          "firstStr": "2(5)"
+          "firstUnconfirmed": 4,
+          "totalStr": "13(11)",
+          "firstStr": "2(4)"
         },
         {
           "section": "1m_1 Monter sieci i instalacji sanitarnych",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 29,
-        "totalUnconfirmed": 64,
-        "totalAll": 93,
+        "totalUnconfirmed": 62,
+        "totalAll": 91,
         "firstConfirmed": 18,
-        "firstUnconfirmed": 24,
+        "firstUnconfirmed": 23,
         "totalStr": "29*",
-        "firstStr": "18(24)"
+        "firstStr": "18(23)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
