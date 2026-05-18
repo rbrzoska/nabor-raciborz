@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-18T20:12:59.512Z",
+    "scrapedAt": "2026-05-18T21:45:03.711Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 320,
-    "totalUnconfirmed": 940,
-    "totalCandidates": 1260
+    "totalUnconfirmed": 944,
+    "totalCandidates": 1264
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -74,12 +74,12 @@
           "section": "1s_1 Monter zab. i robót wykończ. w budownictwie",
           "places": 16,
           "totalConfirmed": 2,
-          "totalUnconfirmed": 10,
-          "totalAll": 12,
+          "totalUnconfirmed": 11,
+          "totalAll": 13,
           "firstConfirmed": 0,
-          "firstUnconfirmed": 3,
-          "totalStr": "2(10)",
-          "firstStr": "0(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "2(11)",
+          "firstStr": "0(4)"
         },
         {
           "section": "1s_2 Stolarz",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 29,
-        "totalUnconfirmed": 63,
-        "totalAll": 92,
+        "totalUnconfirmed": 64,
+        "totalAll": 93,
         "firstConfirmed": 18,
-        "firstUnconfirmed": 23,
+        "firstUnconfirmed": 24,
         "totalStr": "29*",
-        "firstStr": "18(23)"
+        "firstStr": "18(24)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -111,11 +111,11 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 5,
-          "totalUnconfirmed": 21,
-          "totalAll": 26,
+          "totalUnconfirmed": 22,
+          "totalAll": 27,
           "firstConfirmed": 2,
           "firstUnconfirmed": 7,
-          "totalStr": "5(21)",
+          "totalStr": "5(22)",
           "firstStr": "2(7)"
         },
         {
@@ -165,8 +165,8 @@
       ],
       "razem": {
         "totalConfirmed": 11,
-        "totalUnconfirmed": 64,
-        "totalAll": 75,
+        "totalUnconfirmed": 65,
+        "totalAll": 76,
         "firstConfirmed": 9,
         "firstUnconfirmed": 26,
         "totalStr": "11*",
@@ -527,11 +527,11 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 16,
-          "totalUnconfirmed": 18,
-          "totalAll": 34,
+          "totalUnconfirmed": 19,
+          "totalAll": 35,
           "firstConfirmed": 0,
           "firstUnconfirmed": 2,
-          "totalStr": "16(18)",
+          "totalStr": "16(19)",
           "firstStr": "0(2)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 53,
-        "totalUnconfirmed": 144,
-        "totalAll": 197,
+        "totalUnconfirmed": 145,
+        "totalAll": 198,
         "firstConfirmed": 16,
         "firstUnconfirmed": 18,
         "totalStr": "53*",
@@ -674,11 +674,11 @@
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 27,
-          "totalAll": 40,
+          "totalUnconfirmed": 28,
+          "totalAll": 41,
           "firstConfirmed": 3,
           "firstUnconfirmed": 10,
-          "totalStr": "13(27)",
+          "totalStr": "13(28)",
           "firstStr": "3(10)"
         },
         {
@@ -695,8 +695,8 @@
       ],
       "razem": {
         "totalConfirmed": 23,
-        "totalUnconfirmed": 107,
-        "totalAll": 130,
+        "totalUnconfirmed": 108,
+        "totalAll": 131,
         "firstConfirmed": 12,
         "firstUnconfirmed": 23,
         "totalStr": "23*",
