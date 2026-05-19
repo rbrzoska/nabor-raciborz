@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-19T03:25:31.697Z",
+    "scrapedAt": "2026-05-19T07:01:22.636Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
-    "totalConfirmed": 320,
-    "totalUnconfirmed": 942,
-    "totalCandidates": 1262
+    "totalConfirmed": 327,
+    "totalUnconfirmed": 932,
+    "totalCandidates": 1259
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -132,12 +132,12 @@
         {
           "section": "1c Ślusarz",
           "places": 32,
-          "totalConfirmed": 2,
-          "totalUnconfirmed": 7,
+          "totalConfirmed": 3,
+          "totalUnconfirmed": 6,
           "totalAll": 9,
           "firstConfirmed": 0,
           "firstUnconfirmed": 0,
-          "totalStr": "2(7)",
+          "totalStr": "3(6)",
           "firstStr": "0(0)"
         },
         {
@@ -164,12 +164,12 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 11,
-        "totalUnconfirmed": 65,
+        "totalConfirmed": 12,
+        "totalUnconfirmed": 64,
         "totalAll": 76,
         "firstConfirmed": 9,
         "firstUnconfirmed": 26,
-        "totalStr": "11*",
+        "totalStr": "12*",
         "firstStr": "9(26)"
       }
     },
@@ -412,12 +412,12 @@
         {
           "section": "1BG_TGiPC Technik grafiki i poligrafii cyfrowej",
           "places": 16,
-          "totalConfirmed": 17,
-          "totalUnconfirmed": 18,
+          "totalConfirmed": 18,
+          "totalUnconfirmed": 17,
           "totalAll": 35,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "17(18)",
+          "totalStr": "18(17)",
           "firstStr": "2(1)"
         },
         {
@@ -435,22 +435,22 @@
           "section": "1E_TE Technik ekonomista",
           "places": 32,
           "totalConfirmed": 18,
-          "totalUnconfirmed": 27,
-          "totalAll": 45,
+          "totalUnconfirmed": 28,
+          "totalAll": 46,
           "firstConfirmed": 4,
           "firstUnconfirmed": 8,
-          "totalStr": "18(27)",
+          "totalStr": "18(28)",
           "firstStr": "4(8)"
         },
         {
           "section": "1HR_TH Technik handlowiec",
           "places": 16,
           "totalConfirmed": 12,
-          "totalUnconfirmed": 19,
-          "totalAll": 31,
+          "totalUnconfirmed": 20,
+          "totalAll": 32,
           "firstConfirmed": 0,
           "firstUnconfirmed": 3,
-          "totalStr": "12(19)",
+          "totalStr": "12(20)",
           "firstStr": "0(3)"
         },
         {
@@ -467,45 +467,45 @@
         {
           "section": "1L_TL Technik logistyk",
           "places": 16,
-          "totalConfirmed": 24,
-          "totalUnconfirmed": 42,
+          "totalConfirmed": 25,
+          "totalUnconfirmed": 41,
           "totalAll": 66,
-          "firstConfirmed": 8,
-          "firstUnconfirmed": 5,
-          "totalStr": "24(42)",
-          "firstStr": "8(5)"
+          "firstConfirmed": 9,
+          "firstUnconfirmed": 4,
+          "totalStr": "25(41)",
+          "firstStr": "9(4)"
         },
         {
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
-          "totalConfirmed": 7,
-          "totalUnconfirmed": 31,
+          "totalConfirmed": 8,
+          "totalUnconfirmed": 30,
           "totalAll": 38,
           "firstConfirmed": 2,
           "firstUnconfirmed": 9,
-          "totalStr": "7(31)",
+          "totalStr": "8(30)",
           "firstStr": "2(9)"
         },
         {
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
-          "totalConfirmed": 15,
-          "totalUnconfirmed": 44,
+          "totalConfirmed": 17,
+          "totalUnconfirmed": 42,
           "totalAll": 59,
-          "firstConfirmed": 6,
-          "firstUnconfirmed": 20,
-          "totalStr": "15(44)",
-          "firstStr": "6(20)"
+          "firstConfirmed": 7,
+          "firstUnconfirmed": 19,
+          "totalStr": "17(42)",
+          "firstStr": "7(19)"
         }
       ],
       "razem": {
-        "totalConfirmed": 51,
-        "totalUnconfirmed": 218,
-        "totalAll": 269,
-        "firstConfirmed": 25,
-        "firstUnconfirmed": 50,
-        "totalStr": "51*",
-        "firstStr": "25(50)"
+        "totalConfirmed": 53,
+        "totalUnconfirmed": 215,
+        "totalAll": 268,
+        "firstConfirmed": 27,
+        "firstUnconfirmed": 48,
+        "totalStr": "53*",
+        "firstStr": "27(48)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -537,23 +537,23 @@
         {
           "section": "1B Technik budownictwa",
           "places": 32,
-          "totalConfirmed": 8,
-          "totalUnconfirmed": 18,
+          "totalConfirmed": 9,
+          "totalUnconfirmed": 17,
           "totalAll": 26,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "8(18)",
+          "totalStr": "9(17)",
           "firstStr": "1(1)"
         },
         {
           "section": "1G_1 Technik geodeta",
           "places": 16,
-          "totalConfirmed": 9,
-          "totalUnconfirmed": 15,
+          "totalConfirmed": 10,
+          "totalUnconfirmed": 14,
           "totalAll": 24,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "9(15)",
+          "totalStr": "10(14)",
           "firstStr": "2(1)"
         },
         {
@@ -613,12 +613,12 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 53,
-        "totalUnconfirmed": 145,
-        "totalAll": 198,
+        "totalConfirmed": 54,
+        "totalUnconfirmed": 143,
+        "totalAll": 197,
         "firstConfirmed": 16,
         "firstUnconfirmed": 18,
-        "totalStr": "53*",
+        "totalStr": "54*",
         "firstStr": "16(18)"
       }
     },
@@ -651,34 +651,34 @@
         {
           "section": "1c Technik informatyk ze specjalnością AI",
           "places": 32,
-          "totalConfirmed": 8,
-          "totalUnconfirmed": 16,
+          "totalConfirmed": 9,
+          "totalUnconfirmed": 15,
           "totalAll": 24,
           "firstConfirmed": 3,
           "firstUnconfirmed": 5,
-          "totalStr": "8(16)",
+          "totalStr": "9(15)",
           "firstStr": "3(5)"
         },
         {
           "section": "1d Technik mechatronik",
           "places": 32,
-          "totalConfirmed": 12,
-          "totalUnconfirmed": 21,
+          "totalConfirmed": 14,
+          "totalUnconfirmed": 19,
           "totalAll": 33,
           "firstConfirmed": 1,
           "firstUnconfirmed": 2,
-          "totalStr": "12(21)",
+          "totalStr": "14(19)",
           "firstStr": "1(2)"
         },
         {
           "section": "1e Technik elektryk",
           "places": 32,
-          "totalConfirmed": 13,
-          "totalUnconfirmed": 28,
+          "totalConfirmed": 14,
+          "totalUnconfirmed": 27,
           "totalAll": 41,
           "firstConfirmed": 3,
           "firstUnconfirmed": 10,
-          "totalStr": "13(28)",
+          "totalStr": "14(27)",
           "firstStr": "3(10)"
         },
         {
@@ -694,12 +694,12 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 23,
-        "totalUnconfirmed": 108,
-        "totalAll": 131,
+        "totalConfirmed": 26,
+        "totalUnconfirmed": 104,
+        "totalAll": 130,
         "firstConfirmed": 12,
         "firstUnconfirmed": 23,
-        "totalStr": "23*",
+        "totalStr": "26*",
         "firstStr": "12(23)"
       }
     }
