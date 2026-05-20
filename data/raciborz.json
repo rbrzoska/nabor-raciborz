@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-20T20:04:26.858Z",
+    "scrapedAt": "2026-05-20T22:09:30.394Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 452,
-    "totalUnconfirmed": 920,
-    "totalCandidates": 1372
+    "totalUnconfirmed": 921,
+    "totalCandidates": 1373
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -111,12 +111,12 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 7,
-          "totalUnconfirmed": 26,
-          "totalAll": 33,
+          "totalUnconfirmed": 27,
+          "totalAll": 34,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 8,
-          "totalStr": "7(26)",
-          "firstStr": "2(8)"
+          "firstUnconfirmed": 9,
+          "totalStr": "7(27)",
+          "firstStr": "2(9)"
         },
         {
           "section": "1b Mechanik pojazdów samochodowych",
@@ -165,12 +165,12 @@
       ],
       "razem": {
         "totalConfirmed": 16,
-        "totalUnconfirmed": 75,
-        "totalAll": 91,
+        "totalUnconfirmed": 76,
+        "totalAll": 92,
         "firstConfirmed": 9,
-        "firstUnconfirmed": 30,
+        "firstUnconfirmed": 31,
         "totalStr": "16*",
-        "firstStr": "9(30)"
+        "firstStr": "9(31)"
       }
     },
     "II Liceum Ogólnokształcące im.A.Mickiewicza w Raciborzu": {
