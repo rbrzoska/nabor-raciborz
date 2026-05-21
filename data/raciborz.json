@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-21T16:39:27.882Z",
+    "scrapedAt": "2026-05-21T18:55:15.065Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 512,
-    "totalUnconfirmed": 874,
-    "totalCandidates": 1386
+    "totalUnconfirmed": 886,
+    "totalCandidates": 1398
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -111,22 +111,22 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 18,
-          "totalAll": 32,
+          "totalUnconfirmed": 19,
+          "totalAll": 33,
           "firstConfirmed": 4,
-          "firstUnconfirmed": 6,
-          "totalStr": "14(18)",
-          "firstStr": "4(6)"
+          "firstUnconfirmed": 7,
+          "totalStr": "14(19)",
+          "firstStr": "4(7)"
         },
         {
           "section": "1b Mechanik pojazdów samochodowych",
           "places": 32,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 22,
-          "totalAll": 36,
+          "totalUnconfirmed": 23,
+          "totalAll": 37,
           "firstConfirmed": 6,
           "firstUnconfirmed": 13,
-          "totalStr": "14(22)",
+          "totalStr": "14(23)",
           "firstStr": "6(13)"
         },
         {
@@ -165,12 +165,12 @@
       ],
       "razem": {
         "totalConfirmed": 28,
-        "totalUnconfirmed": 59,
-        "totalAll": 87,
+        "totalUnconfirmed": 61,
+        "totalAll": 89,
         "firstConfirmed": 13,
-        "firstUnconfirmed": 24,
+        "firstUnconfirmed": 25,
         "totalStr": "28*",
-        "firstStr": "13(24)"
+        "firstStr": "13(25)"
       }
     },
     "II Liceum Ogólnokształcące im.A.Mickiewicza w Raciborzu": {
@@ -317,11 +317,11 @@
           "section": "1HDg humanistyczno-dziennikarska (pol-geo-ang)",
           "places": 16,
           "totalConfirmed": 40,
-          "totalUnconfirmed": 27,
-          "totalAll": 67,
+          "totalUnconfirmed": 28,
+          "totalAll": 68,
           "firstConfirmed": 4,
           "firstUnconfirmed": 4,
-          "totalStr": "40(27)",
+          "totalStr": "40(28)",
           "firstStr": "4(4)"
         },
         {
@@ -361,18 +361,18 @@
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 45,
-          "totalUnconfirmed": 29,
-          "totalAll": 74,
+          "totalUnconfirmed": 30,
+          "totalAll": 75,
           "firstConfirmed": 7,
           "firstUnconfirmed": 7,
-          "totalStr": "45(29)",
+          "totalStr": "45(30)",
           "firstStr": "7(7)"
         }
       ],
       "razem": {
         "totalConfirmed": 107,
-        "totalUnconfirmed": 174,
-        "totalAll": 281,
+        "totalUnconfirmed": 176,
+        "totalAll": 283,
         "firstConfirmed": 52,
         "firstUnconfirmed": 32,
         "totalStr": "107*",
@@ -468,44 +468,44 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 51,
-          "totalUnconfirmed": 30,
-          "totalAll": 81,
+          "totalUnconfirmed": 32,
+          "totalAll": 83,
           "firstConfirmed": 12,
           "firstUnconfirmed": 1,
-          "totalStr": "51(30)",
+          "totalStr": "51(32)",
           "firstStr": "12(1)"
         },
         {
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
           "totalConfirmed": 29,
-          "totalUnconfirmed": 18,
-          "totalAll": 47,
+          "totalUnconfirmed": 20,
+          "totalAll": 49,
           "firstConfirmed": 7,
-          "firstUnconfirmed": 6,
-          "totalStr": "29(18)",
-          "firstStr": "7(6)"
+          "firstUnconfirmed": 8,
+          "totalStr": "29(20)",
+          "firstStr": "7(8)"
         },
         {
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 42,
-          "totalUnconfirmed": 28,
-          "totalAll": 70,
+          "totalUnconfirmed": 31,
+          "totalAll": 73,
           "firstConfirmed": 21,
-          "firstUnconfirmed": 9,
-          "totalStr": "42(28)",
-          "firstStr": "21(9)"
+          "firstUnconfirmed": 10,
+          "totalStr": "42(31)",
+          "firstStr": "21(10)"
         }
       ],
       "razem": {
         "totalConfirmed": 105,
-        "totalUnconfirmed": 171,
-        "totalAll": 276,
+        "totalUnconfirmed": 178,
+        "totalAll": 283,
         "firstConfirmed": 62,
-        "firstUnconfirmed": 30,
+        "firstUnconfirmed": 33,
         "totalStr": "105*",
-        "firstStr": "62(30)"
+        "firstStr": "62(33)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -519,9 +519,9 @@
           "totalUnconfirmed": 8,
           "totalAll": 21,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 4,
+          "firstUnconfirmed": 3,
           "totalStr": "13(8)",
-          "firstStr": "2(4)"
+          "firstStr": "2(3)"
         },
         {
           "section": "1A_2 Technik aranżacji wnętrz",
@@ -549,11 +549,11 @@
           "section": "1G_1 Technik geodeta",
           "places": 16,
           "totalConfirmed": 20,
-          "totalUnconfirmed": 15,
-          "totalAll": 35,
+          "totalUnconfirmed": 16,
+          "totalAll": 36,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "20(15)",
+          "totalStr": "20(16)",
           "firstStr": "2(1)"
         },
         {
@@ -614,12 +614,12 @@
       ],
       "razem": {
         "totalConfirmed": 88,
-        "totalUnconfirmed": 138,
-        "totalAll": 226,
+        "totalUnconfirmed": 139,
+        "totalAll": 227,
         "firstConfirmed": 26,
-        "firstUnconfirmed": 17,
+        "firstUnconfirmed": 16,
         "totalStr": "88*",
-        "firstStr": "26(17)"
+        "firstStr": "26(16)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
