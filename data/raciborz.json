@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-22T19:25:41.277Z",
+    "scrapedAt": "2026-05-22T20:53:51.022Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 977,
-    "totalCandidates": 1535
+    "totalUnconfirmed": 980,
+    "totalCandidates": 1538
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -30,11 +30,11 @@
           "section": "1f_2 Cukiernik",
           "places": 16,
           "totalConfirmed": 22,
-          "totalUnconfirmed": 17,
-          "totalAll": 39,
+          "totalUnconfirmed": 18,
+          "totalAll": 40,
           "firstConfirmed": 5,
           "firstUnconfirmed": 6,
-          "totalStr": "22(17)",
+          "totalStr": "22(18)",
           "firstStr": "5(6)"
         },
         {
@@ -52,22 +52,22 @@
           "section": "1m_2 Inny zawód",
           "places": 16,
           "totalConfirmed": 19,
-          "totalUnconfirmed": 6,
-          "totalAll": 25,
+          "totalUnconfirmed": 7,
+          "totalAll": 26,
           "firstConfirmed": 3,
           "firstUnconfirmed": 1,
-          "totalStr": "19(6)",
+          "totalStr": "19(7)",
           "firstStr": "3(1)"
         },
         {
           "section": "1q Kucharz",
           "places": 32,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 14,
-          "totalAll": 28,
+          "totalUnconfirmed": 15,
+          "totalAll": 29,
           "firstConfirmed": 5,
           "firstUnconfirmed": 5,
-          "totalStr": "14(14)",
+          "totalStr": "14(15)",
           "firstStr": "5(5)"
         },
         {
@@ -95,8 +95,8 @@
       ],
       "razem": {
         "totalConfirmed": 55,
-        "totalUnconfirmed": 72,
-        "totalAll": 127,
+        "totalUnconfirmed": 75,
+        "totalAll": 130,
         "firstConfirmed": 30,
         "firstUnconfirmed": 21,
         "totalStr": "55*",
