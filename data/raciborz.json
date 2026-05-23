@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-23T13:05:31.549Z",
+    "scrapedAt": "2026-05-23T14:46:50.622Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 1011,
-    "totalCandidates": 1569
+    "totalUnconfirmed": 1018,
+    "totalCandidates": 1576
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -63,22 +63,22 @@
           "section": "1q Kucharz",
           "places": 32,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 15,
-          "totalAll": 29,
+          "totalUnconfirmed": 16,
+          "totalAll": 30,
           "firstConfirmed": 5,
           "firstUnconfirmed": 5,
-          "totalStr": "14(15)",
+          "totalStr": "14(16)",
           "firstStr": "5(5)"
         },
         {
           "section": "1s_1 Monter zab. i robót wykończ. w budownictwie",
           "places": 16,
           "totalConfirmed": 7,
-          "totalUnconfirmed": 6,
-          "totalAll": 13,
+          "totalUnconfirmed": 7,
+          "totalAll": 14,
           "firstConfirmed": 3,
           "firstUnconfirmed": 1,
-          "totalStr": "7(6)",
+          "totalStr": "7(7)",
           "firstStr": "3(1)"
         },
         {
@@ -95,8 +95,8 @@
       ],
       "razem": {
         "totalConfirmed": 55,
-        "totalUnconfirmed": 75,
-        "totalAll": 130,
+        "totalUnconfirmed": 77,
+        "totalAll": 132,
         "firstConfirmed": 30,
         "firstUnconfirmed": 21,
         "totalStr": "55*",
@@ -122,12 +122,12 @@
           "section": "1b Mechanik pojazdów samochodowych",
           "places": 32,
           "totalConfirmed": 15,
-          "totalUnconfirmed": 26,
-          "totalAll": 41,
+          "totalUnconfirmed": 27,
+          "totalAll": 42,
           "firstConfirmed": 6,
-          "firstUnconfirmed": 17,
-          "totalStr": "15(26)",
-          "firstStr": "6(17)"
+          "firstUnconfirmed": 18,
+          "totalStr": "15(27)",
+          "firstStr": "6(18)"
         },
         {
           "section": "1c Ślusarz",
@@ -165,12 +165,12 @@
       ],
       "razem": {
         "totalConfirmed": 29,
-        "totalUnconfirmed": 71,
-        "totalAll": 100,
+        "totalUnconfirmed": 72,
+        "totalAll": 101,
         "firstConfirmed": 13,
-        "firstUnconfirmed": 31,
+        "firstUnconfirmed": 32,
         "totalStr": "29*",
-        "firstStr": "13(31)"
+        "firstStr": "13(32)"
       }
     },
     "II Liceum Ogólnokształcące im.A.Mickiewicza w Raciborzu": {
@@ -206,9 +206,9 @@
           "totalUnconfirmed": 22,
           "totalAll": 62,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 5,
+          "firstUnconfirmed": 4,
           "totalStr": "40(22)",
-          "firstStr": "5(5)"
+          "firstStr": "5(4)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
@@ -225,11 +225,11 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 45,
-          "totalUnconfirmed": 36,
-          "totalAll": 81,
+          "totalUnconfirmed": 37,
+          "totalAll": 82,
           "firstConfirmed": 3,
           "firstUnconfirmed": 8,
-          "totalStr": "45(36)",
+          "totalStr": "45(37)",
           "firstStr": "3(8)"
         },
         {
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 94,
-        "totalUnconfirmed": 199,
-        "totalAll": 293,
+        "totalUnconfirmed": 200,
+        "totalAll": 294,
         "firstConfirmed": 29,
-        "firstUnconfirmed": 42,
+        "firstUnconfirmed": 41,
         "totalStr": "94*",
-        "firstStr": "29(42)"
+        "firstStr": "29(41)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -361,18 +361,18 @@
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 49,
-          "totalUnconfirmed": 31,
-          "totalAll": 80,
+          "totalUnconfirmed": 32,
+          "totalAll": 81,
           "firstConfirmed": 9,
           "firstUnconfirmed": 6,
-          "totalStr": "49(31)",
+          "totalStr": "49(32)",
           "firstStr": "9(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 116,
-        "totalUnconfirmed": 195,
-        "totalAll": 311,
+        "totalUnconfirmed": 196,
+        "totalAll": 312,
         "firstConfirmed": 57,
         "firstUnconfirmed": 35,
         "totalStr": "116*",
@@ -413,12 +413,12 @@
           "section": "1BG_TGiPC Technik grafiki i poligrafii cyfrowej",
           "places": 16,
           "totalConfirmed": 27,
-          "totalUnconfirmed": 19,
-          "totalAll": 46,
+          "totalUnconfirmed": 20,
+          "totalAll": 47,
           "firstConfirmed": 3,
-          "firstUnconfirmed": 1,
-          "totalStr": "27(19)",
-          "firstStr": "3(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "27(20)",
+          "firstStr": "3(2)"
         },
         {
           "section": "1BG_TREKL Technik reklamy",
@@ -435,11 +435,11 @@
           "section": "1E_TE Technik ekonomista",
           "places": 32,
           "totalConfirmed": 37,
-          "totalUnconfirmed": 33,
-          "totalAll": 70,
+          "totalUnconfirmed": 34,
+          "totalAll": 71,
           "firstConfirmed": 9,
           "firstUnconfirmed": 8,
-          "totalStr": "37(33)",
+          "totalStr": "37(34)",
           "firstStr": "9(8)"
         },
         {
@@ -500,12 +500,12 @@
       ],
       "razem": {
         "totalConfirmed": 113,
-        "totalUnconfirmed": 206,
-        "totalAll": 319,
+        "totalUnconfirmed": 208,
+        "totalAll": 321,
         "firstConfirmed": 69,
-        "firstUnconfirmed": 32,
+        "firstUnconfirmed": 33,
         "totalStr": "113*",
-        "firstStr": "69(32)"
+        "firstStr": "69(33)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
