@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-23T09:21:59.095Z",
+    "scrapedAt": "2026-05-23T10:50:28.740Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 1005,
-    "totalCandidates": 1563
+    "totalUnconfirmed": 1010,
+    "totalCandidates": 1568
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -225,11 +225,11 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 45,
-          "totalUnconfirmed": 35,
-          "totalAll": 80,
+          "totalUnconfirmed": 36,
+          "totalAll": 81,
           "firstConfirmed": 3,
           "firstUnconfirmed": 8,
-          "totalStr": "45(35)",
+          "totalStr": "45(36)",
           "firstStr": "3(8)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 94,
-        "totalUnconfirmed": 198,
-        "totalAll": 292,
+        "totalUnconfirmed": 199,
+        "totalAll": 293,
         "firstConfirmed": 29,
         "firstUnconfirmed": 42,
         "totalStr": "94*",
@@ -328,12 +328,12 @@
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
           "totalConfirmed": 36,
-          "totalUnconfirmed": 21,
-          "totalAll": 57,
+          "totalUnconfirmed": 22,
+          "totalAll": 58,
           "firstConfirmed": 9,
-          "firstUnconfirmed": 2,
-          "totalStr": "36(21)",
-          "firstStr": "9(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "36(22)",
+          "firstStr": "9(3)"
         },
         {
           "section": "1J językowa (geo-ang-franc/niem)",
@@ -361,22 +361,22 @@
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 49,
-          "totalUnconfirmed": 30,
-          "totalAll": 79,
+          "totalUnconfirmed": 31,
+          "totalAll": 80,
           "firstConfirmed": 9,
           "firstUnconfirmed": 6,
-          "totalStr": "49(30)",
+          "totalStr": "49(31)",
           "firstStr": "9(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 116,
-        "totalUnconfirmed": 193,
-        "totalAll": 309,
+        "totalUnconfirmed": 195,
+        "totalAll": 311,
         "firstConfirmed": 57,
-        "firstUnconfirmed": 34,
+        "firstUnconfirmed": 35,
         "totalStr": "116*",
-        "firstStr": "57(34)"
+        "firstStr": "57(35)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -435,11 +435,11 @@
           "section": "1E_TE Technik ekonomista",
           "places": 32,
           "totalConfirmed": 37,
-          "totalUnconfirmed": 32,
-          "totalAll": 69,
+          "totalUnconfirmed": 33,
+          "totalAll": 70,
           "firstConfirmed": 9,
           "firstUnconfirmed": 8,
-          "totalStr": "37(32)",
+          "totalStr": "37(33)",
           "firstStr": "9(8)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 113,
-        "totalUnconfirmed": 205,
-        "totalAll": 318,
+        "totalUnconfirmed": 206,
+        "totalAll": 319,
         "firstConfirmed": 69,
         "firstUnconfirmed": 32,
         "totalStr": "113*",
@@ -630,11 +630,11 @@
           "section": "1a Technik mechanik",
           "places": 32,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 21,
-          "totalAll": 34,
+          "totalUnconfirmed": 22,
+          "totalAll": 35,
           "firstConfirmed": 5,
           "firstUnconfirmed": 3,
-          "totalStr": "13(21)",
+          "totalStr": "13(22)",
           "firstStr": "5(3)"
         },
         {
@@ -695,8 +695,8 @@
       ],
       "razem": {
         "totalConfirmed": 48,
-        "totalUnconfirmed": 113,
-        "totalAll": 161,
+        "totalUnconfirmed": 114,
+        "totalAll": 162,
         "firstConfirmed": 20,
         "firstUnconfirmed": 22,
         "totalStr": "48*",
