@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-23T19:04:34.666Z",
+    "scrapedAt": "2026-05-23T20:14:32.676Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 1033,
-    "totalCandidates": 1591
+    "totalUnconfirmed": 1042,
+    "totalCandidates": 1600
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,11 +181,11 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 23,
-          "totalUnconfirmed": 17,
-          "totalAll": 40,
+          "totalUnconfirmed": 18,
+          "totalAll": 41,
           "firstConfirmed": 7,
           "firstUnconfirmed": 8,
-          "totalStr": "23(17)",
+          "totalStr": "23(18)",
           "firstStr": "7(8)"
         },
         {
@@ -225,11 +225,11 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 45,
-          "totalUnconfirmed": 37,
-          "totalAll": 82,
+          "totalUnconfirmed": 38,
+          "totalAll": 83,
           "firstConfirmed": 3,
           "firstUnconfirmed": 8,
-          "totalStr": "45(37)",
+          "totalStr": "45(38)",
           "firstStr": "3(8)"
         },
         {
@@ -247,11 +247,11 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 29,
-          "totalAll": 54,
+          "totalUnconfirmed": 30,
+          "totalAll": 55,
           "firstConfirmed": 1,
           "firstUnconfirmed": 5,
-          "totalStr": "25(29)",
+          "totalStr": "25(30)",
           "firstStr": "1(5)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 94,
-        "totalUnconfirmed": 201,
-        "totalAll": 295,
+        "totalUnconfirmed": 204,
+        "totalAll": 298,
         "firstConfirmed": 29,
         "firstUnconfirmed": 41,
         "totalStr": "94*",
@@ -295,34 +295,34 @@
           "section": "1DAg dwujęzyczna (mat-geo-ang)",
           "places": 16,
           "totalConfirmed": 17,
-          "totalUnconfirmed": 15,
-          "totalAll": 32,
+          "totalUnconfirmed": 16,
+          "totalAll": 33,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 4,
-          "totalStr": "17(15)",
-          "firstStr": "2(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "17(16)",
+          "firstStr": "2(5)"
         },
         {
           "section": "1DAi dwujęzyczna (mat-inf-ang)",
           "places": 16,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 11,
-          "totalAll": 25,
+          "totalUnconfirmed": 12,
+          "totalAll": 26,
           "firstConfirmed": 5,
           "firstUnconfirmed": 3,
-          "totalStr": "14(11)",
+          "totalStr": "14(12)",
           "firstStr": "5(3)"
         },
         {
           "section": "1HDg humanistyczno-dziennikarska (pol-geo-ang)",
           "places": 16,
           "totalConfirmed": 47,
-          "totalUnconfirmed": 29,
-          "totalAll": 76,
+          "totalUnconfirmed": 30,
+          "totalAll": 77,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 3,
-          "totalStr": "47(29)",
-          "firstStr": "5(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "47(30)",
+          "firstStr": "5(4)"
         },
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
@@ -339,22 +339,22 @@
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 43,
-          "totalUnconfirmed": 25,
-          "totalAll": 68,
+          "totalUnconfirmed": 26,
+          "totalAll": 69,
           "firstConfirmed": 9,
           "firstUnconfirmed": 5,
-          "totalStr": "43(25)",
+          "totalStr": "43(26)",
           "firstStr": "9(5)"
         },
         {
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 28,
-          "totalUnconfirmed": 30,
-          "totalAll": 58,
+          "totalUnconfirmed": 31,
+          "totalAll": 59,
           "firstConfirmed": 6,
           "firstUnconfirmed": 1,
-          "totalStr": "28(30)",
+          "totalStr": "28(31)",
           "firstStr": "6(1)"
         },
         {
@@ -371,12 +371,12 @@
       ],
       "razem": {
         "totalConfirmed": 116,
-        "totalUnconfirmed": 196,
-        "totalAll": 312,
+        "totalUnconfirmed": 201,
+        "totalAll": 317,
         "firstConfirmed": 57,
-        "firstUnconfirmed": 35,
+        "firstUnconfirmed": 37,
         "totalStr": "116*",
-        "firstStr": "57(35)"
+        "firstStr": "57(37)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -424,11 +424,11 @@
           "section": "1BG_TREKL Technik reklamy",
           "places": 16,
           "totalConfirmed": 34,
-          "totalUnconfirmed": 28,
-          "totalAll": 62,
+          "totalUnconfirmed": 29,
+          "totalAll": 63,
           "firstConfirmed": 7,
           "firstUnconfirmed": 3,
-          "totalStr": "34(28)",
+          "totalStr": "34(29)",
           "firstStr": "7(3)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 113,
-        "totalUnconfirmed": 217,
-        "totalAll": 330,
+        "totalUnconfirmed": 218,
+        "totalAll": 331,
         "firstConfirmed": 69,
         "firstUnconfirmed": 35,
         "totalStr": "113*",
