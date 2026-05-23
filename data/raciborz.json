@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-23T10:50:28.740Z",
+    "scrapedAt": "2026-05-23T11:56:10.716Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 1010,
-    "totalCandidates": 1568
+    "totalUnconfirmed": 1011,
+    "totalCandidates": 1569
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -560,12 +560,12 @@
           "section": "1G_2 Technik stylista",
           "places": 16,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 24,
-          "totalAll": 49,
+          "totalUnconfirmed": 25,
+          "totalAll": 50,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 2,
-          "totalStr": "25(24)",
-          "firstStr": "8(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "25(25)",
+          "firstStr": "8(3)"
         },
         {
           "section": "1H_1 Technik hotelarstwa",
@@ -614,12 +614,12 @@
       ],
       "razem": {
         "totalConfirmed": 103,
-        "totalUnconfirmed": 150,
-        "totalAll": 253,
+        "totalUnconfirmed": 151,
+        "totalAll": 254,
         "firstConfirmed": 31,
-        "firstUnconfirmed": 16,
+        "firstUnconfirmed": 17,
         "totalStr": "103*",
-        "firstStr": "31(16)"
+        "firstStr": "31(17)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
