@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-24T13:04:20.506Z",
+    "scrapedAt": "2026-05-24T14:47:54.585Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
-    "totalConfirmed": 558,
-    "totalUnconfirmed": 1154,
-    "totalCandidates": 1712
+    "totalConfirmed": 559,
+    "totalUnconfirmed": 1163,
+    "totalCandidates": 1722
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -203,44 +203,44 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 40,
-          "totalUnconfirmed": 23,
-          "totalAll": 63,
+          "totalUnconfirmed": 24,
+          "totalAll": 64,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 4,
-          "totalStr": "40(23)",
-          "firstStr": "5(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "40(24)",
+          "firstStr": "5(5)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 21,
-          "totalUnconfirmed": 22,
-          "totalAll": 43,
+          "totalUnconfirmed": 23,
+          "totalAll": 44,
           "firstConfirmed": 5,
           "firstUnconfirmed": 2,
-          "totalStr": "21(22)",
+          "totalStr": "21(23)",
           "firstStr": "5(2)"
         },
         {
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 45,
-          "totalUnconfirmed": 40,
-          "totalAll": 85,
+          "totalUnconfirmed": 42,
+          "totalAll": 87,
           "firstConfirmed": 3,
-          "firstUnconfirmed": 8,
-          "totalStr": "45(40)",
-          "firstStr": "3(8)"
+          "firstUnconfirmed": 9,
+          "totalStr": "45(42)",
+          "firstStr": "3(9)"
         },
         {
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 23,
-          "totalUnconfirmed": 26,
-          "totalAll": 49,
+          "totalUnconfirmed": 27,
+          "totalAll": 50,
           "firstConfirmed": 0,
           "firstUnconfirmed": 5,
-          "totalStr": "23(26)",
+          "totalStr": "23(27)",
           "firstStr": "0(5)"
         },
         {
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 94,
-        "totalUnconfirmed": 225,
-        "totalAll": 319,
+        "totalUnconfirmed": 230,
+        "totalAll": 324,
         "firstConfirmed": 29,
-        "firstUnconfirmed": 42,
+        "firstUnconfirmed": 44,
         "totalStr": "94*",
-        "firstStr": "29(42)"
+        "firstStr": "29(44)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 47,
-          "totalUnconfirmed": 35,
-          "totalAll": 82,
+          "totalUnconfirmed": 37,
+          "totalAll": 84,
           "firstConfirmed": 12,
           "firstUnconfirmed": 10,
-          "totalStr": "47(35)",
+          "totalStr": "47(37)",
           "firstStr": "12(10)"
         },
         {
@@ -361,18 +361,18 @@
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 49,
-          "totalUnconfirmed": 35,
-          "totalAll": 84,
+          "totalUnconfirmed": 37,
+          "totalAll": 86,
           "firstConfirmed": 9,
           "firstUnconfirmed": 7,
-          "totalStr": "49(35)",
+          "totalStr": "49(37)",
           "firstStr": "9(7)"
         }
       ],
       "razem": {
         "totalConfirmed": 116,
-        "totalUnconfirmed": 229,
-        "totalAll": 345,
+        "totalUnconfirmed": 233,
+        "totalAll": 349,
         "firstConfirmed": 57,
         "firstUnconfirmed": 42,
         "totalStr": "116*",
@@ -490,18 +490,18 @@
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 48,
-          "totalUnconfirmed": 32,
-          "totalAll": 80,
+          "totalUnconfirmed": 33,
+          "totalAll": 81,
           "firstConfirmed": 23,
           "firstUnconfirmed": 11,
-          "totalStr": "48(32)",
+          "totalStr": "48(33)",
           "firstStr": "23(11)"
         }
       ],
       "razem": {
         "totalConfirmed": 113,
-        "totalUnconfirmed": 241,
-        "totalAll": 354,
+        "totalUnconfirmed": 242,
+        "totalAll": 355,
         "firstConfirmed": 69,
         "firstUnconfirmed": 35,
         "totalStr": "113*",
@@ -526,12 +526,12 @@
         {
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
-          "totalConfirmed": 35,
-          "totalUnconfirmed": 21,
+          "totalConfirmed": 36,
+          "totalUnconfirmed": 20,
           "totalAll": 56,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "35(21)",
+          "totalStr": "36(20)",
           "firstStr": "1(1)"
         },
         {
@@ -613,12 +613,12 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 103,
-        "totalUnconfirmed": 170,
+        "totalConfirmed": 104,
+        "totalUnconfirmed": 169,
         "totalAll": 273,
         "firstConfirmed": 31,
         "firstUnconfirmed": 18,
-        "totalStr": "103*",
+        "totalStr": "104*",
         "firstStr": "31(18)"
       }
     },
