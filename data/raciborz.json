@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-24T11:48:01.795Z",
+    "scrapedAt": "2026-05-24T13:04:20.506Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 1145,
-    "totalCandidates": 1703
+    "totalUnconfirmed": 1154,
+    "totalCandidates": 1712
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -111,12 +111,12 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 14,
-          "totalUnconfirmed": 24,
-          "totalAll": 38,
+          "totalUnconfirmed": 25,
+          "totalAll": 39,
           "firstConfirmed": 4,
-          "firstUnconfirmed": 9,
-          "totalStr": "14(24)",
-          "firstStr": "4(9)"
+          "firstUnconfirmed": 10,
+          "totalStr": "14(25)",
+          "firstStr": "4(10)"
         },
         {
           "section": "1b Mechanik pojazdów samochodowych",
@@ -165,12 +165,12 @@
       ],
       "razem": {
         "totalConfirmed": 29,
-        "totalUnconfirmed": 72,
-        "totalAll": 101,
+        "totalUnconfirmed": 73,
+        "totalAll": 102,
         "firstConfirmed": 13,
-        "firstUnconfirmed": 32,
+        "firstUnconfirmed": 33,
         "totalStr": "29*",
-        "firstStr": "13(32)"
+        "firstStr": "13(33)"
       }
     },
     "II Liceum Ogólnokształcące im.A.Mickiewicza w Raciborzu": {
@@ -192,11 +192,11 @@
           "section": "1ai matematyka, informatyka, język angielski",
           "places": 16,
           "totalConfirmed": 20,
-          "totalUnconfirmed": 20,
-          "totalAll": 40,
+          "totalUnconfirmed": 21,
+          "totalAll": 41,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "20(20)",
+          "totalStr": "20(21)",
           "firstStr": "1(1)"
         },
         {
@@ -247,29 +247,29 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 35,
-          "totalAll": 60,
+          "totalUnconfirmed": 36,
+          "totalAll": 61,
           "firstConfirmed": 1,
           "firstUnconfirmed": 5,
-          "totalStr": "25(35)",
+          "totalStr": "25(36)",
           "firstStr": "1(5)"
         },
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 37,
-          "totalUnconfirmed": 36,
-          "totalAll": 73,
+          "totalUnconfirmed": 37,
+          "totalAll": 74,
           "firstConfirmed": 7,
           "firstUnconfirmed": 9,
-          "totalStr": "37(36)",
+          "totalStr": "37(37)",
           "firstStr": "7(9)"
         }
       ],
       "razem": {
         "totalConfirmed": 94,
-        "totalUnconfirmed": 222,
-        "totalAll": 316,
+        "totalUnconfirmed": 225,
+        "totalAll": 319,
         "firstConfirmed": 29,
         "firstUnconfirmed": 42,
         "totalStr": "94*",
@@ -317,12 +317,12 @@
           "section": "1HDg humanistyczno-dziennikarska (pol-geo-ang)",
           "places": 16,
           "totalConfirmed": 47,
-          "totalUnconfirmed": 32,
-          "totalAll": 79,
+          "totalUnconfirmed": 33,
+          "totalAll": 80,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 4,
-          "totalStr": "47(32)",
-          "firstStr": "5(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "47(33)",
+          "firstStr": "5(5)"
         },
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
@@ -371,12 +371,12 @@
       ],
       "razem": {
         "totalConfirmed": 116,
-        "totalUnconfirmed": 228,
-        "totalAll": 344,
+        "totalUnconfirmed": 229,
+        "totalAll": 345,
         "firstConfirmed": 57,
-        "firstUnconfirmed": 41,
+        "firstUnconfirmed": 42,
         "totalStr": "116*",
-        "firstStr": "57(41)"
+        "firstStr": "57(42)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -468,11 +468,11 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 53,
-          "totalUnconfirmed": 41,
-          "totalAll": 94,
+          "totalUnconfirmed": 42,
+          "totalAll": 95,
           "firstConfirmed": 12,
           "firstUnconfirmed": 1,
-          "totalStr": "53(41)",
+          "totalStr": "53(42)",
           "firstStr": "12(1)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 113,
-        "totalUnconfirmed": 240,
-        "totalAll": 353,
+        "totalUnconfirmed": 241,
+        "totalAll": 354,
         "firstConfirmed": 69,
         "firstUnconfirmed": 35,
         "totalStr": "113*",
@@ -527,11 +527,11 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 35,
-          "totalUnconfirmed": 20,
-          "totalAll": 55,
+          "totalUnconfirmed": 21,
+          "totalAll": 56,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "35(20)",
+          "totalStr": "35(21)",
           "firstStr": "1(1)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 103,
-        "totalUnconfirmed": 169,
-        "totalAll": 272,
+        "totalUnconfirmed": 170,
+        "totalAll": 273,
         "firstConfirmed": 31,
         "firstUnconfirmed": 18,
         "totalStr": "103*",
@@ -652,22 +652,22 @@
           "section": "1c Technik informatyk ze specjalnością AI",
           "places": 32,
           "totalConfirmed": 17,
-          "totalUnconfirmed": 21,
-          "totalAll": 38,
+          "totalUnconfirmed": 22,
+          "totalAll": 39,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 5,
-          "totalStr": "17(21)",
-          "firstStr": "5(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "17(22)",
+          "firstStr": "5(6)"
         },
         {
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 23,
-          "totalUnconfirmed": 30,
-          "totalAll": 53,
+          "totalUnconfirmed": 31,
+          "totalAll": 54,
           "firstConfirmed": 1,
           "firstUnconfirmed": 7,
-          "totalStr": "23(30)",
+          "totalStr": "23(31)",
           "firstStr": "1(7)"
         },
         {
@@ -695,12 +695,12 @@
       ],
       "razem": {
         "totalConfirmed": 48,
-        "totalUnconfirmed": 133,
-        "totalAll": 181,
+        "totalUnconfirmed": 135,
+        "totalAll": 183,
         "firstConfirmed": 20,
-        "firstUnconfirmed": 26,
+        "firstUnconfirmed": 27,
         "totalStr": "48*",
-        "firstStr": "20(26)"
+        "firstStr": "20(27)"
       }
     }
   }
