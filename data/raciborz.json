@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-24T05:36:27.391Z",
+    "scrapedAt": "2026-05-24T08:19:39.374Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 558,
-    "totalUnconfirmed": 1042,
-    "totalCandidates": 1600
+    "totalUnconfirmed": 1045,
+    "totalCandidates": 1603
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -19,12 +19,12 @@
           "section": "1f_1 Fryzjer",
           "places": 16,
           "totalConfirmed": 27,
-          "totalUnconfirmed": 20,
-          "totalAll": 47,
+          "totalUnconfirmed": 21,
+          "totalAll": 48,
           "firstConfirmed": 13,
-          "firstUnconfirmed": 5,
-          "totalStr": "27(20)",
-          "firstStr": "13(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "27(21)",
+          "firstStr": "13(6)"
         },
         {
           "section": "1f_2 Cukiernik",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 55,
-        "totalUnconfirmed": 77,
-        "totalAll": 132,
+        "totalUnconfirmed": 78,
+        "totalAll": 133,
         "firstConfirmed": 30,
-        "firstUnconfirmed": 21,
+        "firstUnconfirmed": 22,
         "totalStr": "55*",
-        "firstStr": "30(21)"
+        "firstStr": "30(22)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -258,18 +258,18 @@
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 37,
-          "totalUnconfirmed": 33,
-          "totalAll": 70,
+          "totalUnconfirmed": 34,
+          "totalAll": 71,
           "firstConfirmed": 7,
           "firstUnconfirmed": 9,
-          "totalStr": "37(33)",
+          "totalStr": "37(34)",
           "firstStr": "7(9)"
         }
       ],
       "razem": {
         "totalConfirmed": 94,
-        "totalUnconfirmed": 204,
-        "totalAll": 298,
+        "totalUnconfirmed": 205,
+        "totalAll": 299,
         "firstConfirmed": 29,
         "firstUnconfirmed": 41,
         "totalStr": "94*",
@@ -490,18 +490,18 @@
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 48,
-          "totalUnconfirmed": 30,
-          "totalAll": 78,
+          "totalUnconfirmed": 31,
+          "totalAll": 79,
           "firstConfirmed": 23,
           "firstUnconfirmed": 11,
-          "totalStr": "48(30)",
+          "totalStr": "48(31)",
           "firstStr": "23(11)"
         }
       ],
       "razem": {
         "totalConfirmed": 113,
-        "totalUnconfirmed": 218,
-        "totalAll": 331,
+        "totalUnconfirmed": 219,
+        "totalAll": 332,
         "firstConfirmed": 69,
         "firstUnconfirmed": 35,
         "totalStr": "113*",
