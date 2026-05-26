@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-26T21:30:33.794Z",
+    "scrapedAt": "2026-05-26T22:51:03.724Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 788,
-    "totalUnconfirmed": 1143,
-    "totalCandidates": 1931
+    "totalUnconfirmed": 1146,
+    "totalCandidates": 1934
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -122,11 +122,11 @@
           "section": "1b Mechanik pojazdów samochodowych",
           "places": 32,
           "totalConfirmed": 18,
-          "totalUnconfirmed": 34,
-          "totalAll": 52,
+          "totalUnconfirmed": 35,
+          "totalAll": 53,
           "firstConfirmed": 6,
           "firstUnconfirmed": 19,
-          "totalStr": "18(34)",
+          "totalStr": "18(35)",
           "firstStr": "6(19)"
         },
         {
@@ -165,8 +165,8 @@
       ],
       "razem": {
         "totalConfirmed": 34,
-        "totalUnconfirmed": 96,
-        "totalAll": 130,
+        "totalUnconfirmed": 97,
+        "totalAll": 131,
         "firstConfirmed": 13,
         "firstUnconfirmed": 41,
         "totalStr": "34*",
@@ -630,23 +630,23 @@
           "section": "1a Technik mechanik",
           "places": 32,
           "totalConfirmed": 19,
-          "totalUnconfirmed": 30,
-          "totalAll": 49,
+          "totalUnconfirmed": 31,
+          "totalAll": 50,
           "firstConfirmed": 5,
           "firstUnconfirmed": 4,
-          "totalStr": "19(30)",
+          "totalStr": "19(31)",
           "firstStr": "5(4)"
         },
         {
           "section": "1b-f Technik elektronik",
           "places": 16,
           "totalConfirmed": 21,
-          "totalUnconfirmed": 31,
-          "totalAll": 52,
+          "totalUnconfirmed": 32,
+          "totalAll": 53,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 2,
-          "totalStr": "21(31)",
-          "firstStr": "2(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "21(32)",
+          "firstStr": "2(3)"
         },
         {
           "section": "1c Technik informatyk ze specjalnością AI",
@@ -695,12 +695,12 @@
       ],
       "razem": {
         "totalConfirmed": 71,
-        "totalUnconfirmed": 170,
-        "totalAll": 241,
+        "totalUnconfirmed": 172,
+        "totalAll": 243,
         "firstConfirmed": 20,
-        "firstUnconfirmed": 43,
+        "firstUnconfirmed": 44,
         "totalStr": "71*",
-        "firstStr": "20(43)"
+        "firstStr": "20(44)"
       }
     }
   }
