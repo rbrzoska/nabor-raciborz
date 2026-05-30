@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-30T20:04:22.023Z",
+    "scrapedAt": "2026-05-30T21:31:49.940Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1019,
-    "totalUnconfirmed": 1068,
-    "totalCandidates": 2087
+    "totalUnconfirmed": 1078,
+    "totalCandidates": 2097
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,22 +181,22 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 50,
-          "totalUnconfirmed": 16,
-          "totalAll": 66,
+          "totalUnconfirmed": 17,
+          "totalAll": 67,
           "firstConfirmed": 16,
           "firstUnconfirmed": 4,
-          "totalStr": "50(16)",
+          "totalStr": "50(17)",
           "firstStr": "16(4)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
           "places": 16,
           "totalConfirmed": 46,
-          "totalUnconfirmed": 17,
-          "totalAll": 63,
+          "totalUnconfirmed": 18,
+          "totalAll": 64,
           "firstConfirmed": 4,
           "firstUnconfirmed": 2,
-          "totalStr": "46(17)",
+          "totalStr": "46(18)",
           "firstStr": "4(2)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 185,
-        "totalUnconfirmed": 223,
-        "totalAll": 408,
+        "totalUnconfirmed": 225,
+        "totalAll": 410,
         "firstConfirmed": 68,
         "firstUnconfirmed": 43,
         "totalStr": "185*",
@@ -479,29 +479,29 @@
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
           "totalConfirmed": 60,
-          "totalUnconfirmed": 23,
-          "totalAll": 83,
+          "totalUnconfirmed": 24,
+          "totalAll": 84,
           "firstConfirmed": 19,
           "firstUnconfirmed": 6,
-          "totalStr": "60(23)",
+          "totalStr": "60(24)",
           "firstStr": "19(6)"
         },
         {
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 86,
-          "totalUnconfirmed": 31,
-          "totalAll": 117,
+          "totalUnconfirmed": 32,
+          "totalAll": 118,
           "firstConfirmed": 39,
           "firstUnconfirmed": 6,
-          "totalStr": "86(31)",
+          "totalStr": "86(32)",
           "firstStr": "39(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 215,
-        "totalUnconfirmed": 172,
-        "totalAll": 387,
+        "totalUnconfirmed": 174,
+        "totalAll": 389,
         "firstConfirmed": 116,
         "firstUnconfirmed": 29,
         "totalStr": "215*",
@@ -641,44 +641,44 @@
           "section": "1b-f Technik elektronik",
           "places": 16,
           "totalConfirmed": 39,
-          "totalUnconfirmed": 22,
-          "totalAll": 61,
+          "totalUnconfirmed": 23,
+          "totalAll": 62,
           "firstConfirmed": 2,
           "firstUnconfirmed": 2,
-          "totalStr": "39(22)",
+          "totalStr": "39(23)",
           "firstStr": "2(2)"
         },
         {
           "section": "1c Technik informatyk ze specjalnością AI",
           "places": 32,
           "totalConfirmed": 46,
-          "totalUnconfirmed": 15,
-          "totalAll": 61,
+          "totalUnconfirmed": 16,
+          "totalAll": 62,
           "firstConfirmed": 9,
           "firstUnconfirmed": 5,
-          "totalStr": "46(15)",
+          "totalStr": "46(16)",
           "firstStr": "9(5)"
         },
         {
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 56,
-          "totalUnconfirmed": 27,
-          "totalAll": 83,
+          "totalUnconfirmed": 29,
+          "totalAll": 85,
           "firstConfirmed": 12,
-          "firstUnconfirmed": 7,
-          "totalStr": "56(27)",
-          "firstStr": "12(7)"
+          "firstUnconfirmed": 8,
+          "totalStr": "56(29)",
+          "firstStr": "12(8)"
         },
         {
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 55,
-          "totalUnconfirmed": 32,
-          "totalAll": 87,
+          "totalUnconfirmed": 34,
+          "totalAll": 89,
           "firstConfirmed": 13,
           "firstUnconfirmed": 9,
-          "totalStr": "55(32)",
+          "totalStr": "55(34)",
           "firstStr": "13(9)"
         },
         {
@@ -695,12 +695,12 @@
       ],
       "razem": {
         "totalConfirmed": 108,
-        "totalUnconfirmed": 134,
-        "totalAll": 242,
+        "totalUnconfirmed": 140,
+        "totalAll": 248,
         "firstConfirmed": 44,
-        "firstUnconfirmed": 29,
+        "firstUnconfirmed": 30,
         "totalStr": "108*",
-        "firstStr": "44(29)"
+        "firstStr": "44(30)"
       }
     }
   }
