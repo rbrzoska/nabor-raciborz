@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-30T16:00:35.978Z",
+    "scrapedAt": "2026-05-30T17:12:56.526Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1019,
-    "totalUnconfirmed": 1029,
-    "totalCandidates": 2048
+    "totalUnconfirmed": 1036,
+    "totalCandidates": 2055
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,11 +181,11 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 50,
-          "totalUnconfirmed": 14,
-          "totalAll": 64,
+          "totalUnconfirmed": 15,
+          "totalAll": 65,
           "firstConfirmed": 16,
           "firstUnconfirmed": 4,
-          "totalStr": "50(14)",
+          "totalStr": "50(15)",
           "firstStr": "16(4)"
         },
         {
@@ -225,11 +225,11 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 90,
-          "totalUnconfirmed": 35,
-          "totalAll": 125,
+          "totalUnconfirmed": 36,
+          "totalAll": 126,
           "firstConfirmed": 8,
           "firstUnconfirmed": 8,
-          "totalStr": "90(35)",
+          "totalStr": "90(36)",
           "firstStr": "8(8)"
         },
         {
@@ -247,33 +247,33 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 61,
-          "totalUnconfirmed": 24,
-          "totalAll": 85,
+          "totalUnconfirmed": 25,
+          "totalAll": 86,
           "firstConfirmed": 5,
           "firstUnconfirmed": 2,
-          "totalStr": "61(24)",
+          "totalStr": "61(25)",
           "firstStr": "5(2)"
         },
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 80,
-          "totalUnconfirmed": 35,
-          "totalAll": 115,
+          "totalUnconfirmed": 36,
+          "totalAll": 116,
           "firstConfirmed": 13,
-          "firstUnconfirmed": 8,
-          "totalStr": "80(35)",
-          "firstStr": "13(8)"
+          "firstUnconfirmed": 9,
+          "totalStr": "80(36)",
+          "firstStr": "13(9)"
         }
       ],
       "razem": {
         "totalConfirmed": 185,
-        "totalUnconfirmed": 212,
-        "totalAll": 397,
+        "totalUnconfirmed": 216,
+        "totalAll": 401,
         "firstConfirmed": 68,
-        "firstUnconfirmed": 42,
+        "firstUnconfirmed": 43,
         "totalStr": "185*",
-        "firstStr": "68(42)"
+        "firstStr": "68(43)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -413,11 +413,11 @@
           "section": "1BG_TGiPC Technik grafiki i poligrafii cyfrowej",
           "places": 16,
           "totalConfirmed": 58,
-          "totalUnconfirmed": 13,
-          "totalAll": 71,
+          "totalUnconfirmed": 14,
+          "totalAll": 72,
           "firstConfirmed": 6,
           "firstUnconfirmed": 3,
-          "totalStr": "58(13)",
+          "totalStr": "58(14)",
           "firstStr": "6(3)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 215,
-        "totalUnconfirmed": 165,
-        "totalAll": 380,
+        "totalUnconfirmed": 166,
+        "totalAll": 381,
         "firstConfirmed": 116,
         "firstUnconfirmed": 27,
         "totalStr": "215*",
@@ -527,22 +527,22 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 61,
-          "totalUnconfirmed": 20,
-          "totalAll": 81,
+          "totalUnconfirmed": 21,
+          "totalAll": 82,
           "firstConfirmed": 2,
           "firstUnconfirmed": 4,
-          "totalStr": "61(20)",
+          "totalStr": "61(21)",
           "firstStr": "2(4)"
         },
         {
           "section": "1B Technik budownictwa",
           "places": 32,
           "totalConfirmed": 32,
-          "totalUnconfirmed": 13,
-          "totalAll": 45,
+          "totalUnconfirmed": 14,
+          "totalAll": 46,
           "firstConfirmed": 5,
           "firstUnconfirmed": 0,
-          "totalStr": "32(13)",
+          "totalStr": "32(14)",
           "firstStr": "5(0)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 179,
-        "totalUnconfirmed": 143,
-        "totalAll": 322,
+        "totalUnconfirmed": 145,
+        "totalAll": 324,
         "firstConfirmed": 48,
         "firstUnconfirmed": 16,
         "totalStr": "179*",
