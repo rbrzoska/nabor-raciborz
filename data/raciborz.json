@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-30T14:51:40.266Z",
+    "scrapedAt": "2026-05-30T16:00:35.978Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1019,
-    "totalUnconfirmed": 1024,
-    "totalCandidates": 2043
+    "totalUnconfirmed": 1029,
+    "totalCandidates": 2048
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -52,12 +52,12 @@
           "section": "1m_2 Inny zawód",
           "places": 16,
           "totalConfirmed": 23,
-          "totalUnconfirmed": 10,
-          "totalAll": 33,
+          "totalUnconfirmed": 11,
+          "totalAll": 34,
           "firstConfirmed": 3,
-          "firstUnconfirmed": 2,
-          "totalStr": "23(10)",
-          "firstStr": "3(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "23(11)",
+          "firstStr": "3(3)"
         },
         {
           "section": "1q Kucharz",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 78,
-        "totalUnconfirmed": 78,
-        "totalAll": 156,
+        "totalUnconfirmed": 79,
+        "totalAll": 157,
         "firstConfirmed": 40,
-        "firstUnconfirmed": 15,
+        "firstUnconfirmed": 16,
         "totalStr": "78*",
-        "firstStr": "40(15)"
+        "firstStr": "40(16)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -133,11 +133,11 @@
           "section": "1c Ślusarz",
           "places": 32,
           "totalConfirmed": 10,
-          "totalUnconfirmed": 6,
-          "totalAll": 16,
+          "totalUnconfirmed": 7,
+          "totalAll": 17,
           "firstConfirmed": 0,
           "firstUnconfirmed": 1,
-          "totalStr": "10(6)",
+          "totalStr": "10(7)",
           "firstStr": "0(1)"
         },
         {
@@ -165,8 +165,8 @@
       ],
       "razem": {
         "totalConfirmed": 50,
-        "totalUnconfirmed": 97,
-        "totalAll": 147,
+        "totalUnconfirmed": 98,
+        "totalAll": 148,
         "firstConfirmed": 22,
         "firstUnconfirmed": 39,
         "totalStr": "50*",
@@ -214,12 +214,12 @@
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 43,
-          "totalUnconfirmed": 27,
-          "totalAll": 70,
+          "totalUnconfirmed": 28,
+          "totalAll": 71,
           "firstConfirmed": 7,
-          "firstUnconfirmed": 7,
-          "totalStr": "43(27)",
-          "firstStr": "7(7)"
+          "firstUnconfirmed": 8,
+          "totalStr": "43(28)",
+          "firstStr": "7(8)"
         },
         {
           "section": "1e biologia, j. polski, j. angielski",
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 185,
-        "totalUnconfirmed": 211,
-        "totalAll": 396,
+        "totalUnconfirmed": 212,
+        "totalAll": 397,
         "firstConfirmed": 68,
-        "firstUnconfirmed": 41,
+        "firstUnconfirmed": 42,
         "totalStr": "185*",
-        "firstStr": "68(41)"
+        "firstStr": "68(42)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -468,11 +468,11 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 100,
-          "totalUnconfirmed": 33,
-          "totalAll": 133,
+          "totalUnconfirmed": 34,
+          "totalAll": 134,
           "firstConfirmed": 16,
           "firstUnconfirmed": 7,
-          "totalStr": "100(33)",
+          "totalStr": "100(34)",
           "firstStr": "16(7)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 215,
-        "totalUnconfirmed": 164,
-        "totalAll": 379,
+        "totalUnconfirmed": 165,
+        "totalAll": 380,
         "firstConfirmed": 116,
         "firstUnconfirmed": 27,
         "totalStr": "215*",
@@ -516,11 +516,11 @@
           "section": "1A_1 Technik analityk",
           "places": 16,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 13,
-          "totalAll": 38,
+          "totalUnconfirmed": 14,
+          "totalAll": 39,
           "firstConfirmed": 5,
           "firstUnconfirmed": 1,
-          "totalStr": "25(13)",
+          "totalStr": "25(14)",
           "firstStr": "5(1)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 179,
-        "totalUnconfirmed": 142,
-        "totalAll": 321,
+        "totalUnconfirmed": 143,
+        "totalAll": 322,
         "firstConfirmed": 48,
         "firstUnconfirmed": 16,
         "totalStr": "179*",
