@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-31T12:58:18.164Z",
+    "scrapedAt": "2026-05-31T14:43:08.742Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1019,
-    "totalUnconfirmed": 1140,
-    "totalCandidates": 2159
+    "totalUnconfirmed": 1160,
+    "totalCandidates": 2179
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -111,23 +111,23 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 32,
-          "totalAll": 57,
+          "totalUnconfirmed": 33,
+          "totalAll": 58,
           "firstConfirmed": 9,
           "firstUnconfirmed": 12,
-          "totalStr": "25(32)",
+          "totalStr": "25(33)",
           "firstStr": "9(12)"
         },
         {
           "section": "1b Mechanik pojazdów samochodowych",
           "places": 32,
           "totalConfirmed": 27,
-          "totalUnconfirmed": 37,
-          "totalAll": 64,
+          "totalUnconfirmed": 39,
+          "totalAll": 66,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 20,
-          "totalStr": "27(37)",
-          "firstStr": "8(20)"
+          "firstUnconfirmed": 21,
+          "totalStr": "27(39)",
+          "firstStr": "8(21)"
         },
         {
           "section": "1c Ślusarz",
@@ -155,22 +155,22 @@
           "section": "1e-d Operator obrabiarek skrawających",
           "places": 16,
           "totalConfirmed": 11,
-          "totalUnconfirmed": 5,
-          "totalAll": 16,
+          "totalUnconfirmed": 6,
+          "totalAll": 17,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "11(5)",
+          "totalStr": "11(6)",
           "firstStr": "1(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 50,
-        "totalUnconfirmed": 98,
-        "totalAll": 148,
+        "totalUnconfirmed": 102,
+        "totalAll": 152,
         "firstConfirmed": 22,
-        "firstUnconfirmed": 39,
+        "firstUnconfirmed": 40,
         "totalStr": "50*",
-        "firstStr": "22(39)"
+        "firstStr": "22(40)"
       }
     },
     "II Liceum Ogólnokształcące im.A.Mickiewicza w Raciborzu": {
@@ -181,12 +181,12 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 50,
-          "totalUnconfirmed": 18,
-          "totalAll": 68,
+          "totalUnconfirmed": 19,
+          "totalAll": 69,
           "firstConfirmed": 16,
-          "firstUnconfirmed": 4,
-          "totalStr": "50(18)",
-          "firstStr": "16(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "50(19)",
+          "firstStr": "16(5)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
@@ -203,11 +203,11 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 69,
-          "totalUnconfirmed": 35,
-          "totalAll": 104,
+          "totalUnconfirmed": 36,
+          "totalAll": 105,
           "firstConfirmed": 11,
           "firstUnconfirmed": 6,
-          "totalStr": "69(35)",
+          "totalStr": "69(36)",
           "firstStr": "11(6)"
         },
         {
@@ -225,11 +225,11 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 90,
-          "totalUnconfirmed": 39,
-          "totalAll": 129,
+          "totalUnconfirmed": 40,
+          "totalAll": 130,
           "firstConfirmed": 8,
           "firstUnconfirmed": 8,
-          "totalStr": "90(39)",
+          "totalStr": "90(40)",
           "firstStr": "8(8)"
         },
         {
@@ -247,33 +247,33 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 61,
-          "totalUnconfirmed": 27,
-          "totalAll": 88,
+          "totalUnconfirmed": 28,
+          "totalAll": 89,
           "firstConfirmed": 5,
           "firstUnconfirmed": 2,
-          "totalStr": "61(27)",
+          "totalStr": "61(28)",
           "firstStr": "5(2)"
         },
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 80,
-          "totalUnconfirmed": 40,
-          "totalAll": 120,
+          "totalUnconfirmed": 41,
+          "totalAll": 121,
           "firstConfirmed": 13,
-          "firstUnconfirmed": 10,
-          "totalStr": "80(40)",
-          "firstStr": "13(10)"
+          "firstUnconfirmed": 11,
+          "totalStr": "80(41)",
+          "firstStr": "13(11)"
         }
       ],
       "razem": {
         "totalConfirmed": 185,
-        "totalUnconfirmed": 236,
-        "totalAll": 421,
+        "totalUnconfirmed": 241,
+        "totalAll": 426,
         "firstConfirmed": 68,
-        "firstUnconfirmed": 44,
+        "firstUnconfirmed": 46,
         "totalStr": "185*",
-        "firstStr": "68(44)"
+        "firstStr": "68(46)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -328,22 +328,22 @@
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
           "totalConfirmed": 61,
-          "totalUnconfirmed": 28,
-          "totalAll": 89,
+          "totalUnconfirmed": 29,
+          "totalAll": 90,
           "firstConfirmed": 13,
           "firstUnconfirmed": 6,
-          "totalStr": "61(28)",
+          "totalStr": "61(29)",
           "firstStr": "13(6)"
         },
         {
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 77,
-          "totalUnconfirmed": 22,
-          "totalAll": 99,
+          "totalUnconfirmed": 23,
+          "totalAll": 100,
           "firstConfirmed": 19,
           "firstUnconfirmed": 4,
-          "totalStr": "77(22)",
+          "totalStr": "77(23)",
           "firstStr": "19(4)"
         },
         {
@@ -361,18 +361,18 @@
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 85,
-          "totalUnconfirmed": 38,
-          "totalAll": 123,
+          "totalUnconfirmed": 39,
+          "totalAll": 124,
           "firstConfirmed": 13,
           "firstUnconfirmed": 8,
-          "totalStr": "85(38)",
+          "totalStr": "85(39)",
           "firstStr": "13(8)"
         }
       ],
       "razem": {
         "totalConfirmed": 204,
-        "totalUnconfirmed": 220,
-        "totalAll": 424,
+        "totalUnconfirmed": 223,
+        "totalAll": 427,
         "firstConfirmed": 96,
         "firstUnconfirmed": 38,
         "totalStr": "204*",
@@ -416,20 +416,20 @@
           "totalUnconfirmed": 16,
           "totalAll": 74,
           "firstConfirmed": 6,
-          "firstUnconfirmed": 4,
+          "firstUnconfirmed": 3,
           "totalStr": "58(16)",
-          "firstStr": "6(4)"
+          "firstStr": "6(3)"
         },
         {
           "section": "1BG_TREKL Technik reklamy",
           "places": 16,
           "totalConfirmed": 71,
-          "totalUnconfirmed": 21,
-          "totalAll": 92,
+          "totalUnconfirmed": 22,
+          "totalAll": 93,
           "firstConfirmed": 11,
-          "firstUnconfirmed": 2,
-          "totalStr": "71(21)",
-          "firstStr": "11(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "71(22)",
+          "firstStr": "11(3)"
         },
         {
           "section": "1E_TE Technik ekonomista",
@@ -468,22 +468,22 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 100,
-          "totalUnconfirmed": 41,
-          "totalAll": 141,
+          "totalUnconfirmed": 42,
+          "totalAll": 142,
           "firstConfirmed": 16,
           "firstUnconfirmed": 9,
-          "totalStr": "100(41)",
+          "totalStr": "100(42)",
           "firstStr": "16(9)"
         },
         {
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
           "totalConfirmed": 60,
-          "totalUnconfirmed": 25,
-          "totalAll": 85,
+          "totalUnconfirmed": 26,
+          "totalAll": 86,
           "firstConfirmed": 19,
           "firstUnconfirmed": 6,
-          "totalStr": "60(25)",
+          "totalStr": "60(26)",
           "firstStr": "19(6)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 215,
-        "totalUnconfirmed": 198,
-        "totalAll": 413,
+        "totalUnconfirmed": 201,
+        "totalAll": 416,
         "firstConfirmed": 116,
         "firstUnconfirmed": 34,
         "totalStr": "215*",
@@ -630,11 +630,11 @@
           "section": "1a Technik mechanik",
           "places": 32,
           "totalConfirmed": 32,
-          "totalUnconfirmed": 29,
-          "totalAll": 61,
+          "totalUnconfirmed": 30,
+          "totalAll": 62,
           "firstConfirmed": 5,
           "firstUnconfirmed": 5,
-          "totalStr": "32(29)",
+          "totalStr": "32(30)",
           "firstStr": "5(5)"
         },
         {
@@ -652,55 +652,55 @@
           "section": "1c Technik informatyk ze specjalnością AI",
           "places": 32,
           "totalConfirmed": 46,
-          "totalUnconfirmed": 17,
-          "totalAll": 63,
+          "totalUnconfirmed": 16,
+          "totalAll": 62,
           "firstConfirmed": 9,
           "firstUnconfirmed": 5,
-          "totalStr": "46(17)",
+          "totalStr": "46(16)",
           "firstStr": "9(5)"
         },
         {
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 56,
-          "totalUnconfirmed": 29,
-          "totalAll": 85,
+          "totalUnconfirmed": 31,
+          "totalAll": 87,
           "firstConfirmed": 12,
-          "firstUnconfirmed": 8,
-          "totalStr": "56(29)",
-          "firstStr": "12(8)"
+          "firstUnconfirmed": 9,
+          "totalStr": "56(31)",
+          "firstStr": "12(9)"
         },
         {
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 55,
-          "totalUnconfirmed": 36,
-          "totalAll": 91,
+          "totalUnconfirmed": 38,
+          "totalAll": 93,
           "firstConfirmed": 13,
-          "firstUnconfirmed": 9,
-          "totalStr": "55(36)",
-          "firstStr": "13(9)"
+          "firstUnconfirmed": 10,
+          "totalStr": "55(38)",
+          "firstStr": "13(10)"
         },
         {
           "section": "1f-b Technik oze",
           "places": 16,
           "totalConfirmed": 18,
-          "totalUnconfirmed": 10,
-          "totalAll": 28,
+          "totalUnconfirmed": 11,
+          "totalAll": 29,
           "firstConfirmed": 3,
           "firstUnconfirmed": 1,
-          "totalStr": "18(10)",
+          "totalStr": "18(11)",
           "firstStr": "3(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 108,
-        "totalUnconfirmed": 146,
-        "totalAll": 254,
+        "totalUnconfirmed": 151,
+        "totalAll": 259,
         "firstConfirmed": 44,
-        "firstUnconfirmed": 30,
+        "firstUnconfirmed": 32,
         "totalStr": "108*",
-        "firstStr": "44(30)"
+        "firstStr": "44(32)"
       }
     }
   }
