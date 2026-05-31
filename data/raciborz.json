@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-05-31T16:01:06.155Z",
+    "scrapedAt": "2026-05-31T17:14:06.021Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1019,
-    "totalUnconfirmed": 1212,
-    "totalCandidates": 2231
+    "totalUnconfirmed": 1220,
+    "totalCandidates": 2239
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -74,11 +74,11 @@
           "section": "1s_1 Monter zab. i robót wykończ. w budownictwie",
           "places": 16,
           "totalConfirmed": 11,
-          "totalUnconfirmed": 8,
-          "totalAll": 19,
+          "totalUnconfirmed": 9,
+          "totalAll": 20,
           "firstConfirmed": 4,
           "firstUnconfirmed": 1,
-          "totalStr": "11(8)",
+          "totalStr": "11(9)",
           "firstStr": "4(1)"
         },
         {
@@ -95,8 +95,8 @@
       ],
       "razem": {
         "totalConfirmed": 78,
-        "totalUnconfirmed": 86,
-        "totalAll": 164,
+        "totalUnconfirmed": 87,
+        "totalAll": 165,
         "firstConfirmed": 40,
         "firstUnconfirmed": 18,
         "totalStr": "78*",
@@ -122,12 +122,12 @@
           "section": "1b Mechanik pojazdów samochodowych",
           "places": 32,
           "totalConfirmed": 27,
-          "totalUnconfirmed": 40,
-          "totalAll": 67,
+          "totalUnconfirmed": 41,
+          "totalAll": 68,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 21,
-          "totalStr": "27(40)",
-          "firstStr": "8(21)"
+          "firstUnconfirmed": 22,
+          "totalStr": "27(41)",
+          "firstStr": "8(22)"
         },
         {
           "section": "1c Ślusarz",
@@ -165,12 +165,12 @@
       ],
       "razem": {
         "totalConfirmed": 50,
-        "totalUnconfirmed": 103,
-        "totalAll": 153,
+        "totalUnconfirmed": 104,
+        "totalAll": 154,
         "firstConfirmed": 22,
-        "firstUnconfirmed": 40,
+        "firstUnconfirmed": 41,
         "totalStr": "50*",
-        "firstStr": "22(40)"
+        "firstStr": "22(41)"
       }
     },
     "II Liceum Ogólnokształcące im.A.Mickiewicza w Raciborzu": {
@@ -284,12 +284,12 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 78,
-          "totalUnconfirmed": 40,
-          "totalAll": 118,
+          "totalUnconfirmed": 41,
+          "totalAll": 119,
           "firstConfirmed": 17,
-          "firstUnconfirmed": 10,
-          "totalStr": "78(40)",
-          "firstStr": "17(10)"
+          "firstUnconfirmed": 11,
+          "totalStr": "78(41)",
+          "firstStr": "17(11)"
         },
         {
           "section": "1DAg dwujęzyczna (mat-geo-ang)",
@@ -339,12 +339,12 @@
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 77,
-          "totalUnconfirmed": 24,
-          "totalAll": 101,
+          "totalUnconfirmed": 25,
+          "totalAll": 102,
           "firstConfirmed": 19,
-          "firstUnconfirmed": 4,
-          "totalStr": "77(24)",
-          "firstStr": "19(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "77(25)",
+          "firstStr": "19(5)"
         },
         {
           "section": "1MDm medyczna (biol-mat-ang)",
@@ -361,22 +361,22 @@
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 85,
-          "totalUnconfirmed": 40,
-          "totalAll": 125,
+          "totalUnconfirmed": 41,
+          "totalAll": 126,
           "firstConfirmed": 13,
           "firstUnconfirmed": 8,
-          "totalStr": "85(40)",
+          "totalStr": "85(41)",
           "firstStr": "13(8)"
         }
       ],
       "razem": {
         "totalConfirmed": 204,
-        "totalUnconfirmed": 232,
-        "totalAll": 436,
+        "totalUnconfirmed": 235,
+        "totalAll": 439,
         "firstConfirmed": 96,
-        "firstUnconfirmed": 40,
+        "firstUnconfirmed": 42,
         "totalStr": "204*",
-        "firstStr": "96(40)"
+        "firstStr": "96(42)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -516,33 +516,33 @@
           "section": "1A_1 Technik analityk",
           "places": 16,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 15,
-          "totalAll": 40,
+          "totalUnconfirmed": 16,
+          "totalAll": 41,
           "firstConfirmed": 5,
           "firstUnconfirmed": 1,
-          "totalStr": "25(15)",
+          "totalStr": "25(16)",
           "firstStr": "5(1)"
         },
         {
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 61,
-          "totalUnconfirmed": 26,
-          "totalAll": 87,
+          "totalUnconfirmed": 27,
+          "totalAll": 88,
           "firstConfirmed": 2,
           "firstUnconfirmed": 6,
-          "totalStr": "61(26)",
+          "totalStr": "61(27)",
           "firstStr": "2(6)"
         },
         {
           "section": "1B Technik budownictwa",
           "places": 32,
           "totalConfirmed": 32,
-          "totalUnconfirmed": 18,
-          "totalAll": 50,
+          "totalUnconfirmed": 19,
+          "totalAll": 51,
           "firstConfirmed": 5,
           "firstUnconfirmed": 0,
-          "totalStr": "32(18)",
+          "totalStr": "32(19)",
           "firstStr": "5(0)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 179,
-        "totalUnconfirmed": 174,
-        "totalAll": 353,
+        "totalUnconfirmed": 177,
+        "totalAll": 356,
         "firstConfirmed": 48,
         "firstUnconfirmed": 19,
         "totalStr": "179*",
