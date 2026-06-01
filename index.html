@@ -145,6 +145,7 @@
   <span>✅ Potwierdzeni: <strong id="metaConf">—</strong></span>
   <span>⏳ Niepotwierdzone: <strong id="metaUnconf">—</strong></span>
   <span>👥 Chętni łącznie: <strong id="metaTotal">—</strong></span>
+  <span>🥇 Pierwszy wybór: <strong id="metaFirst">—</strong></span>
 </div>
 
 <main>
@@ -244,12 +245,19 @@ function fmtDate(iso) {
 // ── Render ────────────────────────────────────────────────────────────────────
 function computeTotals(schools) {
   let totalConfirmed = 0, totalUnconfirmed = 0, totalPlaces = 0;
+  let firstConfirmed = 0, firstUnconfirmed = 0;
   for (const s of Object.values(schools)) {
     totalPlaces     += s.places || 0;
     totalConfirmed  += s.razem?.totalConfirmed || 0;
     totalUnconfirmed+= razemUnconfirmed(s);
+    firstConfirmed  += s.razem?.firstConfirmed   || 0;
+    firstUnconfirmed+= s.razem?.firstUnconfirmed || 0;
   }
-  return { totalPlaces, totalConfirmed, totalUnconfirmed, totalCandidates: totalConfirmed + totalUnconfirmed };
+  return {
+    totalPlaces, totalConfirmed, totalUnconfirmed,
+    totalCandidates: totalConfirmed + totalUnconfirmed,
+    firstConfirmed, firstUnconfirmed, firstTotal: firstConfirmed + firstUnconfirmed,
+  };
 }
 
 function renderAll(data) {
@@ -270,6 +278,12 @@ function renderMeta(m) {
   document.getElementById('metaConf').textContent    = m?.totalConfirmed ?? '—';
   document.getElementById('metaUnconf').textContent  = m?.totalUnconfirmed ?? '—';
   document.getElementById('metaTotal').textContent   = m?.totalCandidates ?? '—';
+  const first = document.getElementById('metaFirst');
+  if (m?.firstTotal != null) {
+    first.textContent = `${m.firstTotal} (${m.firstConfirmed} ✅ + ${m.firstUnconfirmed} ⏳)`;
+  } else {
+    first.textContent = '—';
+  }
 }
 
 function renderCards(meta, schools) {
