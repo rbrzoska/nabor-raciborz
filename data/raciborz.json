@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-02T13:41:51.243Z",
+    "scrapedAt": "2026-06-02T13:54:24.010Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1335,
-    "totalUnconfirmed": 844,
-    "totalCandidates": 2179
+    "totalUnconfirmed": 839,
+    "totalCandidates": 2174
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -111,11 +111,11 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 40,
-          "totalUnconfirmed": 21,
-          "totalAll": 61,
+          "totalUnconfirmed": 20,
+          "totalAll": 60,
           "firstConfirmed": 13,
           "firstUnconfirmed": 8,
-          "totalStr": "40(21)",
+          "totalStr": "40(20)",
           "firstStr": "13(8)"
         },
         {
@@ -165,8 +165,8 @@
       ],
       "razem": {
         "totalConfirmed": 75,
-        "totalUnconfirmed": 68,
-        "totalAll": 143,
+        "totalUnconfirmed": 67,
+        "totalAll": 142,
         "firstConfirmed": 35,
         "firstUnconfirmed": 30,
         "totalStr": "75*",
@@ -446,11 +446,11 @@
           "section": "1HR_TH Technik handlowiec",
           "places": 16,
           "totalConfirmed": 70,
-          "totalUnconfirmed": 14,
-          "totalAll": 84,
+          "totalUnconfirmed": 13,
+          "totalAll": 83,
           "firstConfirmed": 5,
           "firstUnconfirmed": 3,
-          "totalStr": "70(14)",
+          "totalStr": "70(13)",
           "firstStr": "5(3)"
         },
         {
@@ -468,44 +468,44 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 125,
-          "totalUnconfirmed": 29,
-          "totalAll": 154,
+          "totalUnconfirmed": 28,
+          "totalAll": 153,
           "firstConfirmed": 20,
           "firstUnconfirmed": 7,
-          "totalStr": "125(29)",
+          "totalStr": "125(28)",
           "firstStr": "20(7)"
         },
         {
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
           "totalConfirmed": 84,
-          "totalUnconfirmed": 15,
-          "totalAll": 99,
+          "totalUnconfirmed": 14,
+          "totalAll": 98,
           "firstConfirmed": 22,
-          "firstUnconfirmed": 4,
-          "totalStr": "84(15)",
-          "firstStr": "22(4)"
+          "firstUnconfirmed": 3,
+          "totalStr": "84(14)",
+          "firstStr": "22(3)"
         },
         {
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 117,
-          "totalUnconfirmed": 20,
-          "totalAll": 137,
+          "totalUnconfirmed": 19,
+          "totalAll": 136,
           "firstConfirmed": 53,
           "firstUnconfirmed": 0,
-          "totalStr": "117(20)",
+          "totalStr": "117(19)",
           "firstStr": "53(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 275,
-        "totalUnconfirmed": 137,
-        "totalAll": 412,
+        "totalUnconfirmed": 133,
+        "totalAll": 408,
         "firstConfirmed": 143,
-        "firstUnconfirmed": 23,
+        "firstUnconfirmed": 22,
         "totalStr": "275*",
-        "firstStr": "143(23)"
+        "firstStr": "143(22)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
