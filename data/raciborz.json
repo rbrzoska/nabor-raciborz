@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-02T18:01:50.994Z",
+    "scrapedAt": "2026-06-02T21:28:59.603Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1335,
-    "totalUnconfirmed": 887,
-    "totalCandidates": 2222
+    "totalUnconfirmed": 897,
+    "totalCandidates": 2232
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -63,11 +63,11 @@
           "section": "1q Kucharz",
           "places": 32,
           "totalConfirmed": 25,
-          "totalUnconfirmed": 14,
-          "totalAll": 39,
+          "totalUnconfirmed": 15,
+          "totalAll": 40,
           "firstConfirmed": 8,
           "firstUnconfirmed": 4,
-          "totalStr": "25(14)",
+          "totalStr": "25(15)",
           "firstStr": "8(4)"
         },
         {
@@ -95,8 +95,8 @@
       ],
       "razem": {
         "totalConfirmed": 98,
-        "totalUnconfirmed": 77,
-        "totalAll": 175,
+        "totalUnconfirmed": 78,
+        "totalAll": 176,
         "firstConfirmed": 46,
         "firstUnconfirmed": 17,
         "totalStr": "98*",
@@ -111,11 +111,11 @@
           "section": "1a Elektryk",
           "places": 32,
           "totalConfirmed": 40,
-          "totalUnconfirmed": 21,
-          "totalAll": 61,
+          "totalUnconfirmed": 23,
+          "totalAll": 63,
           "firstConfirmed": 13,
           "firstUnconfirmed": 8,
-          "totalStr": "40(21)",
+          "totalStr": "40(23)",
           "firstStr": "13(8)"
         },
         {
@@ -155,18 +155,18 @@
           "section": "1e-d Operator obrabiarek skrawających",
           "places": 16,
           "totalConfirmed": 16,
-          "totalUnconfirmed": 3,
-          "totalAll": 19,
+          "totalUnconfirmed": 4,
+          "totalAll": 20,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "16(3)",
+          "totalStr": "16(4)",
           "firstStr": "1(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 75,
-        "totalUnconfirmed": 69,
-        "totalAll": 144,
+        "totalUnconfirmed": 72,
+        "totalAll": 147,
         "firstConfirmed": 35,
         "firstUnconfirmed": 30,
         "totalStr": "75*",
@@ -468,11 +468,11 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 125,
-          "totalUnconfirmed": 31,
-          "totalAll": 156,
+          "totalUnconfirmed": 32,
+          "totalAll": 157,
           "firstConfirmed": 20,
           "firstUnconfirmed": 9,
-          "totalStr": "125(31)",
+          "totalStr": "125(32)",
           "firstStr": "20(9)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 275,
-        "totalUnconfirmed": 143,
-        "totalAll": 418,
+        "totalUnconfirmed": 144,
+        "totalAll": 419,
         "firstConfirmed": 143,
         "firstUnconfirmed": 24,
         "totalStr": "275*",
@@ -641,11 +641,11 @@
           "section": "1b-f Technik elektronik",
           "places": 16,
           "totalConfirmed": 60,
-          "totalUnconfirmed": 17,
-          "totalAll": 77,
+          "totalUnconfirmed": 18,
+          "totalAll": 78,
           "firstConfirmed": 4,
           "firstUnconfirmed": 2,
-          "totalStr": "60(17)",
+          "totalStr": "60(18)",
           "firstStr": "4(2)"
         },
         {
@@ -663,23 +663,23 @@
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 20,
-          "totalAll": 107,
+          "totalUnconfirmed": 22,
+          "totalAll": 109,
           "firstConfirmed": 18,
-          "firstUnconfirmed": 5,
-          "totalStr": "87(20)",
-          "firstStr": "18(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "87(22)",
+          "firstStr": "18(6)"
         },
         {
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 85,
-          "totalUnconfirmed": 29,
-          "totalAll": 114,
+          "totalUnconfirmed": 31,
+          "totalAll": 116,
           "firstConfirmed": 18,
-          "firstUnconfirmed": 9,
-          "totalStr": "85(29)",
-          "firstStr": "18(9)"
+          "firstUnconfirmed": 10,
+          "totalStr": "85(31)",
+          "firstStr": "18(10)"
         },
         {
           "section": "1f-b Technik oze",
@@ -695,12 +695,12 @@
       ],
       "razem": {
         "totalConfirmed": 160,
-        "totalUnconfirmed": 109,
-        "totalAll": 269,
+        "totalUnconfirmed": 114,
+        "totalAll": 274,
         "firstConfirmed": 65,
-        "firstUnconfirmed": 25,
+        "firstUnconfirmed": 27,
         "totalStr": "160*",
-        "firstStr": "65(25)"
+        "firstStr": "65(27)"
       }
     }
   }
