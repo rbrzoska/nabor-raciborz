@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-04T16:47:36.526Z",
+    "scrapedAt": "2026-06-04T19:15:24.272Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 792,
-    "totalCandidates": 2239
+    "totalUnconfirmed": 795,
+    "totalCandidates": 2242
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -225,11 +225,11 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 124,
-          "totalUnconfirmed": 24,
-          "totalAll": 148,
+          "totalUnconfirmed": 25,
+          "totalAll": 149,
           "firstConfirmed": 13,
           "firstUnconfirmed": 5,
-          "totalStr": "124(24)",
+          "totalStr": "124(25)",
           "firstStr": "13(5)"
         },
         {
@@ -247,33 +247,33 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 89,
-          "totalUnconfirmed": 18,
-          "totalAll": 107,
+          "totalUnconfirmed": 19,
+          "totalAll": 108,
           "firstConfirmed": 10,
           "firstUnconfirmed": 1,
-          "totalStr": "89(18)",
+          "totalStr": "89(19)",
           "firstStr": "10(1)"
         },
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 115,
-          "totalUnconfirmed": 19,
-          "totalAll": 134,
+          "totalUnconfirmed": 20,
+          "totalAll": 135,
           "firstConfirmed": 22,
-          "firstUnconfirmed": 5,
-          "totalStr": "115(19)",
-          "firstStr": "22(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "115(20)",
+          "firstStr": "22(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 269,
-        "totalUnconfirmed": 146,
-        "totalAll": 415,
+        "totalUnconfirmed": 149,
+        "totalAll": 418,
         "firstConfirmed": 109,
-        "firstUnconfirmed": 27,
+        "firstUnconfirmed": 28,
         "totalStr": "269*",
-        "firstStr": "109(27)"
+        "firstStr": "109(28)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
