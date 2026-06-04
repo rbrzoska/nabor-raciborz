@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-04T19:15:24.272Z",
+    "scrapedAt": "2026-06-04T21:09:58.635Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 795,
-    "totalCandidates": 2242
+    "totalUnconfirmed": 799,
+    "totalCandidates": 2246
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -258,18 +258,18 @@
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 115,
-          "totalUnconfirmed": 20,
-          "totalAll": 135,
+          "totalUnconfirmed": 21,
+          "totalAll": 136,
           "firstConfirmed": 22,
           "firstUnconfirmed": 6,
-          "totalStr": "115(20)",
+          "totalStr": "115(21)",
           "firstStr": "22(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 269,
-        "totalUnconfirmed": 149,
-        "totalAll": 418,
+        "totalUnconfirmed": 150,
+        "totalAll": 419,
         "firstConfirmed": 109,
         "firstUnconfirmed": 28,
         "totalStr": "269*",
@@ -435,12 +435,12 @@
           "section": "1E_TE Technik ekonomista",
           "places": 32,
           "totalConfirmed": 98,
-          "totalUnconfirmed": 16,
-          "totalAll": 114,
+          "totalUnconfirmed": 17,
+          "totalAll": 115,
           "firstConfirmed": 18,
-          "firstUnconfirmed": 0,
-          "totalStr": "98(16)",
-          "firstStr": "18(0)"
+          "firstUnconfirmed": 1,
+          "totalStr": "98(17)",
+          "firstStr": "18(1)"
         },
         {
           "section": "1HR_TH Technik handlowiec",
@@ -457,11 +457,11 @@
           "section": "1HR_TRACH Technik rachunkowości",
           "places": 16,
           "totalConfirmed": 64,
-          "totalUnconfirmed": 8,
-          "totalAll": 72,
+          "totalUnconfirmed": 9,
+          "totalAll": 73,
           "firstConfirmed": 7,
           "firstUnconfirmed": 1,
-          "totalStr": "64(8)",
+          "totalStr": "64(9)",
           "firstStr": "7(1)"
         },
         {
@@ -500,12 +500,12 @@
       ],
       "razem": {
         "totalConfirmed": 294,
-        "totalUnconfirmed": 121,
-        "totalAll": 415,
+        "totalUnconfirmed": 123,
+        "totalAll": 417,
         "firstConfirmed": 148,
-        "firstUnconfirmed": 19,
+        "firstUnconfirmed": 20,
         "totalStr": "294*",
-        "firstStr": "148(19)"
+        "firstStr": "148(20)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -527,11 +527,11 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 83,
-          "totalUnconfirmed": 12,
-          "totalAll": 95,
+          "totalUnconfirmed": 13,
+          "totalAll": 96,
           "firstConfirmed": 5,
           "firstUnconfirmed": 3,
-          "totalStr": "83(12)",
+          "totalStr": "83(13)",
           "firstStr": "5(3)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 248,
-        "totalUnconfirmed": 97,
-        "totalAll": 345,
+        "totalUnconfirmed": 98,
+        "totalAll": 346,
         "firstConfirmed": 61,
         "firstUnconfirmed": 13,
         "totalStr": "248*",
