@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-05T20:49:05.925Z",
+    "scrapedAt": "2026-06-05T22:11:24.551Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 841,
-    "totalCandidates": 2288
+    "totalUnconfirmed": 845,
+    "totalCandidates": 2292
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -350,33 +350,33 @@
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 98,
-          "totalUnconfirmed": 27,
-          "totalAll": 125,
+          "totalUnconfirmed": 28,
+          "totalAll": 126,
           "firstConfirmed": 8,
           "firstUnconfirmed": 4,
-          "totalStr": "98(27)",
+          "totalStr": "98(28)",
           "firstStr": "8(4)"
         },
         {
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 117,
-          "totalUnconfirmed": 30,
-          "totalAll": 147,
+          "totalUnconfirmed": 31,
+          "totalAll": 148,
           "firstConfirmed": 20,
-          "firstUnconfirmed": 3,
-          "totalStr": "117(30)",
-          "firstStr": "20(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "117(31)",
+          "firstStr": "20(4)"
         }
       ],
       "razem": {
         "totalConfirmed": 293,
-        "totalUnconfirmed": 139,
-        "totalAll": 432,
+        "totalUnconfirmed": 141,
+        "totalAll": 434,
         "firstConfirmed": 135,
-        "firstUnconfirmed": 23,
+        "firstUnconfirmed": 24,
         "totalStr": "293*",
-        "firstStr": "135(23)"
+        "firstStr": "135(24)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -560,11 +560,11 @@
           "section": "1G_2 Technik stylista",
           "places": 16,
           "totalConfirmed": 72,
-          "totalUnconfirmed": 13,
-          "totalAll": 85,
+          "totalUnconfirmed": 14,
+          "totalAll": 86,
           "firstConfirmed": 13,
           "firstUnconfirmed": 2,
-          "totalStr": "72(13)",
+          "totalStr": "72(14)",
           "firstStr": "13(2)"
         },
         {
@@ -593,11 +593,11 @@
           "section": "1Z_1 Technik żywienia i usług gastronomicznych",
           "places": 16,
           "totalConfirmed": 49,
-          "totalUnconfirmed": 10,
-          "totalAll": 59,
+          "totalUnconfirmed": 11,
+          "totalAll": 60,
           "firstConfirmed": 7,
           "firstUnconfirmed": 2,
-          "totalStr": "49(10)",
+          "totalStr": "49(11)",
           "firstStr": "7(2)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 248,
-        "totalUnconfirmed": 100,
-        "totalAll": 348,
+        "totalUnconfirmed": 102,
+        "totalAll": 350,
         "firstConfirmed": 61,
         "firstUnconfirmed": 13,
         "totalStr": "248*",
