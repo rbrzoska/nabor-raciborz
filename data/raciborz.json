@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-05T08:30:00.364Z",
+    "scrapedAt": "2026-06-05T11:43:47.904Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 820,
-    "totalCandidates": 2267
+    "totalUnconfirmed": 818,
+    "totalCandidates": 2265
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -317,22 +317,22 @@
           "section": "1HDg humanistyczno-dziennikarska (pol-geo-ang)",
           "places": 16,
           "totalConfirmed": 111,
-          "totalUnconfirmed": 24,
-          "totalAll": 135,
+          "totalUnconfirmed": 23,
+          "totalAll": 134,
           "firstConfirmed": 10,
           "firstUnconfirmed": 3,
-          "totalStr": "111(24)",
+          "totalStr": "111(23)",
           "firstStr": "10(3)"
         },
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
           "totalConfirmed": 84,
-          "totalUnconfirmed": 14,
-          "totalAll": 98,
+          "totalUnconfirmed": 13,
+          "totalAll": 97,
           "firstConfirmed": 15,
           "firstUnconfirmed": 5,
-          "totalStr": "84(14)",
+          "totalStr": "84(13)",
           "firstStr": "15(5)"
         },
         {
@@ -350,33 +350,33 @@
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 98,
-          "totalUnconfirmed": 25,
-          "totalAll": 123,
+          "totalUnconfirmed": 26,
+          "totalAll": 124,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 1,
-          "totalStr": "98(25)",
-          "firstStr": "8(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "98(26)",
+          "firstStr": "8(2)"
         },
         {
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 117,
-          "totalUnconfirmed": 30,
-          "totalAll": 147,
+          "totalUnconfirmed": 29,
+          "totalAll": 146,
           "firstConfirmed": 20,
           "firstUnconfirmed": 4,
-          "totalStr": "117(30)",
+          "totalStr": "117(29)",
           "firstStr": "20(4)"
         }
       ],
       "razem": {
         "totalConfirmed": 293,
-        "totalUnconfirmed": 135,
-        "totalAll": 428,
+        "totalUnconfirmed": 133,
+        "totalAll": 426,
         "firstConfirmed": 135,
-        "firstUnconfirmed": 21,
+        "firstUnconfirmed": 22,
         "totalStr": "293*",
-        "firstStr": "135(21)"
+        "firstStr": "135(22)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
