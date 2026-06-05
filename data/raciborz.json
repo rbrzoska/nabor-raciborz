@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-05T14:28:56.883Z",
+    "scrapedAt": "2026-06-05T17:00:22.479Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 833,
-    "totalCandidates": 2280
+    "totalUnconfirmed": 840,
+    "totalCandidates": 2287
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -41,33 +41,33 @@
           "section": "1m_1 Monter sieci i instalacji sanitarnych",
           "places": 16,
           "totalConfirmed": 8,
-          "totalUnconfirmed": 5,
-          "totalAll": 13,
+          "totalUnconfirmed": 6,
+          "totalAll": 14,
           "firstConfirmed": 0,
           "firstUnconfirmed": 0,
-          "totalStr": "8(5)",
+          "totalStr": "8(6)",
           "firstStr": "0(0)"
         },
         {
           "section": "1m_2 Inny zawód",
           "places": 16,
           "totalConfirmed": 27,
-          "totalUnconfirmed": 11,
-          "totalAll": 38,
+          "totalUnconfirmed": 12,
+          "totalAll": 39,
           "firstConfirmed": 4,
-          "firstUnconfirmed": 3,
-          "totalStr": "27(11)",
-          "firstStr": "4(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "27(12)",
+          "firstStr": "4(4)"
         },
         {
           "section": "1q Kucharz",
           "places": 32,
           "totalConfirmed": 26,
-          "totalUnconfirmed": 15,
-          "totalAll": 41,
+          "totalUnconfirmed": 16,
+          "totalAll": 42,
           "firstConfirmed": 8,
           "firstUnconfirmed": 5,
-          "totalStr": "26(15)",
+          "totalStr": "26(16)",
           "firstStr": "8(5)"
         },
         {
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 101,
-        "totalUnconfirmed": 81,
-        "totalAll": 182,
+        "totalUnconfirmed": 84,
+        "totalAll": 185,
         "firstConfirmed": 46,
-        "firstUnconfirmed": 20,
+        "firstUnconfirmed": 21,
         "totalStr": "101*",
-        "firstStr": "46(20)"
+        "firstStr": "46(21)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -468,12 +468,12 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 133,
-          "totalUnconfirmed": 27,
-          "totalAll": 160,
+          "totalUnconfirmed": 28,
+          "totalAll": 161,
           "firstConfirmed": 24,
-          "firstUnconfirmed": 7,
-          "totalStr": "133(27)",
-          "firstStr": "24(7)"
+          "firstUnconfirmed": 8,
+          "totalStr": "133(28)",
+          "firstStr": "24(8)"
         },
         {
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
@@ -490,22 +490,22 @@
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 124,
-          "totalUnconfirmed": 10,
-          "totalAll": 134,
+          "totalUnconfirmed": 11,
+          "totalAll": 135,
           "firstConfirmed": 52,
           "firstUnconfirmed": 0,
-          "totalStr": "124(10)",
+          "totalStr": "124(11)",
           "firstStr": "52(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 294,
-        "totalUnconfirmed": 128,
-        "totalAll": 422,
+        "totalUnconfirmed": 130,
+        "totalAll": 424,
         "firstConfirmed": 148,
-        "firstUnconfirmed": 20,
+        "firstUnconfirmed": 21,
         "totalStr": "294*",
-        "firstStr": "148(20)"
+        "firstStr": "148(21)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -549,11 +549,11 @@
           "section": "1G_1 Technik geodeta",
           "places": 16,
           "totalConfirmed": 66,
-          "totalUnconfirmed": 16,
-          "totalAll": 82,
+          "totalUnconfirmed": 17,
+          "totalAll": 83,
           "firstConfirmed": 6,
           "firstUnconfirmed": 1,
-          "totalStr": "66(16)",
+          "totalStr": "66(17)",
           "firstStr": "6(1)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 248,
-        "totalUnconfirmed": 101,
-        "totalAll": 349,
+        "totalUnconfirmed": 102,
+        "totalAll": 350,
         "firstConfirmed": 61,
         "firstUnconfirmed": 13,
         "totalStr": "248*",
@@ -674,11 +674,11 @@
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 35,
-          "totalAll": 122,
+          "totalUnconfirmed": 36,
+          "totalAll": 123,
           "firstConfirmed": 18,
           "firstUnconfirmed": 12,
-          "totalStr": "87(35)",
+          "totalStr": "87(36)",
           "firstStr": "18(12)"
         },
         {
@@ -695,8 +695,8 @@
       ],
       "razem": {
         "totalConfirmed": 166,
-        "totalUnconfirmed": 134,
-        "totalAll": 300,
+        "totalUnconfirmed": 135,
+        "totalAll": 301,
         "firstConfirmed": 65,
         "firstUnconfirmed": 36,
         "totalStr": "166*",
