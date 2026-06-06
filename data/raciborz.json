@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-06T15:49:02.863Z",
+    "scrapedAt": "2026-06-06T17:02:47.237Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 854,
-    "totalCandidates": 2301
+    "totalUnconfirmed": 860,
+    "totalCandidates": 2307
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -30,11 +30,11 @@
           "section": "1f_2 Cukiernik",
           "places": 16,
           "totalConfirmed": 39,
-          "totalUnconfirmed": 13,
-          "totalAll": 52,
+          "totalUnconfirmed": 14,
+          "totalAll": 53,
           "firstConfirmed": 11,
           "firstUnconfirmed": 2,
-          "totalStr": "39(13)",
+          "totalStr": "39(14)",
           "firstStr": "11(2)"
         },
         {
@@ -63,11 +63,11 @@
           "section": "1q Kucharz",
           "places": 32,
           "totalConfirmed": 26,
-          "totalUnconfirmed": 16,
-          "totalAll": 42,
+          "totalUnconfirmed": 17,
+          "totalAll": 43,
           "firstConfirmed": 8,
           "firstUnconfirmed": 5,
-          "totalStr": "26(16)",
+          "totalStr": "26(17)",
           "firstStr": "8(5)"
         },
         {
@@ -95,8 +95,8 @@
       ],
       "razem": {
         "totalConfirmed": 101,
-        "totalUnconfirmed": 84,
-        "totalAll": 185,
+        "totalUnconfirmed": 86,
+        "totalAll": 187,
         "firstConfirmed": 46,
         "firstUnconfirmed": 21,
         "totalStr": "101*",
@@ -203,12 +203,12 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 94,
-          "totalUnconfirmed": 27,
-          "totalAll": 121,
+          "totalUnconfirmed": 28,
+          "totalAll": 122,
           "firstConfirmed": 15,
-          "firstUnconfirmed": 6,
-          "totalStr": "94(27)",
-          "firstStr": "15(6)"
+          "firstUnconfirmed": 7,
+          "totalStr": "94(28)",
+          "firstStr": "15(7)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
@@ -258,22 +258,22 @@
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 115,
-          "totalUnconfirmed": 24,
-          "totalAll": 139,
+          "totalUnconfirmed": 25,
+          "totalAll": 140,
           "firstConfirmed": 22,
           "firstUnconfirmed": 6,
-          "totalStr": "115(24)",
+          "totalStr": "115(25)",
           "firstStr": "22(6)"
         }
       ],
       "razem": {
         "totalConfirmed": 269,
-        "totalUnconfirmed": 174,
-        "totalAll": 443,
+        "totalUnconfirmed": 176,
+        "totalAll": 445,
         "firstConfirmed": 109,
-        "firstUnconfirmed": 32,
+        "firstUnconfirmed": 33,
         "totalStr": "269*",
-        "firstStr": "109(32)"
+        "firstStr": "109(33)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -527,11 +527,11 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 83,
-          "totalUnconfirmed": 14,
-          "totalAll": 97,
+          "totalUnconfirmed": 15,
+          "totalAll": 98,
           "firstConfirmed": 5,
           "firstUnconfirmed": 3,
-          "totalStr": "83(14)",
+          "totalStr": "83(15)",
           "firstStr": "5(3)"
         },
         {
@@ -560,11 +560,11 @@
           "section": "1G_2 Technik stylista",
           "places": 16,
           "totalConfirmed": 72,
-          "totalUnconfirmed": 14,
-          "totalAll": 86,
+          "totalUnconfirmed": 15,
+          "totalAll": 87,
           "firstConfirmed": 13,
           "firstUnconfirmed": 2,
-          "totalStr": "72(14)",
+          "totalStr": "72(15)",
           "firstStr": "13(2)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 248,
-        "totalUnconfirmed": 102,
-        "totalAll": 350,
+        "totalUnconfirmed": 104,
+        "totalAll": 352,
         "firstConfirmed": 61,
         "firstUnconfirmed": 13,
         "totalStr": "248*",
