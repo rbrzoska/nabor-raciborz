@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-06T06:07:26.394Z",
+    "scrapedAt": "2026-06-06T09:06:57.082Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 845,
-    "totalCandidates": 2292
+    "totalUnconfirmed": 854,
+    "totalCandidates": 2301
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,22 +181,22 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 71,
-          "totalUnconfirmed": 13,
-          "totalAll": 84,
+          "totalUnconfirmed": 14,
+          "totalAll": 85,
           "firstConfirmed": 22,
           "firstUnconfirmed": 5,
-          "totalStr": "71(13)",
+          "totalStr": "71(14)",
           "firstStr": "22(5)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
           "places": 16,
           "totalConfirmed": 70,
-          "totalUnconfirmed": 15,
-          "totalAll": 85,
+          "totalUnconfirmed": 16,
+          "totalAll": 86,
           "firstConfirmed": 8,
           "firstUnconfirmed": 1,
-          "totalStr": "70(15)",
+          "totalStr": "70(16)",
           "firstStr": "8(1)"
         },
         {
@@ -247,12 +247,12 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 89,
-          "totalUnconfirmed": 22,
-          "totalAll": 111,
+          "totalUnconfirmed": 23,
+          "totalAll": 112,
           "firstConfirmed": 10,
-          "firstUnconfirmed": 2,
-          "totalStr": "89(22)",
-          "firstStr": "10(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "89(23)",
+          "firstStr": "10(3)"
         },
         {
           "section": "1p j. polski, wiedza o społ., j. angielski",
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 269,
-        "totalUnconfirmed": 171,
-        "totalAll": 440,
+        "totalUnconfirmed": 174,
+        "totalAll": 443,
         "firstConfirmed": 109,
-        "firstUnconfirmed": 31,
+        "firstUnconfirmed": 32,
         "totalStr": "269*",
-        "firstStr": "109(31)"
+        "firstStr": "109(32)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -339,11 +339,11 @@
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 99,
-          "totalUnconfirmed": 16,
-          "totalAll": 115,
+          "totalUnconfirmed": 17,
+          "totalAll": 116,
           "firstConfirmed": 25,
           "firstUnconfirmed": 2,
-          "totalStr": "99(16)",
+          "totalStr": "99(17)",
           "firstStr": "25(2)"
         },
         {
@@ -371,8 +371,8 @@
       ],
       "razem": {
         "totalConfirmed": 293,
-        "totalUnconfirmed": 141,
-        "totalAll": 434,
+        "totalUnconfirmed": 142,
+        "totalAll": 435,
         "firstConfirmed": 135,
         "firstUnconfirmed": 24,
         "totalStr": "293*",
@@ -630,11 +630,11 @@
           "section": "1a Technik mechanik",
           "places": 32,
           "totalConfirmed": 53,
-          "totalUnconfirmed": 27,
-          "totalAll": 80,
+          "totalUnconfirmed": 28,
+          "totalAll": 81,
           "firstConfirmed": 8,
           "firstUnconfirmed": 7,
-          "totalStr": "53(27)",
+          "totalStr": "53(28)",
           "firstStr": "8(7)"
         },
         {
@@ -652,51 +652,51 @@
           "section": "1c Technik informatyk ze specjalnością AI",
           "places": 32,
           "totalConfirmed": 67,
-          "totalUnconfirmed": 16,
-          "totalAll": 83,
+          "totalUnconfirmed": 17,
+          "totalAll": 84,
           "firstConfirmed": 13,
           "firstUnconfirmed": 8,
-          "totalStr": "67(16)",
+          "totalStr": "67(17)",
           "firstStr": "13(8)"
         },
         {
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 88,
-          "totalUnconfirmed": 27,
-          "totalAll": 115,
+          "totalUnconfirmed": 28,
+          "totalAll": 116,
           "firstConfirmed": 18,
           "firstUnconfirmed": 7,
-          "totalStr": "88(27)",
+          "totalStr": "88(28)",
           "firstStr": "18(7)"
         },
         {
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 36,
-          "totalAll": 123,
+          "totalUnconfirmed": 37,
+          "totalAll": 124,
           "firstConfirmed": 18,
           "firstUnconfirmed": 12,
-          "totalStr": "87(36)",
+          "totalStr": "87(37)",
           "firstStr": "18(12)"
         },
         {
           "section": "1f-b Technik oze",
           "places": 16,
           "totalConfirmed": 29,
-          "totalUnconfirmed": 7,
-          "totalAll": 36,
+          "totalUnconfirmed": 8,
+          "totalAll": 37,
           "firstConfirmed": 4,
           "firstUnconfirmed": 0,
-          "totalStr": "29(7)",
+          "totalStr": "29(8)",
           "firstStr": "4(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 166,
-        "totalUnconfirmed": 135,
-        "totalAll": 301,
+        "totalUnconfirmed": 140,
+        "totalAll": 306,
         "firstConfirmed": 65,
         "firstUnconfirmed": 36,
         "totalStr": "166*",
