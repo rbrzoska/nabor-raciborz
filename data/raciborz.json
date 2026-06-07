@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-07T00:00:10.480Z",
+    "scrapedAt": "2026-06-07T04:08:06.622Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 861,
-    "totalCandidates": 2308
+    "totalUnconfirmed": 862,
+    "totalCandidates": 2309
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -63,12 +63,12 @@
           "section": "1q Kucharz",
           "places": 32,
           "totalConfirmed": 26,
-          "totalUnconfirmed": 17,
-          "totalAll": 43,
+          "totalUnconfirmed": 18,
+          "totalAll": 44,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 5,
-          "totalStr": "26(17)",
-          "firstStr": "8(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "26(18)",
+          "firstStr": "8(6)"
         },
         {
           "section": "1s_1 Monter zab. i robót wykończ. w budownictwie",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 101,
-        "totalUnconfirmed": 86,
-        "totalAll": 187,
+        "totalUnconfirmed": 87,
+        "totalAll": 188,
         "firstConfirmed": 46,
-        "firstUnconfirmed": 21,
+        "firstUnconfirmed": 22,
         "totalStr": "101*",
-        "firstStr": "46(21)"
+        "firstStr": "46(22)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
