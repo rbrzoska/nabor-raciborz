@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-07T08:07:00.290Z",
+    "scrapedAt": "2026-06-07T10:40:21.362Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 862,
-    "totalCandidates": 2309
+    "totalUnconfirmed": 865,
+    "totalCandidates": 2312
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,12 +181,12 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 71,
-          "totalUnconfirmed": 14,
-          "totalAll": 85,
+          "totalUnconfirmed": 15,
+          "totalAll": 86,
           "firstConfirmed": 22,
-          "firstUnconfirmed": 5,
-          "totalStr": "71(14)",
-          "firstStr": "22(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "71(15)",
+          "firstStr": "22(6)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 269,
-        "totalUnconfirmed": 176,
-        "totalAll": 445,
+        "totalUnconfirmed": 177,
+        "totalAll": 446,
         "firstConfirmed": 109,
-        "firstUnconfirmed": 33,
+        "firstUnconfirmed": 34,
         "totalStr": "269*",
-        "firstStr": "109(33)"
+        "firstStr": "109(34)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 108,
-          "totalUnconfirmed": 24,
-          "totalAll": 132,
+          "totalUnconfirmed": 25,
+          "totalAll": 133,
           "firstConfirmed": 25,
           "firstUnconfirmed": 6,
-          "totalStr": "108(24)",
+          "totalStr": "108(25)",
           "firstStr": "25(6)"
         },
         {
@@ -371,8 +371,8 @@
       ],
       "razem": {
         "totalConfirmed": 293,
-        "totalUnconfirmed": 143,
-        "totalAll": 436,
+        "totalUnconfirmed": 144,
+        "totalAll": 437,
         "firstConfirmed": 135,
         "firstUnconfirmed": 24,
         "totalStr": "293*",
@@ -527,11 +527,11 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 83,
-          "totalUnconfirmed": 15,
-          "totalAll": 98,
+          "totalUnconfirmed": 16,
+          "totalAll": 99,
           "firstConfirmed": 5,
           "firstUnconfirmed": 3,
-          "totalStr": "83(15)",
+          "totalStr": "83(16)",
           "firstStr": "5(3)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 248,
-        "totalUnconfirmed": 104,
-        "totalAll": 352,
+        "totalUnconfirmed": 105,
+        "totalAll": 353,
         "firstConfirmed": 61,
         "firstUnconfirmed": 13,
         "totalStr": "248*",
