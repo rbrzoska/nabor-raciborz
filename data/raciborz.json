@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-07T14:27:29.231Z",
+    "scrapedAt": "2026-06-07T15:50:46.436Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1447,
-    "totalUnconfirmed": 914,
-    "totalCandidates": 2361
+    "totalUnconfirmed": 920,
+    "totalCandidates": 2367
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -19,22 +19,22 @@
           "section": "1f_1 Fryzjer",
           "places": 16,
           "totalConfirmed": 53,
-          "totalUnconfirmed": 16,
-          "totalAll": 69,
+          "totalUnconfirmed": 15,
+          "totalAll": 68,
           "firstConfirmed": 18,
           "firstUnconfirmed": 6,
-          "totalStr": "53(16)",
+          "totalStr": "53(15)",
           "firstStr": "18(6)"
         },
         {
           "section": "1f_2 Cukiernik",
           "places": 16,
           "totalConfirmed": 39,
-          "totalUnconfirmed": 14,
-          "totalAll": 53,
+          "totalUnconfirmed": 15,
+          "totalAll": 54,
           "firstConfirmed": 11,
           "firstUnconfirmed": 2,
-          "totalStr": "39(14)",
+          "totalStr": "39(15)",
           "firstStr": "11(2)"
         },
         {
@@ -133,40 +133,40 @@
           "section": "1c Ślusarz",
           "places": 32,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 5,
-          "totalAll": 18,
+          "totalUnconfirmed": 6,
+          "totalAll": 19,
           "firstConfirmed": 0,
           "firstUnconfirmed": 1,
-          "totalStr": "13(5)",
+          "totalStr": "13(6)",
           "firstStr": "0(1)"
         },
         {
           "section": "1d-e Klasa wielozawodowa",
           "places": 16,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 14,
-          "totalAll": 27,
+          "totalUnconfirmed": 15,
+          "totalAll": 28,
           "firstConfirmed": 6,
           "firstUnconfirmed": 4,
-          "totalStr": "13(14)",
+          "totalStr": "13(15)",
           "firstStr": "6(4)"
         },
         {
           "section": "1e-d Operator obrabiarek skrawających",
           "places": 16,
           "totalConfirmed": 16,
-          "totalUnconfirmed": 7,
-          "totalAll": 23,
+          "totalUnconfirmed": 8,
+          "totalAll": 24,
           "firstConfirmed": 1,
           "firstUnconfirmed": 2,
-          "totalStr": "16(7)",
+          "totalStr": "16(8)",
           "firstStr": "1(2)"
         }
       ],
       "razem": {
         "totalConfirmed": 76,
-        "totalUnconfirmed": 88,
-        "totalAll": 164,
+        "totalUnconfirmed": 91,
+        "totalAll": 167,
         "firstConfirmed": 35,
         "firstUnconfirmed": 33,
         "totalStr": "76*",
@@ -479,33 +479,33 @@
           "section": "1L_TLW T logistyk klasa przygotowania wojskowego",
           "places": 16,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 10,
-          "totalAll": 97,
+          "totalUnconfirmed": 9,
+          "totalAll": 96,
           "firstConfirmed": 22,
-          "firstUnconfirmed": 2,
-          "totalStr": "87(10)",
-          "firstStr": "22(2)"
+          "firstUnconfirmed": 1,
+          "totalStr": "87(9)",
+          "firstStr": "22(1)"
         },
         {
           "section": "1S_TS Technik spedytor klasa o profilu mundurowym",
           "places": 32,
           "totalConfirmed": 124,
-          "totalUnconfirmed": 11,
-          "totalAll": 135,
+          "totalUnconfirmed": 10,
+          "totalAll": 134,
           "firstConfirmed": 52,
           "firstUnconfirmed": 0,
-          "totalStr": "124(11)",
+          "totalStr": "124(10)",
           "firstStr": "52(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 294,
-        "totalUnconfirmed": 132,
-        "totalAll": 426,
+        "totalUnconfirmed": 130,
+        "totalAll": 424,
         "firstConfirmed": 148,
-        "firstUnconfirmed": 21,
+        "firstUnconfirmed": 20,
         "totalStr": "294*",
-        "firstStr": "148(21)"
+        "firstStr": "148(20)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -538,22 +538,22 @@
           "section": "1B Technik budownictwa",
           "places": 32,
           "totalConfirmed": 46,
-          "totalUnconfirmed": 14,
-          "totalAll": 60,
+          "totalUnconfirmed": 15,
+          "totalAll": 61,
           "firstConfirmed": 5,
           "firstUnconfirmed": 1,
-          "totalStr": "46(14)",
+          "totalStr": "46(15)",
           "firstStr": "5(1)"
         },
         {
           "section": "1G_1 Technik geodeta",
           "places": 16,
           "totalConfirmed": 66,
-          "totalUnconfirmed": 18,
-          "totalAll": 84,
+          "totalUnconfirmed": 19,
+          "totalAll": 85,
           "firstConfirmed": 6,
           "firstUnconfirmed": 1,
-          "totalStr": "66(18)",
+          "totalStr": "66(19)",
           "firstStr": "6(1)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 248,
-        "totalUnconfirmed": 112,
-        "totalAll": 360,
+        "totalUnconfirmed": 114,
+        "totalAll": 362,
         "firstConfirmed": 61,
         "firstUnconfirmed": 14,
         "totalStr": "248*",
@@ -630,11 +630,11 @@
           "section": "1a Technik mechanik",
           "places": 32,
           "totalConfirmed": 53,
-          "totalUnconfirmed": 29,
-          "totalAll": 82,
+          "totalUnconfirmed": 30,
+          "totalAll": 83,
           "firstConfirmed": 8,
           "firstUnconfirmed": 7,
-          "totalStr": "53(29)",
+          "totalStr": "53(30)",
           "firstStr": "8(7)"
         },
         {
@@ -674,33 +674,33 @@
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 40,
-          "totalAll": 127,
+          "totalUnconfirmed": 41,
+          "totalAll": 128,
           "firstConfirmed": 18,
           "firstUnconfirmed": 14,
-          "totalStr": "87(40)",
+          "totalStr": "87(41)",
           "firstStr": "18(14)"
         },
         {
           "section": "1f-b Technik oze",
           "places": 16,
           "totalConfirmed": 29,
-          "totalUnconfirmed": 8,
-          "totalAll": 37,
+          "totalUnconfirmed": 9,
+          "totalAll": 38,
           "firstConfirmed": 4,
-          "firstUnconfirmed": 0,
-          "totalStr": "29(8)",
-          "firstStr": "4(0)"
+          "firstUnconfirmed": 1,
+          "totalStr": "29(9)",
+          "firstStr": "4(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 166,
-        "totalUnconfirmed": 149,
-        "totalAll": 315,
+        "totalUnconfirmed": 152,
+        "totalAll": 318,
         "firstConfirmed": 65,
-        "firstUnconfirmed": 39,
+        "firstUnconfirmed": 40,
         "totalStr": "166*",
-        "firstStr": "65(39)"
+        "firstStr": "65(40)"
       }
     }
   }
