@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-08T20:04:08.193Z",
+    "scrapedAt": "2026-06-08T22:09:08.951Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1562,
-    "totalUnconfirmed": 847,
-    "totalCandidates": 2409
+    "totalUnconfirmed": 849,
+    "totalCandidates": 2411
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -641,11 +641,11 @@
           "section": "1b-f Technik elektronik",
           "places": 16,
           "totalConfirmed": 73,
-          "totalUnconfirmed": 18,
-          "totalAll": 91,
+          "totalUnconfirmed": 19,
+          "totalAll": 92,
           "firstConfirmed": 4,
           "firstUnconfirmed": 2,
-          "totalStr": "73(18)",
+          "totalStr": "73(19)",
           "firstStr": "4(2)"
         },
         {
@@ -663,12 +663,12 @@
           "section": "1d Technik mechatronik",
           "places": 32,
           "totalConfirmed": 101,
-          "totalUnconfirmed": 23,
-          "totalAll": 124,
+          "totalUnconfirmed": 24,
+          "totalAll": 125,
           "firstConfirmed": 21,
-          "firstUnconfirmed": 8,
-          "totalStr": "101(23)",
-          "firstStr": "21(8)"
+          "firstUnconfirmed": 9,
+          "totalStr": "101(24)",
+          "firstStr": "21(9)"
         },
         {
           "section": "1e Technik elektryk",
@@ -695,12 +695,12 @@
       ],
       "razem": {
         "totalConfirmed": 191,
-        "totalUnconfirmed": 109,
-        "totalAll": 300,
+        "totalUnconfirmed": 111,
+        "totalAll": 302,
         "firstConfirmed": 79,
-        "firstUnconfirmed": 30,
+        "firstUnconfirmed": 31,
         "totalStr": "191*",
-        "firstStr": "79(30)"
+        "firstStr": "79(31)"
       }
     }
   }
