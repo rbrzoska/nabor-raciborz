@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-11T21:14:38.159Z",
+    "scrapedAt": "2026-06-11T23:03:52.303Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1711,
-    "totalUnconfirmed": 845,
-    "totalCandidates": 2556
+    "totalUnconfirmed": 848,
+    "totalCandidates": 2559
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -236,11 +236,11 @@
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 101,
-          "totalUnconfirmed": 18,
-          "totalAll": 119,
+          "totalUnconfirmed": 19,
+          "totalAll": 120,
           "firstConfirmed": 6,
           "firstUnconfirmed": 3,
-          "totalStr": "101(18)",
+          "totalStr": "101(19)",
           "firstStr": "6(3)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 315,
-        "totalUnconfirmed": 165,
-        "totalAll": 480,
+        "totalUnconfirmed": 166,
+        "totalAll": 481,
         "firstConfirmed": 129,
         "firstUnconfirmed": 38,
         "totalStr": "315*",
@@ -350,11 +350,11 @@
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 119,
-          "totalUnconfirmed": 23,
-          "totalAll": 142,
+          "totalUnconfirmed": 24,
+          "totalAll": 143,
           "firstConfirmed": 14,
           "firstUnconfirmed": 1,
-          "totalStr": "119(23)",
+          "totalStr": "119(24)",
           "firstStr": "14(1)"
         },
         {
@@ -371,8 +371,8 @@
       ],
       "razem": {
         "totalConfirmed": 341,
-        "totalUnconfirmed": 143,
-        "totalAll": 484,
+        "totalUnconfirmed": 144,
+        "totalAll": 485,
         "firstConfirmed": 154,
         "firstUnconfirmed": 21,
         "totalStr": "341*",
@@ -435,12 +435,12 @@
           "section": "1E_TE Technik ekonomista",
           "places": 32,
           "totalConfirmed": 111,
-          "totalUnconfirmed": 26,
-          "totalAll": 137,
+          "totalUnconfirmed": 27,
+          "totalAll": 138,
           "firstConfirmed": 20,
-          "firstUnconfirmed": 3,
-          "totalStr": "111(26)",
-          "firstStr": "20(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "111(27)",
+          "firstStr": "20(4)"
         },
         {
           "section": "1HR_TH Technik handlowiec",
@@ -500,12 +500,12 @@
       ],
       "razem": {
         "totalConfirmed": 333,
-        "totalUnconfirmed": 147,
-        "totalAll": 480,
+        "totalUnconfirmed": 148,
+        "totalAll": 481,
         "firstConfirmed": 161,
-        "firstUnconfirmed": 20,
+        "firstUnconfirmed": 21,
         "totalStr": "333*",
-        "firstStr": "161(20)"
+        "firstStr": "161(21)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
