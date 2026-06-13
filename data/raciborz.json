@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-13T19:11:21.086Z",
+    "scrapedAt": "2026-06-13T20:46:26.478Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 765,
-    "totalCandidates": 2560
+    "totalUnconfirmed": 768,
+    "totalCandidates": 2563
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -435,23 +435,23 @@
           "section": "1E_TE Technik ekonomista",
           "places": 32,
           "totalConfirmed": 113,
-          "totalUnconfirmed": 27,
-          "totalAll": 140,
+          "totalUnconfirmed": 28,
+          "totalAll": 141,
           "firstConfirmed": 20,
           "firstUnconfirmed": 4,
-          "totalStr": "113(27)",
+          "totalStr": "113(28)",
           "firstStr": "20(4)"
         },
         {
           "section": "1HR_TH Technik handlowiec",
           "places": 16,
           "totalConfirmed": 86,
-          "totalUnconfirmed": 23,
-          "totalAll": 109,
+          "totalUnconfirmed": 24,
+          "totalAll": 110,
           "firstConfirmed": 7,
-          "firstUnconfirmed": 5,
-          "totalStr": "86(23)",
-          "firstStr": "7(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "86(24)",
+          "firstStr": "7(6)"
         },
         {
           "section": "1HR_TRACH Technik rachunkowości",
@@ -468,11 +468,11 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 158,
-          "totalUnconfirmed": 25,
-          "totalAll": 183,
+          "totalUnconfirmed": 26,
+          "totalAll": 184,
           "firstConfirmed": 32,
           "firstUnconfirmed": 1,
-          "totalStr": "158(25)",
+          "totalStr": "158(26)",
           "firstStr": "32(1)"
         },
         {
@@ -500,12 +500,12 @@
       ],
       "razem": {
         "totalConfirmed": 341,
-        "totalUnconfirmed": 145,
-        "totalAll": 486,
+        "totalUnconfirmed": 148,
+        "totalAll": 489,
         "firstConfirmed": 163,
-        "firstUnconfirmed": 19,
+        "firstUnconfirmed": 20,
         "totalStr": "341*",
-        "firstStr": "163(19)"
+        "firstStr": "163(20)"
       }
     },
     "Technikum Nr 2 (CKZiU nr 1) w Raciborzu": {
