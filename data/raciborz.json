@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-13T17:52:00.844Z",
+    "scrapedAt": "2026-06-13T19:11:21.086Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 763,
-    "totalCandidates": 2558
+    "totalUnconfirmed": 765,
+    "totalCandidates": 2560
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -247,11 +247,11 @@
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 111,
-          "totalUnconfirmed": 16,
-          "totalAll": 127,
+          "totalUnconfirmed": 17,
+          "totalAll": 128,
           "firstConfirmed": 13,
           "firstUnconfirmed": 1,
-          "totalStr": "111(16)",
+          "totalStr": "111(17)",
           "firstStr": "13(1)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 328,
-        "totalUnconfirmed": 157,
-        "totalAll": 485,
+        "totalUnconfirmed": 158,
+        "totalAll": 486,
         "firstConfirmed": 138,
         "firstUnconfirmed": 35,
         "totalStr": "328*",
@@ -538,12 +538,12 @@
           "section": "1B Technik budownictwa",
           "places": 32,
           "totalConfirmed": 62,
-          "totalUnconfirmed": 7,
-          "totalAll": 69,
+          "totalUnconfirmed": 8,
+          "totalAll": 70,
           "firstConfirmed": 7,
-          "firstUnconfirmed": 3,
-          "totalStr": "62(7)",
-          "firstStr": "7(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "62(8)",
+          "firstStr": "7(4)"
         },
         {
           "section": "1G_1 Technik geodeta",
@@ -614,12 +614,12 @@
       ],
       "razem": {
         "totalConfirmed": 305,
-        "totalUnconfirmed": 105,
-        "totalAll": 410,
+        "totalUnconfirmed": 106,
+        "totalAll": 411,
         "firstConfirmed": 73,
-        "firstUnconfirmed": 20,
+        "firstUnconfirmed": 21,
         "totalStr": "305*",
-        "firstStr": "73(20)"
+        "firstStr": "73(21)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
