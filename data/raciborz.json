@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-13T12:21:30.678Z",
+    "scrapedAt": "2026-06-13T14:35:56.446Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 740,
-    "totalCandidates": 2535
+    "totalUnconfirmed": 753,
+    "totalCandidates": 2548
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -41,11 +41,11 @@
           "section": "1m_1 Monter sieci i instalacji sanitarnych",
           "places": 16,
           "totalConfirmed": 13,
-          "totalUnconfirmed": 5,
-          "totalAll": 18,
+          "totalUnconfirmed": 6,
+          "totalAll": 19,
           "firstConfirmed": 1,
           "firstUnconfirmed": 1,
-          "totalStr": "13(5)",
+          "totalStr": "13(6)",
           "firstStr": "1(1)"
         },
         {
@@ -74,33 +74,33 @@
           "section": "1s_1 Monter zab. i robót wykończ. w budownictwie",
           "places": 16,
           "totalConfirmed": 20,
-          "totalUnconfirmed": 9,
-          "totalAll": 29,
+          "totalUnconfirmed": 10,
+          "totalAll": 30,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 1,
-          "totalStr": "20(9)",
-          "firstStr": "5(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "20(10)",
+          "firstStr": "5(2)"
         },
         {
           "section": "1s_2 Stolarz",
           "places": 16,
           "totalConfirmed": 18,
-          "totalUnconfirmed": 6,
-          "totalAll": 24,
+          "totalUnconfirmed": 7,
+          "totalAll": 25,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "18(6)",
+          "totalStr": "18(7)",
           "firstStr": "2(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 130,
-        "totalUnconfirmed": 76,
-        "totalAll": 206,
+        "totalUnconfirmed": 79,
+        "totalAll": 209,
         "firstConfirmed": 57,
-        "firstUnconfirmed": 20,
+        "firstUnconfirmed": 21,
         "totalStr": "130*",
-        "firstStr": "57(20)"
+        "firstStr": "57(21)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -181,11 +181,11 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 9,
-          "totalAll": 96,
+          "totalUnconfirmed": 10,
+          "totalAll": 97,
           "firstConfirmed": 27,
           "firstUnconfirmed": 3,
-          "totalStr": "87(9)",
+          "totalStr": "87(10)",
           "firstStr": "27(3)"
         },
         {
@@ -203,23 +203,23 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 126,
-          "totalUnconfirmed": 19,
-          "totalAll": 145,
+          "totalUnconfirmed": 20,
+          "totalAll": 146,
           "firstConfirmed": 22,
           "firstUnconfirmed": 3,
-          "totalStr": "126(19)",
+          "totalStr": "126(20)",
           "firstStr": "22(3)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 89,
-          "totalUnconfirmed": 12,
-          "totalAll": 101,
+          "totalUnconfirmed": 13,
+          "totalAll": 102,
           "firstConfirmed": 18,
-          "firstUnconfirmed": 2,
-          "totalStr": "89(12)",
-          "firstStr": "18(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "89(13)",
+          "firstStr": "18(3)"
         },
         {
           "section": "1e biologia, j. polski, j. angielski",
@@ -236,11 +236,11 @@
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 108,
-          "totalUnconfirmed": 16,
-          "totalAll": 124,
+          "totalUnconfirmed": 17,
+          "totalAll": 125,
           "firstConfirmed": 6,
           "firstUnconfirmed": 3,
-          "totalStr": "108(16)",
+          "totalStr": "108(17)",
           "firstStr": "6(3)"
         },
         {
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 328,
-        "totalUnconfirmed": 149,
-        "totalAll": 477,
+        "totalUnconfirmed": 153,
+        "totalAll": 481,
         "firstConfirmed": 138,
-        "firstUnconfirmed": 33,
+        "firstUnconfirmed": 34,
         "totalStr": "328*",
-        "firstStr": "138(33)"
+        "firstStr": "138(34)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 137,
-          "totalUnconfirmed": 18,
-          "totalAll": 155,
+          "totalUnconfirmed": 19,
+          "totalAll": 156,
           "firstConfirmed": 31,
           "firstUnconfirmed": 4,
-          "totalStr": "137(18)",
+          "totalStr": "137(19)",
           "firstStr": "31(4)"
         },
         {
@@ -350,11 +350,11 @@
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 126,
-          "totalUnconfirmed": 22,
-          "totalAll": 148,
+          "totalUnconfirmed": 23,
+          "totalAll": 149,
           "firstConfirmed": 14,
           "firstUnconfirmed": 1,
-          "totalStr": "126(22)",
+          "totalStr": "126(23)",
           "firstStr": "14(1)"
         },
         {
@@ -371,8 +371,8 @@
       ],
       "razem": {
         "totalConfirmed": 354,
-        "totalUnconfirmed": 141,
-        "totalAll": 495,
+        "totalUnconfirmed": 143,
+        "totalAll": 497,
         "firstConfirmed": 156,
         "firstUnconfirmed": 20,
         "totalStr": "354*",
@@ -630,22 +630,22 @@
           "section": "1a Technik mechanik",
           "places": 32,
           "totalConfirmed": 73,
-          "totalUnconfirmed": 18,
-          "totalAll": 91,
+          "totalUnconfirmed": 19,
+          "totalAll": 92,
           "firstConfirmed": 12,
           "firstUnconfirmed": 4,
-          "totalStr": "73(18)",
+          "totalStr": "73(19)",
           "firstStr": "12(4)"
         },
         {
           "section": "1b-f Technik elektronik",
           "places": 16,
           "totalConfirmed": 88,
-          "totalUnconfirmed": 10,
-          "totalAll": 98,
+          "totalUnconfirmed": 11,
+          "totalAll": 99,
           "firstConfirmed": 5,
           "firstUnconfirmed": 1,
-          "totalStr": "88(10)",
+          "totalStr": "88(11)",
           "firstStr": "5(1)"
         },
         {
@@ -674,33 +674,33 @@
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 126,
-          "totalUnconfirmed": 18,
-          "totalAll": 144,
+          "totalUnconfirmed": 19,
+          "totalAll": 145,
           "firstConfirmed": 32,
-          "firstUnconfirmed": 5,
-          "totalStr": "126(18)",
-          "firstStr": "32(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "126(19)",
+          "firstStr": "32(6)"
         },
         {
           "section": "1f-b Technik oze",
           "places": 16,
           "totalConfirmed": 39,
-          "totalUnconfirmed": 2,
-          "totalAll": 41,
+          "totalUnconfirmed": 3,
+          "totalAll": 42,
           "firstConfirmed": 5,
           "firstUnconfirmed": 0,
-          "totalStr": "39(2)",
+          "totalStr": "39(3)",
           "firstStr": "5(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 223,
-        "totalUnconfirmed": 67,
-        "totalAll": 290,
+        "totalUnconfirmed": 71,
+        "totalAll": 294,
         "firstConfirmed": 99,
-        "firstUnconfirmed": 18,
+        "firstUnconfirmed": 19,
         "totalStr": "223*",
-        "firstStr": "99(18)"
+        "firstStr": "99(19)"
       }
     }
   }
