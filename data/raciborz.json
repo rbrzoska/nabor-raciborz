@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-14T16:17:38.764Z",
+    "scrapedAt": "2026-06-14T17:55:44.659Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 805,
-    "totalCandidates": 2600
+    "totalUnconfirmed": 816,
+    "totalCandidates": 2611
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -74,12 +74,12 @@
           "section": "1s_1 Monter zab. i robót wykończ. w budownictwie",
           "places": 16,
           "totalConfirmed": 20,
-          "totalUnconfirmed": 10,
-          "totalAll": 30,
+          "totalUnconfirmed": 11,
+          "totalAll": 31,
           "firstConfirmed": 5,
-          "firstUnconfirmed": 2,
-          "totalStr": "20(10)",
-          "firstStr": "5(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "20(11)",
+          "firstStr": "5(3)"
         },
         {
           "section": "1s_2 Stolarz",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 130,
-        "totalUnconfirmed": 82,
-        "totalAll": 212,
+        "totalUnconfirmed": 83,
+        "totalAll": 213,
         "firstConfirmed": 57,
-        "firstUnconfirmed": 23,
+        "firstUnconfirmed": 24,
         "totalStr": "130*",
-        "firstStr": "57(23)"
+        "firstStr": "57(24)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -155,18 +155,18 @@
           "section": "1e-d Operator obrabiarek skrawających",
           "places": 16,
           "totalConfirmed": 23,
-          "totalUnconfirmed": 2,
-          "totalAll": 25,
+          "totalUnconfirmed": 3,
+          "totalAll": 26,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "23(2)",
+          "totalStr": "23(3)",
           "firstStr": "2(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 114,
-        "totalUnconfirmed": 61,
-        "totalAll": 175,
+        "totalUnconfirmed": 62,
+        "totalAll": 176,
         "firstConfirmed": 55,
         "firstUnconfirmed": 27,
         "totalStr": "114*",
@@ -181,22 +181,22 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 13,
-          "totalAll": 100,
+          "totalUnconfirmed": 14,
+          "totalAll": 101,
           "firstConfirmed": 27,
-          "firstUnconfirmed": 4,
-          "totalStr": "87(13)",
-          "firstStr": "27(4)"
+          "firstUnconfirmed": 5,
+          "totalStr": "87(14)",
+          "firstStr": "27(5)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
           "places": 16,
           "totalConfirmed": 86,
-          "totalUnconfirmed": 12,
-          "totalAll": 98,
+          "totalUnconfirmed": 13,
+          "totalAll": 99,
           "firstConfirmed": 8,
           "firstUnconfirmed": 1,
-          "totalStr": "86(12)",
+          "totalStr": "86(13)",
           "firstStr": "8(1)"
         },
         {
@@ -214,11 +214,11 @@
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 89,
-          "totalUnconfirmed": 14,
-          "totalAll": 103,
+          "totalUnconfirmed": 15,
+          "totalAll": 104,
           "firstConfirmed": 18,
           "firstUnconfirmed": 3,
-          "totalStr": "89(14)",
+          "totalStr": "89(15)",
           "firstStr": "18(3)"
         },
         {
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 328,
-        "totalUnconfirmed": 174,
-        "totalAll": 502,
+        "totalUnconfirmed": 177,
+        "totalAll": 505,
         "firstConfirmed": 138,
-        "firstUnconfirmed": 37,
+        "firstUnconfirmed": 38,
         "totalStr": "328*",
-        "firstStr": "138(37)"
+        "firstStr": "138(38)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,12 +284,12 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 137,
-          "totalUnconfirmed": 20,
-          "totalAll": 157,
+          "totalUnconfirmed": 22,
+          "totalAll": 159,
           "firstConfirmed": 31,
-          "firstUnconfirmed": 5,
-          "totalStr": "137(20)",
-          "firstStr": "31(5)"
+          "firstUnconfirmed": 6,
+          "totalStr": "137(22)",
+          "firstStr": "31(6)"
         },
         {
           "section": "1DAg dwujęzyczna (mat-geo-ang)",
@@ -339,44 +339,44 @@
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 116,
-          "totalUnconfirmed": 19,
-          "totalAll": 135,
+          "totalUnconfirmed": 20,
+          "totalAll": 136,
           "firstConfirmed": 27,
           "firstUnconfirmed": 3,
-          "totalStr": "116(19)",
+          "totalStr": "116(20)",
           "firstStr": "27(3)"
         },
         {
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 126,
-          "totalUnconfirmed": 24,
-          "totalAll": 150,
+          "totalUnconfirmed": 26,
+          "totalAll": 152,
           "firstConfirmed": 14,
           "firstUnconfirmed": 1,
-          "totalStr": "126(24)",
+          "totalStr": "126(26)",
           "firstStr": "14(1)"
         },
         {
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 154,
-          "totalUnconfirmed": 32,
-          "totalAll": 186,
+          "totalUnconfirmed": 33,
+          "totalAll": 187,
           "firstConfirmed": 24,
           "firstUnconfirmed": 3,
-          "totalStr": "154(32)",
+          "totalStr": "154(33)",
           "firstStr": "24(3)"
         }
       ],
       "razem": {
         "totalConfirmed": 354,
-        "totalUnconfirmed": 159,
-        "totalAll": 513,
+        "totalUnconfirmed": 165,
+        "totalAll": 519,
         "firstConfirmed": 156,
-        "firstUnconfirmed": 23,
+        "firstUnconfirmed": 24,
         "totalStr": "354*",
-        "firstStr": "156(23)"
+        "firstStr": "156(24)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
