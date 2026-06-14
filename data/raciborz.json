@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-14T14:38:03.554Z",
+    "scrapedAt": "2026-06-14T16:17:38.764Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 800,
-    "totalCandidates": 2595
+    "totalUnconfirmed": 805,
+    "totalCandidates": 2600
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -52,12 +52,12 @@
           "section": "1m_2 Inny zawód",
           "places": 16,
           "totalConfirmed": 34,
-          "totalUnconfirmed": 10,
-          "totalAll": 44,
+          "totalUnconfirmed": 11,
+          "totalAll": 45,
           "firstConfirmed": 8,
-          "firstUnconfirmed": 3,
-          "totalStr": "34(10)",
-          "firstStr": "8(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "34(11)",
+          "firstStr": "8(4)"
         },
         {
           "section": "1q Kucharz",
@@ -85,22 +85,22 @@
           "section": "1s_2 Stolarz",
           "places": 16,
           "totalConfirmed": 18,
-          "totalUnconfirmed": 7,
-          "totalAll": 25,
+          "totalUnconfirmed": 8,
+          "totalAll": 26,
           "firstConfirmed": 2,
-          "firstUnconfirmed": 1,
-          "totalStr": "18(7)",
-          "firstStr": "2(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "18(8)",
+          "firstStr": "2(2)"
         }
       ],
       "razem": {
         "totalConfirmed": 130,
-        "totalUnconfirmed": 80,
-        "totalAll": 210,
+        "totalUnconfirmed": 82,
+        "totalAll": 212,
         "firstConfirmed": 57,
-        "firstUnconfirmed": 21,
+        "firstUnconfirmed": 23,
         "totalStr": "130*",
-        "firstStr": "57(21)"
+        "firstStr": "57(23)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -203,22 +203,22 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 126,
-          "totalUnconfirmed": 21,
-          "totalAll": 147,
+          "totalUnconfirmed": 22,
+          "totalAll": 148,
           "firstConfirmed": 22,
           "firstUnconfirmed": 3,
-          "totalStr": "126(21)",
+          "totalStr": "126(22)",
           "firstStr": "22(3)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 89,
-          "totalUnconfirmed": 13,
-          "totalAll": 102,
+          "totalUnconfirmed": 14,
+          "totalAll": 103,
           "firstConfirmed": 18,
           "firstUnconfirmed": 3,
-          "totalStr": "89(13)",
+          "totalStr": "89(14)",
           "firstStr": "18(3)"
         },
         {
@@ -236,11 +236,11 @@
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 108,
-          "totalUnconfirmed": 20,
-          "totalAll": 128,
+          "totalUnconfirmed": 21,
+          "totalAll": 129,
           "firstConfirmed": 6,
           "firstUnconfirmed": 3,
-          "totalStr": "108(20)",
+          "totalStr": "108(21)",
           "firstStr": "6(3)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 328,
-        "totalUnconfirmed": 171,
-        "totalAll": 499,
+        "totalUnconfirmed": 174,
+        "totalAll": 502,
         "firstConfirmed": 138,
         "firstUnconfirmed": 37,
         "totalStr": "328*",
