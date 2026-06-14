@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-13T23:02:15.565Z",
+    "scrapedAt": "2026-06-14T01:41:53.387Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 768,
-    "totalCandidates": 2563
+    "totalUnconfirmed": 769,
+    "totalCandidates": 2564
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,11 +181,11 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 87,
-          "totalUnconfirmed": 11,
-          "totalAll": 98,
+          "totalUnconfirmed": 12,
+          "totalAll": 99,
           "firstConfirmed": 27,
           "firstUnconfirmed": 4,
-          "totalStr": "87(11)",
+          "totalStr": "87(12)",
           "firstStr": "27(4)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 328,
-        "totalUnconfirmed": 158,
-        "totalAll": 486,
+        "totalUnconfirmed": 159,
+        "totalAll": 487,
         "firstConfirmed": 138,
         "firstUnconfirmed": 35,
         "totalStr": "328*",
