@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-14T19:12:32.645Z",
+    "scrapedAt": "2026-06-14T20:45:49.954Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 1795,
-    "totalUnconfirmed": 844,
-    "totalCandidates": 2639
+    "totalUnconfirmed": 850,
+    "totalCandidates": 2645
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -203,11 +203,11 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 126,
-          "totalUnconfirmed": 23,
-          "totalAll": 149,
+          "totalUnconfirmed": 24,
+          "totalAll": 150,
           "firstConfirmed": 22,
           "firstUnconfirmed": 3,
-          "totalStr": "126(23)",
+          "totalStr": "126(24)",
           "firstStr": "22(3)"
         },
         {
@@ -258,18 +258,18 @@
           "section": "1p j. polski, wiedza o społ., j. angielski",
           "places": 32,
           "totalConfirmed": 133,
-          "totalUnconfirmed": 40,
-          "totalAll": 173,
+          "totalUnconfirmed": 41,
+          "totalAll": 174,
           "firstConfirmed": 24,
           "firstUnconfirmed": 16,
-          "totalStr": "133(40)",
+          "totalStr": "133(41)",
           "firstStr": "24(16)"
         }
       ],
       "razem": {
         "totalConfirmed": 328,
-        "totalUnconfirmed": 191,
-        "totalAll": 519,
+        "totalUnconfirmed": 193,
+        "totalAll": 521,
         "firstConfirmed": 138,
         "firstUnconfirmed": 40,
         "totalStr": "328*",
@@ -284,12 +284,12 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 137,
-          "totalUnconfirmed": 23,
-          "totalAll": 160,
+          "totalUnconfirmed": 24,
+          "totalAll": 161,
           "firstConfirmed": 31,
-          "firstUnconfirmed": 6,
-          "totalStr": "137(23)",
-          "firstStr": "31(6)"
+          "firstUnconfirmed": 7,
+          "totalStr": "137(24)",
+          "firstStr": "31(7)"
         },
         {
           "section": "1DAg dwujęzyczna (mat-geo-ang)",
@@ -371,12 +371,12 @@
       ],
       "razem": {
         "totalConfirmed": 354,
-        "totalUnconfirmed": 170,
-        "totalAll": 524,
+        "totalUnconfirmed": 171,
+        "totalAll": 525,
         "firstConfirmed": 156,
-        "firstUnconfirmed": 24,
+        "firstUnconfirmed": 25,
         "totalStr": "354*",
-        "firstStr": "156(24)"
+        "firstStr": "156(25)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -571,33 +571,33 @@
           "section": "1H_1 Technik hotelarstwa",
           "places": 16,
           "totalConfirmed": 75,
-          "totalUnconfirmed": 16,
-          "totalAll": 91,
+          "totalUnconfirmed": 17,
+          "totalAll": 92,
           "firstConfirmed": 4,
           "firstUnconfirmed": 0,
-          "totalStr": "75(16)",
+          "totalStr": "75(17)",
           "firstStr": "4(0)"
         },
         {
           "section": "1H_2 Technik organizacji turystyki",
           "places": 16,
           "totalConfirmed": 89,
-          "totalUnconfirmed": 11,
-          "totalAll": 100,
+          "totalUnconfirmed": 12,
+          "totalAll": 101,
           "firstConfirmed": 16,
-          "firstUnconfirmed": 2,
-          "totalStr": "89(11)",
-          "firstStr": "16(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "89(12)",
+          "firstStr": "16(3)"
         },
         {
           "section": "1Z_1 Technik żywienia i usług gastronomicznych",
           "places": 16,
           "totalConfirmed": 61,
-          "totalUnconfirmed": 14,
-          "totalAll": 75,
+          "totalUnconfirmed": 15,
+          "totalAll": 76,
           "firstConfirmed": 8,
           "firstUnconfirmed": 3,
-          "totalStr": "61(14)",
+          "totalStr": "61(15)",
           "firstStr": "8(3)"
         },
         {
@@ -614,12 +614,12 @@
       ],
       "razem": {
         "totalConfirmed": 305,
-        "totalUnconfirmed": 110,
-        "totalAll": 415,
+        "totalUnconfirmed": 113,
+        "totalAll": 418,
         "firstConfirmed": 73,
-        "firstUnconfirmed": 21,
+        "firstUnconfirmed": 22,
         "totalStr": "305*",
-        "firstStr": "73(21)"
+        "firstStr": "73(22)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
