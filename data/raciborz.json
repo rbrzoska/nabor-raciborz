@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-19T21:42:29.271Z",
+    "scrapedAt": "2026-06-19T22:45:55.745Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 2320,
-    "totalUnconfirmed": 329,
-    "totalCandidates": 2649
+    "totalUnconfirmed": 333,
+    "totalCandidates": 2653
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -424,11 +424,11 @@
           "section": "1BG_TREKL Technik reklamy",
           "places": 16,
           "totalConfirmed": 141,
-          "totalUnconfirmed": 10,
-          "totalAll": 151,
+          "totalUnconfirmed": 11,
+          "totalAll": 152,
           "firstConfirmed": 23,
           "firstUnconfirmed": 4,
-          "totalStr": "141(10)",
+          "totalStr": "141(11)",
           "firstStr": "23(4)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 427,
-        "totalUnconfirmed": 50,
-        "totalAll": 477,
+        "totalUnconfirmed": 51,
+        "totalAll": 478,
         "firstConfirmed": 187,
         "firstUnconfirmed": 9,
         "totalStr": "427*",
@@ -527,11 +527,11 @@
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 131,
-          "totalUnconfirmed": 8,
-          "totalAll": 139,
+          "totalUnconfirmed": 9,
+          "totalAll": 140,
           "firstConfirmed": 16,
           "firstUnconfirmed": 0,
-          "totalStr": "131(8)",
+          "totalStr": "131(9)",
           "firstStr": "16(0)"
         },
         {
@@ -560,22 +560,22 @@
           "section": "1G_2 Technik stylista",
           "places": 16,
           "totalConfirmed": 114,
-          "totalUnconfirmed": 8,
-          "totalAll": 122,
+          "totalUnconfirmed": 9,
+          "totalAll": 123,
           "firstConfirmed": 16,
-          "firstUnconfirmed": 1,
-          "totalStr": "114(8)",
-          "firstStr": "16(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "114(9)",
+          "firstStr": "16(2)"
         },
         {
           "section": "1H_1 Technik hotelarstwa",
           "places": 16,
           "totalConfirmed": 100,
-          "totalUnconfirmed": 5,
-          "totalAll": 105,
+          "totalUnconfirmed": 6,
+          "totalAll": 106,
           "firstConfirmed": 4,
           "firstUnconfirmed": 0,
-          "totalStr": "100(5)",
+          "totalStr": "100(6)",
           "firstStr": "4(0)"
         },
         {
@@ -614,12 +614,12 @@
       ],
       "razem": {
         "totalConfirmed": 386,
-        "totalUnconfirmed": 49,
-        "totalAll": 435,
+        "totalUnconfirmed": 52,
+        "totalAll": 438,
         "firstConfirmed": 98,
-        "firstUnconfirmed": 7,
+        "firstUnconfirmed": 8,
         "totalStr": "386*",
-        "firstStr": "98(7)"
+        "firstStr": "98(8)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
