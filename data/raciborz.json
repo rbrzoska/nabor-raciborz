@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-19T18:16:57.490Z",
+    "scrapedAt": "2026-06-19T20:12:38.041Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 2320,
-    "totalUnconfirmed": 323,
-    "totalCandidates": 2643
+    "totalUnconfirmed": 331,
+    "totalCandidates": 2651
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -181,22 +181,22 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 114,
-          "totalUnconfirmed": 9,
-          "totalAll": 123,
+          "totalUnconfirmed": 10,
+          "totalAll": 124,
           "firstConfirmed": 34,
           "firstUnconfirmed": 4,
-          "totalStr": "114(9)",
+          "totalStr": "114(10)",
           "firstStr": "34(4)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
           "places": 16,
           "totalConfirmed": 106,
-          "totalUnconfirmed": 9,
-          "totalAll": 115,
+          "totalUnconfirmed": 10,
+          "totalAll": 116,
           "firstConfirmed": 10,
           "firstUnconfirmed": 1,
-          "totalStr": "106(9)",
+          "totalStr": "106(10)",
           "firstStr": "10(1)"
         },
         {
@@ -214,11 +214,11 @@
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 119,
-          "totalUnconfirmed": 5,
-          "totalAll": 124,
+          "totalUnconfirmed": 6,
+          "totalAll": 125,
           "firstConfirmed": 25,
           "firstUnconfirmed": 0,
-          "totalStr": "119(5)",
+          "totalStr": "119(6)",
           "firstStr": "25(0)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 429,
-        "totalUnconfirmed": 80,
-        "totalAll": 509,
+        "totalUnconfirmed": 83,
+        "totalAll": 512,
         "firstConfirmed": 185,
         "firstUnconfirmed": 15,
         "totalStr": "429*",
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 175,
-          "totalUnconfirmed": 8,
-          "totalAll": 183,
+          "totalUnconfirmed": 9,
+          "totalAll": 184,
           "firstConfirmed": 37,
           "firstUnconfirmed": 2,
-          "totalStr": "175(8)",
+          "totalStr": "175(9)",
           "firstStr": "37(2)"
         },
         {
@@ -350,11 +350,11 @@
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 162,
-          "totalUnconfirmed": 9,
-          "totalAll": 171,
+          "totalUnconfirmed": 10,
+          "totalAll": 172,
           "firstConfirmed": 17,
           "firstUnconfirmed": 1,
-          "totalStr": "162(9)",
+          "totalStr": "162(10)",
           "firstStr": "17(1)"
         },
         {
@@ -371,8 +371,8 @@
       ],
       "razem": {
         "totalConfirmed": 442,
-        "totalUnconfirmed": 67,
-        "totalAll": 509,
+        "totalUnconfirmed": 69,
+        "totalAll": 511,
         "firstConfirmed": 185,
         "firstUnconfirmed": 10,
         "totalStr": "442*",
@@ -516,22 +516,22 @@
           "section": "1A_1 Technik analityk",
           "places": 16,
           "totalConfirmed": 58,
-          "totalUnconfirmed": 3,
-          "totalAll": 61,
+          "totalUnconfirmed": 4,
+          "totalAll": 62,
           "firstConfirmed": 7,
-          "firstUnconfirmed": 0,
-          "totalStr": "58(3)",
-          "firstStr": "7(0)"
+          "firstUnconfirmed": 1,
+          "totalStr": "58(4)",
+          "firstStr": "7(1)"
         },
         {
           "section": "1A_2 Technik aranżacji wnętrz",
           "places": 16,
           "totalConfirmed": 131,
-          "totalUnconfirmed": 7,
-          "totalAll": 138,
+          "totalUnconfirmed": 8,
+          "totalAll": 139,
           "firstConfirmed": 16,
           "firstUnconfirmed": 0,
-          "totalStr": "131(7)",
+          "totalStr": "131(8)",
           "firstStr": "16(0)"
         },
         {
@@ -604,22 +604,22 @@
           "section": "1Z_2 Technik architektury krajobrazu i arborystyki",
           "places": 16,
           "totalConfirmed": 74,
-          "totalUnconfirmed": 3,
-          "totalAll": 77,
+          "totalUnconfirmed": 4,
+          "totalAll": 78,
           "firstConfirmed": 5,
           "firstUnconfirmed": 1,
-          "totalStr": "74(3)",
+          "totalStr": "74(4)",
           "firstStr": "5(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 386,
-        "totalUnconfirmed": 46,
-        "totalAll": 432,
+        "totalUnconfirmed": 49,
+        "totalAll": 435,
         "firstConfirmed": 98,
-        "firstUnconfirmed": 6,
+        "firstUnconfirmed": 7,
         "totalStr": "386*",
-        "firstStr": "98(6)"
+        "firstStr": "98(7)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
