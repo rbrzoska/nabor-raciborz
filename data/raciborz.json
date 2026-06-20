@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-20T04:49:22.277Z",
+    "scrapedAt": "2026-06-20T08:18:36.905Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 2320,
-    "totalUnconfirmed": 333,
-    "totalCandidates": 2653
+    "totalUnconfirmed": 341,
+    "totalCandidates": 2661
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -19,12 +19,12 @@
           "section": "1f_1 Fryzjer",
           "places": 16,
           "totalConfirmed": 82,
-          "totalUnconfirmed": 8,
-          "totalAll": 90,
+          "totalUnconfirmed": 9,
+          "totalAll": 91,
           "firstConfirmed": 33,
-          "firstUnconfirmed": 1,
-          "totalStr": "82(8)",
-          "firstStr": "33(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "82(9)",
+          "firstStr": "33(2)"
         },
         {
           "section": "1f_2 Cukiernik",
@@ -95,12 +95,12 @@
       ],
       "razem": {
         "totalConfirmed": 190,
-        "totalUnconfirmed": 25,
-        "totalAll": 215,
+        "totalUnconfirmed": 26,
+        "totalAll": 216,
         "firstConfirmed": 87,
-        "firstUnconfirmed": 7,
+        "firstUnconfirmed": 8,
         "totalStr": "190*",
-        "firstStr": "87(7)"
+        "firstStr": "87(8)"
       }
     },
     "Branżowa Szkoła I Stopnia Nr 4 (CKZiU nr 2) w Raciborzu": {
@@ -181,44 +181,44 @@
           "section": "1af matematyka, fizyka, język angielski",
           "places": 16,
           "totalConfirmed": 114,
-          "totalUnconfirmed": 10,
-          "totalAll": 124,
+          "totalUnconfirmed": 11,
+          "totalAll": 125,
           "firstConfirmed": 34,
           "firstUnconfirmed": 4,
-          "totalStr": "114(10)",
+          "totalStr": "114(11)",
           "firstStr": "34(4)"
         },
         {
           "section": "1ai matematyka, informatyka, język angielski",
           "places": 16,
           "totalConfirmed": 106,
-          "totalUnconfirmed": 10,
-          "totalAll": 116,
+          "totalUnconfirmed": 11,
+          "totalAll": 117,
           "firstConfirmed": 10,
           "firstUnconfirmed": 1,
-          "totalStr": "106(10)",
+          "totalStr": "106(11)",
           "firstStr": "10(1)"
         },
         {
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 161,
-          "totalUnconfirmed": 9,
-          "totalAll": 170,
+          "totalUnconfirmed": 10,
+          "totalAll": 171,
           "firstConfirmed": 29,
           "firstUnconfirmed": 1,
-          "totalStr": "161(9)",
+          "totalStr": "161(10)",
           "firstStr": "29(1)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 119,
-          "totalUnconfirmed": 6,
-          "totalAll": 125,
+          "totalUnconfirmed": 7,
+          "totalAll": 126,
           "firstConfirmed": 25,
           "firstUnconfirmed": 0,
-          "totalStr": "119(6)",
+          "totalStr": "119(7)",
           "firstStr": "25(0)"
         },
         {
@@ -236,11 +236,11 @@
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 140,
-          "totalUnconfirmed": 10,
-          "totalAll": 150,
+          "totalUnconfirmed": 11,
+          "totalAll": 151,
           "firstConfirmed": 8,
           "firstUnconfirmed": 1,
-          "totalStr": "140(10)",
+          "totalStr": "140(11)",
           "firstStr": "8(1)"
         },
         {
@@ -268,8 +268,8 @@
       ],
       "razem": {
         "totalConfirmed": 429,
-        "totalUnconfirmed": 83,
-        "totalAll": 512,
+        "totalUnconfirmed": 88,
+        "totalAll": 517,
         "firstConfirmed": 185,
         "firstUnconfirmed": 15,
         "totalStr": "429*",
@@ -468,11 +468,11 @@
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 193,
-          "totalUnconfirmed": 11,
-          "totalAll": 204,
+          "totalUnconfirmed": 12,
+          "totalAll": 205,
           "firstConfirmed": 35,
           "firstUnconfirmed": 1,
-          "totalStr": "193(11)",
+          "totalStr": "193(12)",
           "firstStr": "35(1)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 427,
-        "totalUnconfirmed": 51,
-        "totalAll": 478,
+        "totalUnconfirmed": 52,
+        "totalAll": 479,
         "firstConfirmed": 187,
         "firstUnconfirmed": 9,
         "totalStr": "427*",
@@ -560,11 +560,11 @@
           "section": "1G_2 Technik stylista",
           "places": 16,
           "totalConfirmed": 114,
-          "totalUnconfirmed": 9,
-          "totalAll": 123,
+          "totalUnconfirmed": 10,
+          "totalAll": 124,
           "firstConfirmed": 16,
           "firstUnconfirmed": 2,
-          "totalStr": "114(9)",
+          "totalStr": "114(10)",
           "firstStr": "16(2)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 386,
-        "totalUnconfirmed": 52,
-        "totalAll": 438,
+        "totalUnconfirmed": 53,
+        "totalAll": 439,
         "firstConfirmed": 98,
         "firstUnconfirmed": 8,
         "totalStr": "386*",
