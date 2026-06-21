@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-21T07:27:58.463Z",
+    "scrapedAt": "2026-06-21T10:52:40.419Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 2320,
-    "totalUnconfirmed": 398,
-    "totalCandidates": 2718
+    "totalUnconfirmed": 405,
+    "totalCandidates": 2725
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -203,33 +203,33 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 161,
-          "totalUnconfirmed": 12,
-          "totalAll": 173,
+          "totalUnconfirmed": 13,
+          "totalAll": 174,
           "firstConfirmed": 29,
           "firstUnconfirmed": 1,
-          "totalStr": "161(12)",
+          "totalStr": "161(13)",
           "firstStr": "29(1)"
         },
         {
           "section": "1bm biologia, chemia, matematyka",
           "places": 16,
           "totalConfirmed": 119,
-          "totalUnconfirmed": 8,
-          "totalAll": 127,
+          "totalUnconfirmed": 9,
+          "totalAll": 128,
           "firstConfirmed": 25,
-          "firstUnconfirmed": 1,
-          "totalStr": "119(8)",
-          "firstStr": "25(1)"
+          "firstUnconfirmed": 2,
+          "totalStr": "119(9)",
+          "firstStr": "25(2)"
         },
         {
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 209,
-          "totalUnconfirmed": 12,
-          "totalAll": 221,
+          "totalUnconfirmed": 13,
+          "totalAll": 222,
           "firstConfirmed": 26,
           "firstUnconfirmed": 1,
-          "totalStr": "209(12)",
+          "totalStr": "209(13)",
           "firstStr": "26(1)"
         },
         {
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 429,
-        "totalUnconfirmed": 98,
-        "totalAll": 527,
+        "totalUnconfirmed": 101,
+        "totalAll": 530,
         "firstConfirmed": 185,
-        "firstUnconfirmed": 17,
+        "firstUnconfirmed": 18,
         "totalStr": "429*",
-        "firstStr": "185(17)"
+        "firstStr": "185(18)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 175,
-          "totalUnconfirmed": 13,
-          "totalAll": 188,
+          "totalUnconfirmed": 14,
+          "totalAll": 189,
           "firstConfirmed": 37,
           "firstUnconfirmed": 4,
-          "totalStr": "175(13)",
+          "totalStr": "175(14)",
           "firstStr": "37(4)"
         },
         {
@@ -350,29 +350,29 @@
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 162,
-          "totalUnconfirmed": 13,
-          "totalAll": 175,
+          "totalUnconfirmed": 14,
+          "totalAll": 176,
           "firstConfirmed": 17,
           "firstUnconfirmed": 1,
-          "totalStr": "162(13)",
+          "totalStr": "162(14)",
           "firstStr": "17(1)"
         },
         {
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 199,
-          "totalUnconfirmed": 13,
-          "totalAll": 212,
+          "totalUnconfirmed": 14,
+          "totalAll": 213,
           "firstConfirmed": 30,
           "firstUnconfirmed": 0,
-          "totalStr": "199(13)",
+          "totalStr": "199(14)",
           "firstStr": "30(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 442,
-        "totalUnconfirmed": 85,
-        "totalAll": 527,
+        "totalUnconfirmed": 88,
+        "totalAll": 530,
         "firstConfirmed": 185,
         "firstUnconfirmed": 13,
         "totalStr": "442*",
@@ -593,11 +593,11 @@
           "section": "1Z_1 Technik żywienia i usług gastronomicznych",
           "places": 16,
           "totalConfirmed": 79,
-          "totalUnconfirmed": 7,
-          "totalAll": 86,
+          "totalUnconfirmed": 8,
+          "totalAll": 87,
           "firstConfirmed": 11,
           "firstUnconfirmed": 2,
-          "totalStr": "79(7)",
+          "totalStr": "79(8)",
           "firstStr": "11(2)"
         },
         {
@@ -614,8 +614,8 @@
       ],
       "razem": {
         "totalConfirmed": 386,
-        "totalUnconfirmed": 60,
-        "totalAll": 446,
+        "totalUnconfirmed": 61,
+        "totalAll": 447,
         "firstConfirmed": 98,
         "firstUnconfirmed": 9,
         "totalStr": "386*",
