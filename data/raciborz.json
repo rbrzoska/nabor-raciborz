@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-21T10:52:40.419Z",
+    "scrapedAt": "2026-06-21T13:02:28.945Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 2320,
-    "totalUnconfirmed": 405,
-    "totalCandidates": 2725
+    "totalUnconfirmed": 419,
+    "totalCandidates": 2739
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -155,18 +155,18 @@
           "section": "1e-d Operator obrabiarek skrawających",
           "places": 16,
           "totalConfirmed": 32,
-          "totalUnconfirmed": 4,
-          "totalAll": 36,
+          "totalUnconfirmed": 5,
+          "totalAll": 37,
           "firstConfirmed": 2,
           "firstUnconfirmed": 1,
-          "totalStr": "32(4)",
+          "totalStr": "32(5)",
           "firstStr": "2(1)"
         }
       ],
       "razem": {
         "totalConfirmed": 160,
-        "totalUnconfirmed": 42,
-        "totalAll": 202,
+        "totalUnconfirmed": 43,
+        "totalAll": 203,
         "firstConfirmed": 80,
         "firstUnconfirmed": 17,
         "totalStr": "160*",
@@ -317,33 +317,33 @@
           "section": "1HDg humanistyczno-dziennikarska (pol-geo-ang)",
           "places": 16,
           "totalConfirmed": 175,
-          "totalUnconfirmed": 19,
-          "totalAll": 194,
+          "totalUnconfirmed": 20,
+          "totalAll": 195,
           "firstConfirmed": 15,
           "firstUnconfirmed": 3,
-          "totalStr": "175(19)",
+          "totalStr": "175(20)",
           "firstStr": "15(3)"
         },
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
           "totalConfirmed": 135,
-          "totalUnconfirmed": 11,
-          "totalAll": 146,
+          "totalUnconfirmed": 13,
+          "totalAll": 148,
           "firstConfirmed": 24,
-          "firstUnconfirmed": 3,
-          "totalStr": "135(11)",
-          "firstStr": "24(3)"
+          "firstUnconfirmed": 4,
+          "totalStr": "135(13)",
+          "firstStr": "24(4)"
         },
         {
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 137,
-          "totalUnconfirmed": 13,
-          "totalAll": 150,
+          "totalUnconfirmed": 14,
+          "totalAll": 151,
           "firstConfirmed": 30,
           "firstUnconfirmed": 2,
-          "totalStr": "137(13)",
+          "totalStr": "137(14)",
           "firstStr": "30(2)"
         },
         {
@@ -371,12 +371,12 @@
       ],
       "razem": {
         "totalConfirmed": 442,
-        "totalUnconfirmed": 88,
-        "totalAll": 530,
+        "totalUnconfirmed": 92,
+        "totalAll": 534,
         "firstConfirmed": 185,
-        "firstUnconfirmed": 13,
+        "firstUnconfirmed": 14,
         "totalStr": "442*",
-        "firstStr": "185(13)"
+        "firstStr": "185(14)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
@@ -457,22 +457,22 @@
           "section": "1HR_TRACH Technik rachunkowości",
           "places": 16,
           "totalConfirmed": 90,
-          "totalUnconfirmed": 6,
-          "totalAll": 96,
+          "totalUnconfirmed": 7,
+          "totalAll": 97,
           "firstConfirmed": 8,
           "firstUnconfirmed": 0,
-          "totalStr": "90(6)",
+          "totalStr": "90(7)",
           "firstStr": "8(0)"
         },
         {
           "section": "1L_TL Technik logistyk",
           "places": 16,
           "totalConfirmed": 193,
-          "totalUnconfirmed": 14,
-          "totalAll": 207,
+          "totalUnconfirmed": 15,
+          "totalAll": 208,
           "firstConfirmed": 35,
           "firstUnconfirmed": 1,
-          "totalStr": "193(14)",
+          "totalStr": "193(15)",
           "firstStr": "35(1)"
         },
         {
@@ -500,8 +500,8 @@
       ],
       "razem": {
         "totalConfirmed": 427,
-        "totalUnconfirmed": 62,
-        "totalAll": 489,
+        "totalUnconfirmed": 64,
+        "totalAll": 491,
         "firstConfirmed": 187,
         "firstUnconfirmed": 9,
         "totalStr": "427*",
@@ -560,44 +560,44 @@
           "section": "1G_2 Technik stylista",
           "places": 16,
           "totalConfirmed": 114,
-          "totalUnconfirmed": 10,
-          "totalAll": 124,
+          "totalUnconfirmed": 12,
+          "totalAll": 126,
           "firstConfirmed": 16,
-          "firstUnconfirmed": 2,
-          "totalStr": "114(10)",
-          "firstStr": "16(2)"
+          "firstUnconfirmed": 3,
+          "totalStr": "114(12)",
+          "firstStr": "16(3)"
         },
         {
           "section": "1H_1 Technik hotelarstwa",
           "places": 16,
           "totalConfirmed": 100,
-          "totalUnconfirmed": 8,
-          "totalAll": 108,
+          "totalUnconfirmed": 9,
+          "totalAll": 109,
           "firstConfirmed": 4,
           "firstUnconfirmed": 0,
-          "totalStr": "100(8)",
+          "totalStr": "100(9)",
           "firstStr": "4(0)"
         },
         {
           "section": "1H_2 Technik organizacji turystyki",
           "places": 16,
           "totalConfirmed": 103,
-          "totalUnconfirmed": 6,
-          "totalAll": 109,
+          "totalUnconfirmed": 7,
+          "totalAll": 110,
           "firstConfirmed": 19,
           "firstUnconfirmed": 1,
-          "totalStr": "103(6)",
+          "totalStr": "103(7)",
           "firstStr": "19(1)"
         },
         {
           "section": "1Z_1 Technik żywienia i usług gastronomicznych",
           "places": 16,
           "totalConfirmed": 79,
-          "totalUnconfirmed": 8,
-          "totalAll": 87,
+          "totalUnconfirmed": 9,
+          "totalAll": 88,
           "firstConfirmed": 11,
           "firstUnconfirmed": 2,
-          "totalStr": "79(8)",
+          "totalStr": "79(9)",
           "firstStr": "11(2)"
         },
         {
@@ -614,12 +614,12 @@
       ],
       "razem": {
         "totalConfirmed": 386,
-        "totalUnconfirmed": 61,
-        "totalAll": 447,
+        "totalUnconfirmed": 66,
+        "totalAll": 452,
         "firstConfirmed": 98,
-        "firstUnconfirmed": 9,
+        "firstUnconfirmed": 10,
         "totalStr": "386*",
-        "firstStr": "98(9)"
+        "firstStr": "98(10)"
       }
     },
     "Technikum Nr 4 (CKZiUnr 2) w Raciborzu": {
@@ -674,33 +674,33 @@
           "section": "1e Technik elektryk",
           "places": 32,
           "totalConfirmed": 164,
-          "totalUnconfirmed": 3,
-          "totalAll": 167,
+          "totalUnconfirmed": 4,
+          "totalAll": 168,
           "firstConfirmed": 44,
-          "firstUnconfirmed": 0,
-          "totalStr": "164(3)",
-          "firstStr": "44(0)"
+          "firstUnconfirmed": 1,
+          "totalStr": "164(4)",
+          "firstStr": "44(1)"
         },
         {
           "section": "1f-b Technik oze",
           "places": 16,
           "totalConfirmed": 48,
-          "totalUnconfirmed": 3,
-          "totalAll": 51,
+          "totalUnconfirmed": 4,
+          "totalAll": 52,
           "firstConfirmed": 5,
           "firstUnconfirmed": 0,
-          "totalStr": "48(3)",
+          "totalStr": "48(4)",
           "firstStr": "5(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 286,
-        "totalUnconfirmed": 22,
-        "totalAll": 308,
+        "totalUnconfirmed": 24,
+        "totalAll": 310,
         "firstConfirmed": 136,
-        "firstUnconfirmed": 5,
+        "firstUnconfirmed": 6,
         "totalStr": "286*",
-        "firstStr": "136(5)"
+        "firstStr": "136(6)"
       }
     }
   }
