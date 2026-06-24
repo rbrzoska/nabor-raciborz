@@ -3,12 +3,12 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-24T17:26:13.630Z",
+    "scrapedAt": "2026-06-24T19:09:24.301Z",
     "schoolCount": 8,
     "totalPlaces": 1056,
     "totalConfirmed": 2542,
-    "totalUnconfirmed": 72,
-    "totalCandidates": 2614
+    "totalUnconfirmed": 80,
+    "totalCandidates": 2622
   },
   "schools": {
     "Branżowa Szkoła I Stopnia Nr 2 (CKZiU nr 1) w Raciborzu": {
@@ -203,11 +203,11 @@
           "section": "1ba biologia, chemia, język angielski",
           "places": 16,
           "totalConfirmed": 178,
-          "totalUnconfirmed": 2,
-          "totalAll": 180,
+          "totalUnconfirmed": 3,
+          "totalAll": 181,
           "firstConfirmed": 32,
           "firstUnconfirmed": 1,
-          "totalStr": "178(2)",
+          "totalStr": "178(3)",
           "firstStr": "32(1)"
         },
         {
@@ -225,33 +225,33 @@
           "section": "1e biologia, j. polski, j. angielski",
           "places": 32,
           "totalConfirmed": 223,
-          "totalUnconfirmed": 2,
-          "totalAll": 225,
+          "totalUnconfirmed": 3,
+          "totalAll": 226,
           "firstConfirmed": 26,
           "firstUnconfirmed": 1,
-          "totalStr": "223(2)",
+          "totalStr": "223(3)",
           "firstStr": "26(1)"
         },
         {
           "section": "1mb matematyka, biologia, język angielski",
           "places": 16,
           "totalConfirmed": 156,
-          "totalUnconfirmed": 1,
-          "totalAll": 157,
+          "totalUnconfirmed": 2,
+          "totalAll": 158,
           "firstConfirmed": 9,
-          "firstUnconfirmed": 0,
-          "totalStr": "156(1)",
-          "firstStr": "9(0)"
+          "firstUnconfirmed": 1,
+          "totalStr": "156(2)",
+          "firstStr": "9(1)"
         },
         {
           "section": "1mg matematyka, geografia, język angielski",
           "places": 16,
           "totalConfirmed": 161,
-          "totalUnconfirmed": 2,
-          "totalAll": 163,
+          "totalUnconfirmed": 3,
+          "totalAll": 164,
           "firstConfirmed": 21,
           "firstUnconfirmed": 0,
-          "totalStr": "161(2)",
+          "totalStr": "161(3)",
           "firstStr": "21(0)"
         },
         {
@@ -268,12 +268,12 @@
       ],
       "razem": {
         "totalConfirmed": 467,
-        "totalUnconfirmed": 14,
-        "totalAll": 481,
+        "totalUnconfirmed": 18,
+        "totalAll": 485,
         "firstConfirmed": 208,
-        "firstUnconfirmed": 2,
+        "firstUnconfirmed": 3,
         "totalStr": "467*",
-        "firstStr": "208(2)"
+        "firstStr": "208(3)"
       }
     },
     "I Liceum Ogólnokształcące (ZSO Nr 1) w Raciborzu": {
@@ -284,11 +284,11 @@
           "section": "1B biologiczna (biol-chem-ang)",
           "places": 32,
           "totalConfirmed": 192,
-          "totalUnconfirmed": 2,
-          "totalAll": 194,
+          "totalUnconfirmed": 3,
+          "totalAll": 195,
           "firstConfirmed": 40,
           "firstUnconfirmed": 1,
-          "totalStr": "192(2)",
+          "totalStr": "192(3)",
           "firstStr": "40(1)"
         },
         {
@@ -339,40 +339,40 @@
           "section": "1J językowa (geo-ang-franc/niem)",
           "places": 32,
           "totalConfirmed": 154,
-          "totalUnconfirmed": 1,
-          "totalAll": 155,
+          "totalUnconfirmed": 2,
+          "totalAll": 156,
           "firstConfirmed": 31,
           "firstUnconfirmed": 1,
-          "totalStr": "154(1)",
+          "totalStr": "154(2)",
           "firstStr": "31(1)"
         },
         {
           "section": "1MDm medyczna (biol-mat-ang)",
           "places": 16,
           "totalConfirmed": 181,
-          "totalUnconfirmed": 0,
-          "totalAll": 181,
+          "totalUnconfirmed": 1,
+          "totalAll": 182,
           "firstConfirmed": 18,
           "firstUnconfirmed": 0,
-          "totalStr": "181(0)",
+          "totalStr": "181(1)",
           "firstStr": "18(0)"
         },
         {
           "section": "1MDp medyczna (biol-pol-ang)",
           "places": 16,
           "totalConfirmed": 217,
-          "totalUnconfirmed": 1,
-          "totalAll": 218,
+          "totalUnconfirmed": 2,
+          "totalAll": 219,
           "firstConfirmed": 30,
           "firstUnconfirmed": 0,
-          "totalStr": "217(1)",
+          "totalStr": "217(2)",
           "firstStr": "30(0)"
         }
       ],
       "razem": {
         "totalConfirmed": 487,
-        "totalUnconfirmed": 11,
-        "totalAll": 498,
+        "totalUnconfirmed": 15,
+        "totalAll": 502,
         "firstConfirmed": 196,
         "firstUnconfirmed": 5,
         "totalStr": "487*",
