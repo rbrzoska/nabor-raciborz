@@ -3,11 +3,11 @@
     "source": "https://slaskie.edu.com.pl/kandydat/app/candidates_statistics.xhtml",
     "city": "Racibórz",
     "cityCode": "0942469",
-    "scrapedAt": "2026-06-25T07:40:08.420Z",
+    "scrapedAt": "2026-06-25T10:36:41.652Z",
     "schoolCount": 7,
     "totalPlaces": 896,
-    "totalConfirmed": 2122,
-    "totalUnconfirmed": 78,
+    "totalConfirmed": 2123,
+    "totalUnconfirmed": 77,
     "totalCandidates": 2200
   },
   "schools": {
@@ -327,13 +327,13 @@
         {
           "section": "1HDw [O] ang-pol-wos (ang-hisz,wlo)",
           "places": 16,
-          "totalConfirmed": 150,
-          "totalUnconfirmed": 4,
+          "totalConfirmed": 151,
+          "totalUnconfirmed": 3,
           "totalAll": 154,
-          "firstConfirmed": 27,
-          "firstUnconfirmed": 2,
-          "totalStr": "150(4)",
-          "firstStr": "27(2)"
+          "firstConfirmed": 28,
+          "firstUnconfirmed": 1,
+          "totalStr": "151(3)",
+          "firstStr": "28(1)"
         },
         {
           "section": "1J językowa (geo-ang-franc/niem)",
@@ -370,13 +370,13 @@
         }
       ],
       "razem": {
-        "totalConfirmed": 487,
-        "totalUnconfirmed": 15,
+        "totalConfirmed": 488,
+        "totalUnconfirmed": 14,
         "totalAll": 502,
-        "firstConfirmed": 196,
-        "firstUnconfirmed": 5,
-        "totalStr": "487*",
-        "firstStr": "196(5)"
+        "firstConfirmed": 197,
+        "firstUnconfirmed": 4,
+        "totalStr": "488*",
+        "firstStr": "197(4)"
       }
     },
     "Liceum Sztuk Plastycznych (ZSO Nr 1) w Raciborzu": {
